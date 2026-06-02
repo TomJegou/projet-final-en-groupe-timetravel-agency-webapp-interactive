@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { Geist, Cormorant_Garamond } from "next/font/google";
 import { Toaster } from "sonner";
+import { Navbar } from "@/components/layout/Navbar";
+import { Footer } from "@/components/layout/Footer";
 import "./globals.css";
 
 const sans = Geist({
@@ -52,7 +54,9 @@ export default function RootLayout({
       suppressHydrationWarning
     >
       <body className="min-h-full bg-ink text-ivory selection:bg-gold/30 selection:text-ivory">
-        {children}
+        <Navbar />
+        <main className="flex flex-col">{children}</main>
+        <Footer />
         <Toaster
           position="bottom-center"
           theme="dark"
