@@ -39,17 +39,18 @@ export function SplitText({
       {words.map((word, wordIdx) => (
         <span
           key={`${word}-${wordIdx}`}
-          className="inline-block overflow-hidden align-bottom"
+          className="inline-block align-baseline"
           aria-hidden
         >
           <motion.span
             className="inline-block"
             variants={{
-              hidden: { y: "110%" },
+              hidden: { y: 24, opacity: 0 },
               visible: {
-                y: "0%",
+                y: 0,
+                opacity: 1,
                 transition: {
-                  duration: 0.9,
+                  duration: 0.75,
                   ease: [0.22, 1, 0.36, 1],
                 },
               },
