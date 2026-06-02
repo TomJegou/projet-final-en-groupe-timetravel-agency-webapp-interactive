@@ -1,26 +1,160 @@
 @import "tailwindcss";
 
+@theme {
+  /* Premium palette: deep ink, champagne gold, ivory */
+  --color-ink: #0b0907;
+  --color-ink-soft: #14110d;
+  --color-ink-veil: #1c1813;
+
+  --color-ivory: #f5efe6;
+  --color-ivory-dim: #d8cfbf;
+  --color-ivory-mute: #9a9082;
+
+  --color-gold: #c9a55b;
+  --color-gold-bright: #e6c787;
+  --color-gold-dim: #8a7440;
+
+  --color-copper: #b87333;
+  --color-bronze: #6e4f2a;
+
+  /* Era accents (subtle) */
+  --color-paris: #c9a55b;
+  --color-cretace: #d4a373;
+  --color-florence: #c08552;
+
+  --font-sans: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-serif), ui-serif, Georgia, serif;
+
+  /* Custom radii / shadows */
+  --radius-card: 1.25rem;
+  --shadow-glow: 0 0 80px -20px rgba(201, 165, 91, 0.35);
+  --shadow-card: 0 30px 60px -30px rgba(0, 0, 0, 0.6);
+
+  /* Animation defaults */
+  --ease-premium: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  color-scheme: dark;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html,
+body {
+  background: var(--color-ink);
+  color: var(--color-ivory);
+  font-family: var(--font-sans);
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  /* Subtle film-grain & vignette overlay for premium feel */
+  background-image:
+    radial-gradient(
+      ellipse at 50% 0%,
+      rgba(201, 165, 91, 0.06) 0%,
+      transparent 60%
+    ),
+    radial-gradient(
+      ellipse at 50% 100%,
+      rgba(11, 9, 7, 1) 0%,
+      transparent 70%
+    );
+  background-attachment: fixed;
+}
+
+/* Heading utility classes via @layer */
+@layer base {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
+    font-family: var(--font-serif);
+    font-weight: 500;
+    letter-spacing: -0.01em;
+  }
+
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  ::-webkit-scrollbar-track {
+    background: var(--color-ink);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: var(--color-ink-veil);
+    border-radius: 8px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--color-bronze);
+  }
+
+  /* Focus ring (a11y, premium) */
+  :focus-visible {
+    outline: 1px solid var(--color-gold);
+    outline-offset: 3px;
+    border-radius: 4px;
+  }
+}
+
+@layer utilities {
+  .font-serif {
+    font-family: var(--font-serif);
+  }
+  .font-sans {
+    font-family: var(--font-sans);
+  }
+
+  /* Hairline border that feels luxe */
+  .border-hairline {
+    border: 1px solid rgba(201, 165, 91, 0.15);
+  }
+
+  /* Glass surface */
+  .glass {
+    background: rgba(20, 17, 13, 0.6);
+    backdrop-filter: blur(20px) saturate(140%);
+    -webkit-backdrop-filter: blur(20px) saturate(140%);
+    border: 1px solid rgba(245, 239, 230, 0.06);
+  }
+
+  /* Gold gradient text */
+  .text-gold-gradient {
+    background: linear-gradient(135deg, #e6c787 0%, #c9a55b 50%, #8a7440 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+
+  /* Premium animated underline on hover */
+  .link-underline {
+    position: relative;
+  }
+  .link-underline::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+    width: 100%;
+    height: 1px;
+    background: currentColor;
+    transform-origin: right center;
+    transform: scaleX(0);
+    transition: transform 0.5s var(--ease-premium);
+  }
+  .link-underline:hover::after {
+    transform-origin: left center;
+    transform: scaleX(1);
+  }
+
+  /* Reduce motion respect */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
 }
