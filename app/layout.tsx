@@ -3,6 +3,7 @@ import { Geist, Cormorant_Garamond } from "next/font/google";
 import { Toaster } from "sonner";
 import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
+import { ChatWidget } from "@/components/chat/ChatWidget";
 import "./globals.css";
 
 const sans = Geist({
@@ -57,6 +58,7 @@ export default function RootLayout({
         <Navbar />
         <main className="flex flex-col">{children}</main>
         <Footer />
+        <ChatWidget />
         <Toaster
           position="bottom-center"
           theme="dark"
