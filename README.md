@@ -1,6 +1,5 @@
 # TimeTravel Agency — Webapp Interactive
 
-> Projet final en groupe (4 personnes) — rendu individuel sur Moodle.
 > Webapp moderne et immersive mettant en scène l'agence **TimeTravel Agency** et ses 3 destinations historiques :
 > **Paris 1889**, **Crétacé (-65M années)** et **Renaissance Florence 1504**.
 
@@ -255,7 +254,6 @@ Cette section documente les **instructions données à l'assistant de développe
 
 ---
 
-## Équipe
+## Auteur du projet
 
-Projet réalisé en groupe de 4 personnes dans le cadre du module final.
 Rendu individuel sur Moodle — **auteur du dépôt et de l'implémentation documentée : Tom JEGOU**.
