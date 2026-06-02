@@ -2,7 +2,7 @@
 
 import * as DialogPrimitive from "@radix-ui/react-dialog";
 import { X } from "lucide-react";
-import { motion, AnimatePresence } from "motion/react";
+import { motion } from "motion/react";
 import { forwardRef, type ComponentPropsWithoutRef } from "react";
 import { cn } from "@/lib/utils";
 
@@ -49,44 +49,36 @@ export const DialogContent = forwardRef<
     ref,
   ) => {
     return (
-      <DialogPrimitive.Portal forceMount>
-        <AnimatePresence>
-          <DialogPrimitive.Overlay key="dialog-overlay" forceMount asChild>
-            <motion.div
-              {...overlayMotion}
-              className="fixed inset-0 z-50 bg-ink/80 backdrop-blur-sm"
-            />
-          </DialogPrimitive.Overlay>
-          <DialogPrimitive.Content
-            key="dialog-content"
-            ref={ref}
-            forceMount
-            asChild
-            {...props}
+      <DialogPrimitive.Portal>
+        <DialogPrimitive.Overlay asChild>
+          <motion.div
+            {...overlayMotion}
+            className="fixed inset-0 z-50 bg-ink/80 backdrop-blur-sm"
+          />
+        </DialogPrimitive.Overlay>
+        <DialogPrimitive.Content ref={ref} asChild {...props}>
+          <motion.div
+            {...contentMotion}
+            className={cn(
+              "fixed z-50 glass rounded-3xl shadow-card",
+              size === "panel"
+                ? sizeStyles.panel
+                : "left-1/2 top-1/2 w-[calc(100vw-2rem)] -translate-x-1/2 -translate-y-1/2",
+              size !== "panel" && sizeStyles[size],
+              className,
+            )}
           >
-            <motion.div
-              {...contentMotion}
-              className={cn(
-                "fixed z-50 glass rounded-3xl shadow-card",
-                size === "panel"
-                  ? sizeStyles.panel
-                  : "left-1/2 top-1/2 w-[calc(100vw-2rem)] -translate-x-1/2 -translate-y-1/2",
-                size !== "panel" && sizeStyles[size],
-                className,
-              )}
-            >
-              {children}
-              {showClose && (
-                <DialogPrimitive.Close
-                  className="absolute right-5 top-5 rounded-full p-2 text-ivory-mute transition-colors hover:bg-ink-veil hover:text-gold"
-                  aria-label="Fermer"
-                >
-                  <X className="h-4 w-4" />
-                </DialogPrimitive.Close>
-              )}
-            </motion.div>
-          </DialogPrimitive.Content>
-        </AnimatePresence>
+            {children}
+            {showClose && (
+              <DialogPrimitive.Close
+                className="absolute right-5 top-5 rounded-full p-2 text-ivory-mute transition-colors hover:bg-ink-veil hover:text-gold"
+                aria-label="Fermer"
+              >
+                <X className="h-4 w-4" />
+              </DialogPrimitive.Close>
+            )}
+          </motion.div>
+        </DialogPrimitive.Content>
       </DialogPrimitive.Portal>
     );
   },
