@@ -19,11 +19,11 @@ export function Reveal({
   const MotionTag = motion[as];
   return (
     <MotionTag
-      initial={{ opacity: 0, clipPath: "inset(0 0 100% 0)" }}
-      whileInView={{ opacity: 1, clipPath: "inset(0 0 0% 0)" }}
+      initial={{ opacity: 0, y: 18 }}
+      whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true, amount: 0.3 }}
       transition={{
-        duration: 1.1,
+        duration: 0.9,
         ease: [0.22, 1, 0.36, 1],
         delay,
       }}

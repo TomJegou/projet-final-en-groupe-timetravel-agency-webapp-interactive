@@ -59,14 +59,17 @@ export default async function DestinationPage({ params }: PageProps) {
     <article>
       {/* Hero */}
       <section className="relative h-[85vh] min-h-[640px] w-full overflow-hidden">
-        <Image
-          src={destination.heroImage.src}
-          alt={destination.heroImage.alt}
-          fill
-          preload
-          sizes="100vw"
-          quality={85}
-          className="object-cover"
+        <video
+          key={destination.slug}
+          src={destination.videoSrc}
+          autoPlay
+          loop
+          muted
+          playsInline
+          preload="metadata"
+          poster={destination.heroImage.src}
+          className="absolute inset-0 h-full w-full object-cover"
+          aria-label={`Vidéo immersive de ${destination.name}`}
         />
         <div className="absolute inset-0 bg-gradient-to-b from-ink/50 via-ink/30 to-ink" />
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,transparent_30%,rgba(11,9,7,0.7)_90%)]" />
