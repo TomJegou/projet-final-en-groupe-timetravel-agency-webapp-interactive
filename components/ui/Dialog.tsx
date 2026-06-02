@@ -51,13 +51,19 @@ export const DialogContent = forwardRef<
     return (
       <DialogPrimitive.Portal forceMount>
         <AnimatePresence>
-          <DialogPrimitive.Overlay forceMount asChild>
+          <DialogPrimitive.Overlay key="dialog-overlay" forceMount asChild>
             <motion.div
               {...overlayMotion}
               className="fixed inset-0 z-50 bg-ink/80 backdrop-blur-sm"
             />
           </DialogPrimitive.Overlay>
-          <DialogPrimitive.Content ref={ref} forceMount asChild {...props}>
+          <DialogPrimitive.Content
+            key="dialog-content"
+            ref={ref}
+            forceMount
+            asChild
+            {...props}
+          >
             <motion.div
               {...contentMotion}
               className={cn(

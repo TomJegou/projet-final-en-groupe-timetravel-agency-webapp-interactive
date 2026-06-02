@@ -6,6 +6,7 @@ import { useState } from "react";
 import {
   Dialog,
   DialogContent,
+  DialogDescription,
   DialogTitle,
 } from "@/components/ui/Dialog";
 import type { DestinationImage } from "@/lib/destinations";
@@ -76,6 +77,9 @@ export function DestinationGallery({ images }: Props) {
           <DialogTitle className="sr-only">
             {openIndex !== null ? images[openIndex].alt : "Galerie"}
           </DialogTitle>
+          <DialogDescription className="sr-only">
+            Visionneuse d&apos;image en plein écran de la destination.
+          </DialogDescription>
           <AnimatePresence mode="wait">
             {openIndex !== null && (
               <motion.div
