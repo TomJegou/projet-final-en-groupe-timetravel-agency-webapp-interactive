@@ -4,7 +4,7 @@ import { zodResolver } from "@hookform/resolvers/zod";
 import { ArrowLeft, ArrowRight, Check, Minus, Plus } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";
 import { useState } from "react";
-import { Controller, useForm } from "react-hook-form";
+import { Controller, useForm, useWatch } from "react-hook-form";
 import { toast } from "sonner";
 import { destinations, type DestinationSlug } from "@/lib/destinations";
 import {
@@ -28,13 +28,13 @@ type Props = {
 export function BookingForm({ defaultDestination }: Props) {
   const [step, setStep] = useState(0);
   const [submitted, setSubmitted] = useState(false);
+  const [bookingReference, setBookingReference] = useState<string>();
 
   const {
     control,
     register,
     handleSubmit,
     trigger,
-    watch,
     formState: { errors, isSubmitting },
   } = useForm<BookingValues>({
     resolver: zodResolver(bookingSchema),
@@ -46,7 +46,7 @@ export function BookingForm({ defaultDestination }: Props) {
     mode: "onChange",
   });
 
-  const watched = watch();
+  const watched = useWatch({ control });
 
   const next = async () => {
     const fields = stepFields[step];
@@ -62,6 +62,7 @@ export function BookingForm({ defaultDestination }: Props) {
   const onSubmit = async (values: BookingValues) => {
     await new Promise((r) => setTimeout(r, 800));
     console.info("Booking submitted", values);
+    setBookingReference(`TT-${crypto.randomUUID().slice(0, 6).toUpperCase()}`);
     toast.success("Votre demande a bien été reçue.");
     setSubmitted(true);
     setStep(STEPS.length - 1);
@@ -143,7 +144,13 @@ export function BookingForm({ defaultDestination }: Props) {
             {step === 2 && (
               <StepDetails register={register} errors={errors} />
             )}
-            {step === 3 && <StepReview values={watched} submitted={submitted} />}
+            {step === 3 && (
+              <StepReview
+                values={watched}
+                submitted={submitted}
+                bookingReference={bookingReference}
+              />
+            )}
           </motion.div>
         </AnimatePresence>
 
@@ -375,9 +382,11 @@ function StepDetails({
 function StepReview({
   values,
   submitted,
+  bookingReference,
 }: {
   values: Partial<BookingValues>;
   submitted: boolean;
+  bookingReference?: string;
 }) {
   const destination = destinations.find((d) => d.slug === values.destination);
 
@@ -429,8 +438,7 @@ function StepReview({
             <span className="text-gold">{destination?.name}</span>.
           </p>
           <p className="mt-8 text-[10px] uppercase tracking-[0.3em] text-ivory-mute">
-            Référence · TT-
-            {Math.random().toString(36).slice(2, 8).toUpperCase()}
+            Référence · {bookingReference ?? "TT-EN-ATTENTE"}
           </p>
         </motion.div>
       </div>
