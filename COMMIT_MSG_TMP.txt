@@ -1,7 +1,0 @@
-feat(phase-1): reusable UI primitives and layout shell
-
-- UI primitives: Button (4 variants, 3 sizes), Badge, Section wrapper
-- Dialog component built on Radix with motion-powered animations and a side-panel size
-- Motion wrappers: FadeIn, Reveal (clip-path), Stagger/StaggerItem, SplitText (word-by-word reveal)
-- Layout: sticky animated Navbar with scroll-driven backdrop, Footer with destinations links
-- Wire Navbar and Footer into the root layout

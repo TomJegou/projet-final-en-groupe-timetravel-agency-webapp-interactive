@@ -37,6 +37,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+# git commit message scratch file
+COMMIT_MSG_TMP.txt
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
