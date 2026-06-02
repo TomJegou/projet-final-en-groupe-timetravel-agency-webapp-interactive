@@ -1,0 +1,84 @@
+{
+  "prompt_config": {
+    "aspect_ratio": "16:9",
+    "orientation": "horizontal",
+    "theme": "Paris 1889 - Exposition Universelle",
+    "style": "Impressionist realism with autochrome photography texture"
+  },
+  "main_prompt": "A breathtaking panoramic view of Paris 1889 during the Exposition Universelle, 16:9 horizontal format, showcasing the newly inaugurated Eiffel Tower painted in Rouge Venise (dark reddish-brown at the summit with gradient towards the base), the massive Galerie des Machines with its blue-grey steel and glass cathedral-like vault, Haussmannian buildings with cream limestone facades and grey-blue zinc roofs, bustling cobblestone streets reflecting gaslight, crowds in Belle Époque attire, volumetric lighting with warm gaslight contrasting cold electric arc lights, morning fog over the Seine, industrial revolution atmosphere with steam and coal smoke, impressionist realism style with photographic grain and slight vignetting",
+  
+  "detailed_elements": {
+    "architecture": {
+      "eiffel_tower": "Newly built Eiffel Tower painted in Rouge Venise (dark red-brown color), gradient paint from dark at top to lighter at base, raw industrial modernity symbol, iron lattice structure clearly visible",
+      "galerie_des_machines": "Massive industrial cathedral, blue-grey steel framework, enormous glass vault, largest arched building of the era, imposing silhouette",
+      "haussmannian_buildings": "Cream-colored limestone buildings, grey-blue zinc mansard roofs, ornate wrought-iron balconies, classic Parisian architecture",
+      "street_furniture": "Luisant cobblestones, green Morris columns with colorful posters, newspaper kiosks, gas street lamps"
+    },
+    
+    "fashion_1889": {
+      "women": "Ladies in Belle Époque S-silhouette dresses, tightly corseted waists, long flowing skirts without large bustles, lace parasols, elaborate hats adorned with feathers and flowers, long gloves, elegant posture",
+      "men": "Gentlemen in dark three-piece suits and frock coats, obligatory hats (top hats for bourgeoisie, bowler hats or caps for workers), handlebar mustaches or full beards, formal Victorian gentleman style",
+      "crowd": "Mixed social classes, well-dressed bourgeoisie visiting the Exposition, workers in rough vests and work blouses, authentic 1889 fashion accuracy"
+    },
+    
+    "color_palette": {
+      "dominant_colors": ["sepia tones", "zinc grey", "limestone beige", "brick red (Eiffel Tower)", "bottle green (urban furniture)", "warm gaslight yellow", "cold electric blue-white"],
+      "color_description": "Muted historical palette, sepia, grey zinc, stone beige, Rouge Venise brick red, bottle green, avoiding modern digital brightness"
+    },
+    
+    "visual_texture": {
+      "film_grain": "Light photographic grain simulating old film stock",
+      "vignetting": "Subtle vignette effect on edges",
+      "finish": "Autochrome photography aesthetic with slightly grainy pastel tones, impressionist realism à la Gustave Caillebotte and Jean Béraud"
+    },
+    
+    "lighting_atmosphere": {
+      "gaslight": "Warm yellow flickering gaslight illuminating streets, soft golden glow, traditional lighting",
+      "electric_light": "Cold blue-white electric arc lamps at the Exposition Universelle, harsh modern illumination, technological contrast",
+      "natural_light": "Foggy morning light, atmospheric haze, volumetric lighting through steam and coal smoke",
+      "atmospheric_effects": "Steam vapor, coal smoke from trains and factories in background, mist over the Seine river, industrial revolution atmosphere"
+    }
+  },
+  
+  "negative_prompt": "modern clothing, contemporary fashion, cars, automobiles, modern buildings, skyscrapers, neon signs, plastic materials, digital aesthetic, oversaturated colors, bronze Eiffel Tower, wrong historical period, Victorian England fashion, crinolines, large bustles, anachronistic elements, modern photography style, clean air, 21st century elements",
+  
+  "style_keywords": [
+    "1889 Paris",
+    "Exposition Universelle",
+    "Belle Époque",
+    "Industrial Revolution",
+    "Impressionist realism",
+    "Gustave Caillebotte style",
+    "Jean Béraud style",
+    "Autochrome photography",
+    "Gaslight era",
+    "Victorian era France",
+    "Historical accuracy",
+    "Period-correct fashion",
+    "Bustling cobblestone streets",
+    "Volumetric fog",
+    "Steam and smoke atmosphere",
+    "Sepia and zinc tones",
+    "Film grain texture",
+    "Cinematic composition"
+  ],
+  
+  "technical_parameters": {
+    "recommended_settings": {
+      "aspect_ratio": "16:9",
+      "quality": "high",
+      "style_strength": "medium-high for historical accuracy",
+      "detail_level": "high for architecture and fashion details"
+    }
+  },
+  
+  "complete_prompt_string": "Panoramic view of Paris 1889 during Exposition Universelle, 16:9 horizontal format, featuring the newly inaugurated Eiffel Tower painted in Rouge Venise red-brown with gradient, massive Galerie des Machines with blue-grey steel and glass vault, Haussmannian limestone buildings with zinc roofs and wrought-iron balconies, bustling cobblestone streets with reflections, crowds in authentic 1889 Belle Époque fashion, women in S-silhouette dresses with corseted waists wearing elaborate feathered hats and carrying lace parasols, men in three-piece suits and frock coats wearing top hats and bowler hats with handlebar mustaches, warm yellow gaslight contrasting with cold blue-white electric arc lights from the Exposition, foggy morning atmosphere, volumetric lighting through steam and coal smoke, mist over the Seine, green Morris columns, newspaper kiosks, sepia and zinc grey color palette with bottle green accents, impressionist realism style à la Gustave Caillebotte and Jean Béraud, autochrome photography texture with light film grain and subtle vignetting, industrial revolution atmosphere, historically accurate, cinematic composition, bustling Belle Époque Paris street scene",
+  
+  "usage_notes": {
+    "for_midjourney": "Use the complete_prompt_string with --ar 16:9 --style raw --v 6",
+    "for_stable_diffusion": "Use main_prompt + detailed_elements sections, add negative_prompt",
+    "for_dalle": "Use complete_prompt_string, DALL-E 3 handles complex descriptions well",
+    "for_leonardo": "Use main_prompt with style_keywords, set aspect ratio to 16:9"
+  }
+}
+

@@ -1,0 +1,137 @@
+{
+  "prompt_config": {
+    "aspect_ratio": "1:1",
+    "orientation": "square",
+    "format": "Instagram travel marketing optimized",
+    "style": "Travel agency attraction promotional imagery",
+    "theme": "Late Cretaceous Period - Premium Time Travel Safari Experience",
+    "photography_style": "Aspirational travel advertising, adventure tourism, Instagram-optimized",
+    "quality": "8K ultra detailed, commercial campaign quality"
+  },
+  "main_prompt": "Eye-catching travel agency promotional image for premium Cretaceous safari, 1:1 square format for Instagram, luxury tourism campaign style, excited tourists in modern safari vehicle with transparent dome experiencing thrilling T-Rex encounter safely, or beautiful observation platform with families watching Triceratops herd peacefully, spectacular golden hour lighting creating magical prehistoric atmosphere, lush fern-covered landscape with ancient trees, vibrant appealing colors, sense of wonder and safety combined, luxury adventure tourism aesthetic, scientifically accurate dinosaurs presented as accessible vacation destination, square composition perfect for Instagram with both wildlife spectacle and tourist comfort visible, aspirational lifestyle imagery, 8K detailed, travel marketing making viewers want to book immediately",
+  
+  "composition_notes": {
+    "instagram_optimization": "Square 1:1 travel marketing format for maximum Instagram feed impact, showing both incredible dinosaur attraction AND tourist experience",
+    "framing_options": [
+      "Option 1: Safari vehicle with transparent dome in foreground, excited tourists visible inside, T-Rex or Triceratops impressive but safe in frame, balanced composition",
+      "Option 2: Observation platform with tourists watching dinosaurs below, beautiful prehistoric vista, showing comfort and spectacle",
+      "Option 3: Tourist taking selfie-style photo with dinosaur in background (from safe distance), relatable Instagram moment",
+      "Option 4: Family group on platform pointing at Quetzalcoatlus flying overhead, wonder and education combined"
+    ],
+    "square_appeal": "Centered dynamic composition that works perfectly in Instagram grid, immediately eye-catching with both adventure and safety appeal"
+  },
+  
+  "detailed_elements": {
+    "travel_agency_concept": {
+      "instagram_marketing": "Premium time travel safari presented as ultimate bucket-list Instagram-worthy experience, luxury adventure tourism for social media generation",
+      "target_audience": "Instagram users interested in travel, adventure, unique experiences, families, dinosaur enthusiasts, luxury lifestyle",
+      "selling_points": "Once-in-a-lifetime photo opportunity, perfectly safe, expert guided, comfortable, educational, shareable experience",
+      "attraction_appeal": "Show spectacular dinosaur encounters AND quality comfortable tourist facilities, balance thrill with safety"
+    },
+    
+    "tourist_experience_square": {
+      "safari_vehicles": "Modern sleek observation vehicles with transparent protective domes, tourists visible inside with cameras and excited expressions, high-tech comfortable, professional guides pointing out features",
+      "viewing_platforms": "Elegant elevated platforms with safety railings, comfortable seating, tourists in modern safari casual wear (khaki, earth tones, sun hats), diverse families and couples enjoying experience",
+      "tourist_authenticity": "Real people visibly excited and taking photos, genuine wonder on faces, modern comfortable outdoor clothing, showing this is achievable real vacation not fantasy",
+      "safety_professional": "All elements show secure professional operation - reinforced viewing areas, expert guides in uniform, safety equipment, adventure is thrilling but controlled"
+    },
+    
+    "dinosaur_stars": {
+      "tyrannosaurus_rex": "T-Rex as iconic star attraction at safe impressive distance, detailed realistic scaly skin, lips covering teeth, brown-grey with display colors, magnificent and powerful but not threatening tourists",
+      "triceratops": "Triceratops herd as gentle giants, impressive horns and frill, peaceful grazing making them accessible attraction, family groups visible creating appeal",
+      "quetzalcoatlus": "Giant pterosaurs flying overhead or landing creating aerial spectacle, impressive wingspan, unique photo opportunity",
+      "presentation": "Dinosaurs shown in natural behavior at perfect viewing distance, creating wow factor while showing tourists are completely safe"
+    },
+    
+    "prehistoric_paradise": {
+      "landscape_beauty": "Lush beautiful fern-covered plains (no grass), ancient conifers, Cycads, flowering Magnolias, presented as stunning exotic destination not scary wilderness",
+      "welcoming_atmosphere": "Warm golden hour light, beautiful colors, clear visibility, comfortable climate, inviting paradise aesthetic"
+    },
+    
+    "instagram_colors": {
+      "vibrant_feed_appeal": "Rich vibrant but natural colors that pop in Instagram feeds - lush greens, warm golds, beautiful sky tones, impressive dinosaur colors",
+      "balanced_palette": "Visually harmonious color scheme that looks professional and appealing, commercial quality color grading"
+    }
+  },
+  
+  "negative_prompt": "scary threatening, dangerous atmosphere, tourists in danger, attacking dinosaurs, dark ominous, horror aesthetic, panic fear, damaged vehicles, uncomfortable conditions, budget tourism, circus presentation, anachronistic dinosaurs, cartoon style, unrealistic colors, poor quality, blurry, aggressive marketing, cheesy tourist trap, fake manipulated, horizontal composition, stretched image",
+  
+  "style_keywords": [
+    "Travel agency promotional",
+    "Instagram marketing",
+    "Luxury safari tourism",
+    "Square composition",
+    "Adventure attraction",
+    "Premium experience",
+    "Tourist photography",
+    "Safe wildlife viewing",
+    "Golden hour beauty",
+    "Family adventure",
+    "Bucket-list experience",
+    "Social media optimized",
+    "Aspirational travel",
+    "Educational tourism",
+    "Dinosaur encounters",
+    "Once-in-a-lifetime",
+    "Commercial quality",
+    "Booking appeal"
+  ],
+  
+  "technical_parameters": {
+    "recommended_settings": {
+      "aspect_ratio": "1:1",
+      "resolution": "4320x4320 (8K square)",
+      "instagram_specs": "Minimum 1080x1080px",
+      "quality": "maximum - commercial campaign standard"
+    }
+  },
+  
+  "complete_prompt_string": "Eye-catching travel agency promotional image for premium Cretaceous Period time travel safari, 1:1 square Instagram format, luxury tourism campaign style, modern sleek safari observation vehicle with transparent protective dome, excited diverse tourists visible inside with cameras showing genuine excitement taking photos, massive Tyrannosaurus Rex with detailed realistic scaly skin lips covering teeth brown-grey coloration at safe impressive distance outside OR elegant wooden observation platform with safety railings where families and couples in modern safari casual wear (khaki earth tones sun hats) watch Triceratops herd with three horns and massive frills grazing peacefully below, professional safari guide in uniform pointing and explaining, perhaps Quetzalcoatlus pterosaur flying overhead, spectacular golden hour lighting casting warm amber glow creating magical prehistoric atmosphere, lush beautiful fern-covered landscape (no grass) looking exotic and inviting, ancient Araucaria conifers and Cycads, early Magnolia flowers, beautiful peachy-pink golden sky, vibrant appealing natural colors, rich lush greens, warm earth tones, Instagram-optimized color grading, sense of wonder excitement adventure balanced with safety comfort and professional operation, luxury adventure tourism aesthetic, scientifically accurate Hell Creek dinosaurs presented as accessible exciting vacation destination, square composition showing both spectacular wildlife encounter and quality tourist experience facilities, welcoming inviting imagery, tourists in comfortable modern outdoor clothing, aspirational lifestyle appeal, family-friendly educational adventure, once-in-a-lifetime bucket-list experience, 8K ultra detailed showing incredible photo opportunities, commercial travel marketing quality, perfect for Instagram feed, makes viewers immediately want to book this extraordinary time travel safari, balanced showing wild nature and comfortable secure tourism, ultimate prehistoric wildlife adventure destination",
+  
+  "alternative_prompts": {
+    "option_1_vehicle_square": "Travel marketing Instagram, 1:1 square, safari vehicle dome with tourists inside excited, T-Rex at safe distance showing impressive detail, golden hour beautiful lighting, luxury adventure style, commercial quality, booking appeal, 8K detailed",
+    
+    "option_2_platform_square": "Premium tourism promotional, 1:1 square Instagram, observation platform with family watching Triceratops herd, modern safari casual wear, professional guide, beautiful prehistoric landscape, aspirational travel aesthetic, educational tourism, commercial campaign quality",
+    
+    "option_3_instagram_moment": "Travel advertising, 1:1 square, tourist taking photo with dinosaur visible safely in background, relatable Instagram moment, beautiful golden light, exotic prehistoric destination, luxury safari experience, makes viewers want to experience and share, commercial quality"
+  },
+  
+  "usage_notes": {
+    "for_midjourney": "Use complete_prompt_string with --ar 1:1 --style raw --v 6 --q 2",
+    "instagram_tips": [
+      "Export at 1080x1080px minimum, 2160x2160px for premium",
+      "Colors optimized to stand out in Instagram feeds",
+      "Composition shows both adventure and accessibility",
+      "Creates desire to book and share experience",
+      "Perfect for travel agency Instagram marketing"
+    ]
+  },
+  
+  "instagram_caption_suggestions": [
+    "Your next vacation destination: 66 million years ago 🦖✨ #TimeTravelSafari",
+    "Bucket list ✅ Meet a T-Rex safely! 📸🦖 Book your Cretaceous adventure",
+    "The ultimate family safari experience 🦕👨‍👩‍👧‍👦 Time travel made comfortable",
+    "Once-in-a-lifetime doesn't begin to describe it 🌍🦖 #CretaceousSafari",
+    "Adventure meets luxury in the prehistoric era ✨ Link in bio to book!",
+    "This could be your next Instagram post 📸🦖 #PrehistoricParadise"
+  ],
+  
+  "hashtag_suggestions": [
+    "#TimeTravelSafari",
+    "#CretaceousPeriod",
+    "#DinosaurEncounter",
+    "#LuxuryTravel",
+    "#AdventureTravel",
+    "#BucketList",
+    "#TravelGoals",
+    "#FamilyAdventure",
+    "#SafariLife",
+    "#OnceInALifetime",
+    "#TravelAgency",
+    "#ExoticDestination",
+    "#WildlifeEncounter",
+    "#PrehistoricSafari",
+    "#TravelDreams"
+  ]
+}
+

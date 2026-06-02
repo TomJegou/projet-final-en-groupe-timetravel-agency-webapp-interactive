@@ -1,0 +1,214 @@
+{
+  "prompt_config": {
+    "aspect_ratio": "9:16",
+    "orientation": "vertical",
+    "format": "Instagram Stories/Reels, TikTok optimized",
+    "style": "Cinematic luxury travel photography",
+    "theme": "Late Cretaceous Period - Hell Creek Formation (~66 million years ago)",
+    "photography_style": "National Geographic quality, Prehistoric Planet documentary style",
+    "quality": "8K ultra detailed, medium format camera"
+  },
+  "main_prompt": "Cinematic wildlife travel photography of the Late Cretaceous Period Hell Creek Formation, 9:16 vertical portrait format, luxury campaign style, golden hour lighting casting warm amber glow, a massive Tyrannosaurus Rex with thick scaly skin towering dramatically in vertical frame, Triceratops and Edmontosaurus herd in mid-ground among prehistoric vegetation, lush fern-covered ground with ancient conifers and Cycads creating vertical depth, giant Quetzalcoatlus pterosaur soaring above, humid subtropical atmosphere with heat haze, professional color grading with rich earthy tones, shot on medium format camera with beautiful vertical depth of field, Prehistoric Planet documentary realism, National Geographic quality, aspirational mood, scientifically accurate, vibrant but natural colors, 8K ultra detailed, immersive vertical storytelling for Stories and Reels, luxury nature documentary aesthetic",
+  
+  "composition_notes": {
+    "stories_reels_optimization": "Vertical 9:16 format perfect for immersive mobile viewing, emphasizes towering height of dinosaurs especially T-Rex and Quetzalcoatlus, creates dramatic sense of prehistoric scale",
+    "vertical_storytelling": "Composition guides eye from foreground fern-covered ground upward through prehistoric fauna to sky, creating journey through Cretaceous ecosystem",
+    "framing_options": [
+      "Option 1: Ground-level perspective looking up at towering T-Rex, ferns in sharp foreground, T-Rex dominating vertical frame against golden sky",
+      "Option 2: Vertical slice of prehistoric ecosystem - foreground Triceratops, mid-ground ancient forest, background volcano with haze",
+      "Option 3: Giant Quetzalcoatlus standing on ground showing full giraffe-like height in vertical frame, prehistoric landscape around",
+      "Option 4: Herd of Edmontosaurus in foreground with ancient conifers towering vertically, creating depth from ground to treetops"
+    ],
+    "mobile_viewing": "Optimized for full-screen vertical mobile experience, immersive prehistoric wildlife documentary storytelling",
+    "safe_zones": "Important dinosaur elements positioned to avoid Stories/Reels UI at top (~250px) and bottom (~310px)"
+  },
+  
+  "detailed_elements": {
+    "time_period_specifics": {
+      "geological_period": "Late Cretaceous Period, Maastrichtian Age",
+      "location": "Hell Creek Formation, North America",
+      "years_ago": "Approximately 66 million years ago, final age of non-avian dinosaurs",
+      "climate": "Greenhouse Earth - subtropical, humid, warm climate with no polar ice caps"
+    },
+    
+    "dinosaur_species": {
+      "tyrannosaurus_rex": "T-Rex towering in vertical frame, massive muscular body 12-13m long, thick scaly skin, lips covering teeth when mouth closed, powerful stance emphasizing height and dominance, brown-grey with possible head display colors",
+      "triceratops": "Three-horned herbivore with massive frill, tank-like body, positioned in mid-ground for scale reference, earthy brown-grey base with potential bright frill accents",
+      "quetzalcoatlus": "Giant pterosaur perfect for vertical composition, showing full height from ground (giraffe-tall) or wingspan in flight, long toothless beak, impressive scale",
+      "edmontosaurus": "Duck-billed dinosaurs in herds, grazing on ferns, peaceful behavior, brown-beige coloration, good for showing ecosystem diversity",
+      "scientific_accuracy": "All Hell Creek coexisting species, modern paleontological understanding, no Jurassic anachronisms"
+    },
+    
+    "prehistoric_vegetation": {
+      "ground_cover": "NO GRASS - ground entirely covered with dense ferns (bracken ferns, tree ferns), creating unique prehistoric ground texture visible in foreground",
+      "trees_vertical": "Tall ancient Araucaria conifers emphasizing vertical composition, ancient pines, short Cycads at ground level, early flowering Magnolia trees",
+      "landscape_layers": "Vertical depth from fern-covered ground through forest mid-story to canopy and sky, creating immersive prehistoric environment",
+      "visual_texture": "Lush alien prehistoric feel, ferns everywhere, browns and prehistoric greens creating unique Cretaceous signature"
+    },
+    
+    "golden_hour_lighting": {
+      "time_of_day": "Golden hour, warm directional light",
+      "light_quality": "Warm amber and golden tones with long vertical shadows emphasizing dinosaur height and tree scale",
+      "light_on_dinosaurs": "Thick scaly skin catching warm light with dramatic highlights and shadow detail showing texture, backlit pterosaur wings",
+      "light_on_vegetation": "Ferns and ancient trees bathed in golden glow, light filtering through conifer branches and creating vertical god rays",
+      "atmospheric_quality": "Humid subtropical haze creating vertical depth layers, heat shimmer adding to prehistoric atmosphere",
+      "sky": "Warm peachy-pink and lavender gradient at horizon visible in upper portion of vertical frame, subtropical color palette",
+      "vertical_gradient": "Natural light gradient from rich warm tones at ground level to softer sky tones above"
+    },
+    
+    "color_palette": {
+      "dominant_colors": ["forest green", "earthy brown", "slate grey (dinosaur skin)", "warm golden amber light", "volcanic grey-blue distance", "vibrant display colors", "peachy sky", "muddy sienna"],
+      "dinosaur_coloration": "Scientifically plausible base colors (brown, grey, olive) with vibrant accent colors (reds, oranges, blues) on crests, frills, display features for sexual selection",
+      "vegetation_palette": "Rich prehistoric greens (darker, more blue-green), browns of ancient bark and fern stems, occasional bright white-pink Magnolia blooms",
+      "color_grading_style": "Professional wildlife documentary grading optimized for mobile vertical viewing, National Geographic aesthetic, enhanced warm golden hour tones",
+      "stories_appeal": "Colors that capture attention in fast-scrolling Stories while maintaining documentary realism and scientific accuracy",
+      "vertical_harmony": "Color palette flowing through vertical composition from earthy ground tones to sky pastels"
+    },
+    
+    "camera_technical": {
+      "camera_type": "Medium format camera aesthetic (Hasselblad wildlife quality)",
+      "documentary_style": "Prehistoric Planet (Apple TV+) photorealism standard adapted for vertical mobile format",
+      "depth_of_field": "Vertical wildlife photography DOF, foreground ferns or dinosaur in sharp focus, mid-ground detailed, background with elegant bokeh",
+      "focal_length_feel": "Wildlife telephoto for dinosaur portraits (200-400mm) or wider for ecosystem establishing shots (24-70mm), emphasizing vertical drama",
+      "sharpness": "8K ultra detailed where in focus - every scale, skin fold, fern frond, tree bark texture visible",
+      "image_quality": "Documentary quality optimized for mobile display, clean with subtle organic texture"
+    },
+    
+    "composition": {
+      "layout": "Cinematic 9:16 vertical composition emphasizing height and scale of prehistoric megafauna",
+      "foreground": "Sharp detailed foreground with ferns, muddy ground, or dinosaur at ground level creating immediate engagement",
+      "midground": "Main subjects - T-Rex towering, Triceratops herd, ancient forest, showing ecosystem layers",
+      "background": "Sky, distant volcanic peaks with haze, soft bokeh creating vertical atmospheric depth",
+      "vertical_flow": "Composition guides viewer from prehistoric ground through fauna and flora to sky, immersive vertical journey",
+      "scale_emphasis": "Vertical format naturally emphasizes towering height of dinosaurs and ancient trees"
+    },
+    
+    "mood_atmosphere_mood": {
+      "aspirational": "Luxury time-travel experience, making viewer want to witness this lost world, evoking profound sense of wonder",
+      "scientific_wonder": "Authentic paleontological accuracy meets stunning mobile-optimized visual storytelling",
+      "dramatic": "Epic scale and drama of prehistoric megafauna emphasized by vertical composition",
+      "immersive": "Full-screen vertical format creates immersive prehistoric wildlife experience",
+      "adventurous": "Sense of exploration and discovery in alien yet familiar ancient world",
+      "educational": "Documentary realism makes content shareable and educational"
+    },
+    
+    "national_geographic_prehistoric_planet_quality": {
+      "documentary_standards": "Prehistoric Planet level scientific accuracy and visual fidelity adapted for vertical Stories/Reels format",
+      "scientific_accuracy": "Modern paleontological understanding - lipped theropods, accurate anatomy, Hell Creek ecosystem accuracy",
+      "technical_excellence": "Perfect photorealistic rendering optimized for mobile vertical viewing",
+      "wildlife_aesthetic": "Captured like modern wildlife photography but of extinct animals, vertical documentary storytelling",
+      "visual_impact": "Immediately captivating vertical imagery worthy of nature documentary or luxury time-travel campaign"
+    }
+  },
+  
+  "negative_prompt": "modern animals, humans, contemporary elements, anachronistic dinosaurs (Stegosaurus, Brachiosaurus, Jurassic species), cartoon style, Jurassic Park outdated look, teeth protruding from closed mouth, excessive feathering on large theropods, bright neon colors, grass on ground, modern plants, buildings, vehicles, modern technology, oversaturated cartoon colors, low resolution, blurry, poor CGI, fake look, toy-like, anthropomorphic, inaccurate anatomy, mixed time periods, flat lighting, horizontal composition, landscape orientation",
+  
+  "style_keywords": [
+    "Cinematic wildlife photography",
+    "Luxury nature documentary",
+    "Late Cretaceous Period",
+    "Hell Creek Formation",
+    "Golden hour lighting",
+    "Professional color grading",
+    "Medium format camera",
+    "Vertical composition",
+    "Prehistoric Planet quality",
+    "National Geographic wildlife",
+    "Documentary realism",
+    "Stories aesthetic",
+    "Reels optimized",
+    "Immersive storytelling",
+    "Scientifically accurate",
+    "Tyrannosaurus Rex",
+    "Triceratops",
+    "Quetzalcoatlus",
+    "Prehistoric vegetation",
+    "Fern-covered ground",
+    "Ancient conifers",
+    "Subtropical climate",
+    "Towering perspective",
+    "8K ultra detailed",
+    "Photorealistic dinosaurs",
+    "Paleontological accuracy",
+    "Epic vertical scale",
+    "Mobile optimized"
+  ],
+  
+  "technical_parameters": {
+    "recommended_settings": {
+      "aspect_ratio": "9:16",
+      "resolution": "2160x3840 (4K vertical) or 4320x7680 (8K vertical)",
+      "quality": "maximum/ultra",
+      "stories_reels_specs": "Minimum 1080x1920px, recommended 2160x3840px",
+      "detail_level": "8K ultra detailed, documentary quality"
+    }
+  },
+  
+  "complete_prompt_string": "Cinematic wildlife travel photography of Late Cretaceous Period Hell Creek Formation 66 million years ago, 9:16 vertical portrait format for Instagram Stories and Reels, golden hour lighting casting warm amber glow, massive Tyrannosaurus Rex with thick scaly skin and powerful build towering dramatically in vertical frame from ground to upper portion, lips covering teeth, brown-grey coloration with possible head display colors, OR Triceratops with three horns and massive frill in mid-ground, OR giant Quetzalcoatlus pterosaur showing full giraffe-like height standing on ground or soaring with 10-meter wingspan, herd of Edmontosaurus duck-billed dinosaurs grazing peacefully, lush prehistoric vegetation with NO GRASS, ground completely covered with dense ferns and tree ferns visible in sharp foreground, tall ancient Araucaria conifer trees and ancient pines emphasizing vertical composition, short Cycads at ground level, early flowering Magnolia trees, humid subtropical atmosphere with heat haze and volumetric mist creating vertical depth layers, open floodplains and dense forest, professional wildlife documentary color grading with rich earthy forest greens, slate grey dinosaur skin, vibrant accent colors on display features for sexual selection, warm golden ambient light creating vertical shadows, shot on medium format camera with wildlife photography vertical depth of field, foreground elements tack sharp, main dinosaur subjects showing every scale and skin texture detail in 8K resolution, background with soft bokeh and volcanic peaks in distance, Prehistoric Planet Apple TV documentary realism and scientific accuracy optimized for vertical mobile format, National Geographic wildlife photography quality, aspirational mood evoking profound wonder and adventure, scientifically accurate Hell Creek fauna with no anachronistic species, authentic Late Cretaceous ecosystem, vibrant but naturalistic colors, atmospheric subtropical haze, 8K ultra detailed textures on prehistoric skin and ancient plant life, immersive vertical storytelling for Stories and Reels, luxury nature documentary aesthetic, photorealistic rendering, dramatic vertical sense of scale",
+  
+  "alternative_prompts": {
+    "option_1_trex_towering": "Luxury wildlife photography, 9:16 vertical, golden hour, ground-level perspective looking up at massive Tyrannosaurus Rex towering in frame, thick scaly skin in sharp focus, lips covering teeth, ferns in foreground, warm amber lighting, Haussmannian buildings flanking, professional documentary color grading, medium format quality, Prehistoric Planet realism, Stories optimized, 8K detailed, scientifically accurate Late Cretaceous",
+    
+    "option_2_ecosystem_layers": "Cinematic nature documentary, 9:16 vertical, golden hour Late Cretaceous, vertical slice showing prehistoric ecosystem layers, foreground: Triceratops in fern prairie sharp focus, mid-ground: tall ancient Araucaria conifers, background: volcanic peaks with atmospheric haze, professional wildlife grading, Hell Creek accuracy, immersive vertical storytelling, Reels format, 8K ultra detailed",
+    
+    "option_3_pterosaur_height": "High-end nature photography, 9:16 vertical, golden hour lighting, giant Quetzalcoatlus pterosaur standing on ground showing impressive full giraffe-like height in vertical frame, long toothless beak, prehistoric landscape with ferns and ancient forest, warm amber light, professional documentary grading, National Geographic quality, vertical Stories composition, scientifically accurate, 8K detailed, dramatic scale"
+  },
+  
+  "usage_notes": {
+    "for_midjourney": "Use complete_prompt_string with --ar 9:16 --style raw --v 6 --q 2",
+    "for_stable_diffusion": "Use main_prompt + detailed_elements, include negative_prompt, photorealistic models, may benefit from paleontology LoRA",
+    "for_dalle": "Use complete_prompt_string, emphasize vertical portrait orientation and Stories/Reels optimization",
+    "stories_reels_tips": [
+      "Export at 1080x1920px minimum for Instagram/Facebook Stories and Reels",
+      "Consider 2160x3840px for TikTok and premium quality",
+      "Vertical format naturally emphasizes dinosaur height and scale",
+      "Documentary realism creates educational shareable content",
+      "Golden hour aesthetic adds cinematic quality",
+      "Position key dinosaur elements within safe zones",
+      "Test composition on mobile screen for optimal prehistoric impact"
+    ]
+  },
+  
+  "animation_suggestions": {
+    "for_reels_tiktok": [
+      "Slow upward camera tilt from foreground ferns to towering T-Rex (Ken Burns effect)",
+      "Subtle parallax effect with foreground dinosaur and background landscape",
+      "Gentle zoom emphasizing dinosaur scale",
+      "Slow motion of Quetzalcoatlus flight or landing",
+      "Focus pull from foreground Triceratops to background T-Rex",
+      "Time-lapse style showing golden hour light progression over prehistoric scene",
+      "Animated heat haze and atmospheric effects for subtropical realism"
+    ]
+  },
+  
+  "instagram_caption_suggestions": [
+    "66 million years ago: golden hour with the king 🦖🌅 #Cretaceous",
+    "Time traveling to when giants ruled the Earth ✨ #TRex",
+    "Late Cretaceous luxury wildlife experience 🦕 Hell Creek Formation",
+    "Before the asteroid: life in its full prehistoric glory 🌍",
+    "Meet the apex predator in his prime 🦖 #PrehistoricPlanet",
+    "When dinosaurs walked in golden light ✨ #TimeTravel"
+  ],
+  
+  "hashtag_suggestions": [
+    "#Cretaceous",
+    "#Dinosaurs",
+    "#TRex",
+    "#Triceratops",
+    "#PrehistoricPlanet",
+    "#Paleontology",
+    "#WildlifePhotography",
+    "#NatureDocumentary",
+    "#InstagramStories",
+    "#Reels",
+    "#TimeTravel",
+    "#PrehistoricLife",
+    "#DinosaurLove",
+    "#NationalGeographic",
+    "#ScienceAccurate",
+    "#VerticalVideo",
+    "#NatureReels",
+    "#HellCreek"
+  ]
+}
+

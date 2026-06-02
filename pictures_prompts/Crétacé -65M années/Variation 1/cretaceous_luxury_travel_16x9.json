@@ -1,0 +1,169 @@
+{
+  "prompt_config": {
+    "aspect_ratio": "16:9",
+    "orientation": "horizontal",
+    "style": "Cinematic luxury travel photography",
+    "theme": "Late Cretaceous Period - Hell Creek Formation (~66 million years ago)",
+    "photography_style": "National Geographic quality, Prehistoric Planet documentary style",
+    "quality": "8K ultra detailed, medium format camera"
+  },
+  "main_prompt": "Cinematic wildlife travel photography of the Late Cretaceous Period Hell Creek Formation 66 million years ago, 16:9 horizontal format, luxury campaign style, golden hour lighting casting warm amber glow across prehistoric landscape, a massive Tyrannosaurus Rex with thick scaly skin and powerful build standing majestically in subtropical environment, Triceratops with three horns and massive frill grazing on ferns in mid-ground, giant Quetzalcoatlus pterosaur with giraffe-like height perched on ancient conifer, lush prehistoric vegetation with dense ferns covering ground instead of grass, ancient Araucaria conifers and Cycads, early flowering Magnolia trees, humid subtropical atmosphere with heat haze, professional color grading with rich earthy tones and vibrant accent colors, shot on medium format camera with beautiful depth of field, Prehistoric Planet documentary realism, National Geographic wildlife photography quality, aspirational mood evoking wonder and adventure, scientifically accurate, vibrant but natural colors, atmospheric volcanic haze in distance, 8K ultra detailed textures on dinosaur skin and plant life, luxury nature documentary aesthetic",
+  
+  "detailed_elements": {
+    "time_period_specifics": {
+      "geological_period": "Late Cretaceous Period, Maastrichtian Age",
+      "location": "Hell Creek Formation, North America",
+      "years_ago": "Approximately 66 million years ago, just before the K-Pg extinction event",
+      "climate": "Greenhouse Earth - subtropical, humid, warm climate with no polar ice caps, high sea levels",
+      "era_context": "Final age of non-avian dinosaurs, peak of Cretaceous biodiversity"
+    },
+    
+    "dinosaur_species": {
+      "tyrannosaurus_rex": "Tyrannosaurus Rex, the apex predator, massive muscular body 12-13 meters long, thick scaly skin texture (modern scientific consensus), lips covering teeth when mouth closed (no protruding fangs), possibly subtle downy feathers on back debated but scaly 'heavy' look works for marketing, powerful legs, tiny arms, intimidating but scientifically accurate, brown-grey coloration with possible subtle patterns, male may have colorful display features on head crest",
+      "triceratops": "Triceratops horridus, the classic three-horned herbivore, massive bone frill around head, two long brow horns and shorter nasal horn, tank-like body 8-9 meters long, thick scaly skin with possible keratinous covering on frill, earthy brown-grey base color with potential bright display colors on frill edges for males, classic T-Rex prey species",
+      "quetzalcoatlus": "Quetzalcoatlus northropi, giant azhdarchid pterosaur (not a dinosaur but contemporary), wingspan 10-11 meters, height of giraffe when standing on ground, long toothless beak, tall as a small building, impressive for wide shots, grey-brown coloration, leathery wing membranes",
+      "edmontosaurus": "Edmontosaurus annectens, hadrosaur 'duck-billed dinosaur', very common herbivore 12-13 meters long, lives in herds, broad duck-like beak, brown-beige coloration, peaceful grazing behavior on ferns and low vegetation",
+      "scientific_accuracy": "All species coexisted in Hell Creek Formation, scientifically credible assemblage, avoid Jurassic species like Stegosaurus or Brachiosaurus (wrong time period)"
+    },
+    
+    "prehistoric_vegetation": {
+      "ground_cover": "NO GRASS - grass did not evolve yet, ground covered entirely with ferns (bracken ferns, tree ferns), dense ferny undergrowth creating lush carpet, some mosses and primitive plants",
+      "trees": "Mix of ancient conifers like Araucaria (monkey puzzle trees), tall ancient pines, Cycads resembling short stubby palms, early flowering trees including Magnolia, Sycamore, Platanus, creating diverse forest canopy",
+      "landscape_types": "Dense subtropical forests, open floodplains covered in ferns, muddy swampy areas, river deltas, mixture of closed forest and open fern prairies",
+      "visual_texture": "Lush green but different from modern jungle, more prehistoric alien feel, lots of browns and earthy tones mixed with vibrant greens, ferns everywhere instead of grass creating unique visual signature",
+      "scientific_accuracy": "Vegetation appropriate for Late Cretaceous North America, flowering plants (angiosperms) beginning to dominate but still mixed with conifers and ferns"
+    },
+    
+    "climate_atmosphere": {
+      "temperature": "Warm subtropical to tropical climate, significantly warmer than present day, humid and muggy atmosphere",
+      "greenhouse_earth": "No polar ice caps, high atmospheric CO2, high sea levels, warm even at northern latitudes",
+      "weather": "Humid with frequent precipitation, heat haze visible in distance, occasional volcanic atmospheric effects from Deccan Traps activity",
+      "sky_conditions_golden_age": "Clear subtropical sky at golden hour, warm amber and peachy tones, high humidity creating soft atmospheric diffusion, sun breaking through heat haze",
+      "sky_conditions_dramatic": "Optional dramatic storytelling: subtle volcanic haze tinting sky, or faint meteor trail visible (asteroid approaching, 'planet killer' storytelling element)",
+      "atmospheric_haze": "Humid subtropical haze creating depth and atmosphere, volumetric quality to light, morning mist in valleys or heat shimmer at midday"
+    },
+    
+    "golden_hour_lighting": {
+      "time_of_day": "Golden hour, warm directional light approximately one hour before sunset or after sunrise",
+      "light_quality": "Warm amber, golden, peachy tones, long dramatic shadows emphasizing dinosaur scale and landscape features",
+      "light_on_dinosaurs": "Thick scaly skin catching warm light with beautiful highlights and shadow detail showing texture, possibly light diffusing through pterosaur wing membranes",
+      "light_on_vegetation": "Ferns and ancient trees bathed in warm golden glow, creating rich green-gold color palette, light filtering through Cycad fronds and conifer branches",
+      "atmospheric_quality": "Humid air creating soft diffused quality, gentle haze adding depth layers, backlit steam or mist adding drama",
+      "sky": "Warm peachy-pink and lavender tones at horizon, soft clouds if present catching golden light, subtropical color palette"
+    },
+    
+    "color_palette": {
+      "dominant_colors": ["forest green", "earthy brown", "slate grey (dinosaur skin)", "warm golden amber light", "volcanic grey-blue distance", "vibrant accent colors on display features", "peachy sky tones", "muddy sienna"],
+      "dinosaur_coloration": "Scientifically plausible - base colors of brown, grey, olive, slate for camouflage and thermoregulation, vibrant accent colors (reds, oranges, blues) on crests, frills, display features especially for males (sexual selection theory), similar to modern large animals and birds",
+      "vegetation_palette": "Rich prehistoric greens (darker, more blue-green than modern), browns of tree bark and fern stems, occasional bright flowering magnolias (white, pink)",
+      "color_grading_style": "Professional wildlife documentary color grading, National Geographic aesthetic, rich natural saturation without cartoon look, enhanced warm tones from golden hour, lifted shadows with rich blacks, sophisticated earth-tone palette with vibrant organic accents",
+      "prehistoric_atmosphere": "Color palette that feels both familiar and alien, scientifically accurate but visually stunning, avoiding Jurassic Park neon look"
+    },
+    
+    "camera_technical": {
+      "camera_type": "Medium format camera aesthetic (Hasselblad wildlife photography quality)",
+      "documentary_style": "Prehistoric Planet (Apple TV+) photorealism standard, highest quality paleontological documentary rendering",
+      "depth_of_field": "Wildlife photography depth of field, foreground subject (dinosaur) tack sharp with detailed skin texture, mid-ground detailed, background with elegant bokeh creating depth",
+      "focal_length_feel": "Wildlife telephoto compression (200-400mm equivalent feel) for dramatic scale and isolation of subjects, or wider establishing shots (24-70mm) for landscape",
+      "sharpness": "8K ultra detailed where in focus - every scale, skin fold, feather (if present), plant texture visible, individual fern fronds sharp",
+      "image_quality": "Clean professional documentary quality, subtle organic film-like texture, no digital artifacts, print-ready for National Geographic",
+      "motion_consideration": "Frozen moment of wildlife behavior, could be action (T-Rex roaring, hunting) or calm (grazing, resting)"
+    },
+    
+    "composition": {
+      "layout": "Cinematic 16:9 wildlife documentary composition, strong subject placement using rule of thirds, sense of scale showing dinosaur size",
+      "foreground": "Sharp detailed foreground possibly with ferns or prehistoric plants creating depth, or foreground dinosaur in sharp focus",
+      "midground": "Main subject - T-Rex, Triceratops, or herd of Edmontosaurus, captured in natural behavior with environment context",
+      "background": "Soft bokeh background with prehistoric landscape - forests, mountains, volcanic peaks in distance, sky, creating atmospheric depth",
+      "scale_reference": "Composition shows massive size of dinosaurs through environmental context - trees, other animals, landscape features",
+      "storytelling": "Capturing authentic prehistoric moment - hunting, grazing, interaction, migration - evoking wonder and scientific accuracy"
+    },
+    
+    "mood_atmosphere_mood": {
+      "aspirational": "Luxury nature travel mood, making viewer want to witness this lost world, evoking profound sense of wonder and adventure",
+      "scientific_wonder": "Authentic paleontological accuracy meets stunning visual storytelling, respecting science while creating breathtaking imagery",
+      "dramatic": "Epic scale and drama of megafauna in their prime, final moments of dinosaur age",
+      "naturalistic": "Documentary realism, animals behaving naturally in their environment, not posed or theatrical",
+      "primordial": "Ancient, powerful, alien yet beautiful prehistoric atmosphere",
+      "nostalgic_extinction": "Optional subtle melancholy knowing this world is about to end (K-Pg extinction imminent)"
+    },
+    
+    "national_geographic_prehistoric_planet_quality": {
+      "documentary_standards": "Prehistoric Planet (Apple TV+) level of scientific accuracy and visual fidelity, world-class paleontological reconstruction",
+      "scientific_consultation": "Modern paleontological understanding - lipped theropods, feathering debates resolved conservatively, accurate anatomy and behavior",
+      "technical_excellence": "Perfect photorealistic rendering, accurate lighting physics, realistic textures, documentary-grade quality",
+      "wildlife_photography_aesthetic": "Captured like modern wildlife photography but of extinct animals, National Geographic editorial standards",
+      "educational_value": "Scientifically accurate enough for educational use while being visually spectacular",
+      "visual_impact": "Cover-worthy imagery for nature documentaries or luxury time-travel campaign"
+    }
+  },
+  
+  "negative_prompt": "modern animals, humans, contemporary elements, anachronistic dinosaurs (Stegosaurus, Brachiosaurus, Jurassic species), cartoon style, Jurassic Park outdated look, dinosaurs with teeth protruding when mouth closed (outdated), excessive feathering on large theropods (debated), bright neon colors, grass on ground (grass didn't exist), modern flowering plants (roses, daisies), modern trees (oak, maple), buildings, vehicles, modern technology, oversaturated cartoon colors, low resolution, blurry, poor CGI, fake look, video game rendering, toy-like appearance, anthropomorphic dinosaurs, inaccurate anatomy, mixed time periods, flat lighting, overcast modern photography look, lens flares, HDR artifact look",
+  
+  "style_keywords": [
+    "Cinematic wildlife photography",
+    "Luxury nature documentary",
+    "Late Cretaceous Period",
+    "Hell Creek Formation",
+    "Golden hour lighting",
+    "Professional color grading",
+    "Medium format camera",
+    "Depth of field",
+    "Prehistoric Planet quality",
+    "National Geographic wildlife",
+    "Documentary realism",
+    "Aspirational mood",
+    "Scientifically accurate",
+    "Tyrannosaurus Rex",
+    "Triceratops",
+    "Quetzalcoatlus",
+    "Prehistoric vegetation",
+    "Fern-covered ground",
+    "Ancient conifers",
+    "Subtropical climate",
+    "Greenhouse Earth",
+    "Volcanic atmosphere",
+    "Vibrant but natural",
+    "8K ultra detailed",
+    "Photorealistic dinosaurs",
+    "Paleontological accuracy",
+    "Wildlife behavior",
+    "Epic scale",
+    "Primordial landscape"
+  ],
+  
+  "technical_parameters": {
+    "recommended_settings": {
+      "aspect_ratio": "16:9",
+      "resolution": "7680x4320 (8K) or minimum 3840x2160 (4K)",
+      "quality": "maximum/ultra",
+      "detail_level": "8K ultra detailed, documentary quality",
+      "realism": "Photorealistic, Prehistoric Planet documentary standard"
+    }
+  },
+  
+  "complete_prompt_string": "Cinematic wildlife travel photography of Late Cretaceous Period Hell Creek Formation 66 million years ago, 16:9 horizontal format, golden hour lighting casting warm amber glow across prehistoric subtropical landscape, massive Tyrannosaurus Rex with thick scaly skin and powerful muscular build standing majestically, lips covering teeth, possible subtle downy feathers on back, brown-grey coloration, Triceratops with three horns and massive bone frill grazing on dense ferns in mid-ground, giant Quetzalcoatlus pterosaur with 10-meter wingspan and giraffe-like height perched on ancient Araucaria conifer tree, lush prehistoric vegetation with NO GRASS, ground completely covered with dense bracken ferns and tree ferns creating ferny carpet, ancient monkey puzzle trees, short Cycads resembling palms, early flowering Magnolia trees with white blooms, humid subtropical atmosphere with heat haze and volumetric mist, open floodplains and dense forest mix, muddy swampy areas, professional wildlife documentary color grading with rich earthy tones, forest greens, slate grey dinosaur skin, vibrant accent colors on display features for sexual selection, warm golden ambient light, shot on medium format camera with beautiful wildlife photography depth of field, foreground ferns sharp, main dinosaur subjects tack sharp showing every scale and skin texture detail, background soft bokeh with volcanic peaks in distance, Prehistoric Planet Apple TV documentary realism and scientific accuracy, National Geographic wildlife photography quality, aspirational mood evoking profound wonder and adventure, scientifically accurate Hell Creek fauna, no anachronistic species, authentic Late Cretaceous ecosystem, vibrant but naturalistic colors, atmospheric subtropical haze, 8K ultra detailed textures on prehistoric skin and ancient plant life, luxury nature documentary aesthetic, photorealistic rendering, educational paleontological accuracy",
+  
+  "alternative_prompts": {
+    "option_1_trex_hero": "Luxury wildlife photography, 16:9, golden hour, massive Tyrannosaurus Rex as hero subject in sharp focus with thick scaly skin texture, lips covering teeth, powerful stance in prehistoric fern prairie, Triceratops in soft bokeh background, ancient conifers, subtropical atmosphere with heat haze, professional documentary color grading, medium format quality, Prehistoric Planet realism, National Geographic editorial, 8K ultra detailed, scientifically accurate Late Cretaceous",
+    
+    "option_2_herd_scene": "Cinematic nature documentary, 16:9, golden hour Late Cretaceous, herd of Edmontosaurus duck-billed dinosaurs grazing on ferns in sharp focus, ancient forest backdrop with Araucaria and Cycads, Quetzalcoatlus flying overhead, humid subtropical lighting with atmospheric haze, professional wildlife color grading, medium format aesthetic, Hell Creek Formation accuracy, aspirational mood, 8K detailed, Prehistoric Planet quality",
+    
+    "option_3_landscape_epic": "High-end nature photography, 16:9, golden hour lighting, epic prehistoric landscape with Triceratops in mid-ground near river delta covered in ferns, T-Rex silhouette in distance, lush ancient vegetation with no grass, volcanic peaks on horizon with subtle haze, warm amber light, professional documentary grading, medium format camera, National Geographic quality, scientifically accurate ecosystem, aspirational prehistoric wonder, 8K ultra detailed"
+  },
+  
+  "usage_notes": {
+    "for_midjourney": "Use complete_prompt_string with --ar 16:9 --style raw --v 6 --q 2, may need to emphasize 'photorealistic' and 'documentary quality'",
+    "for_stable_diffusion": "Use main_prompt + detailed_elements, include negative_prompt, use photorealistic models, may need paleontology-specific LoRA for accuracy",
+    "for_dalle": "Use complete_prompt_string, emphasize Prehistoric Planet documentary realism and scientific accuracy",
+    "scientific_references": "Study Prehistoric Planet (Apple TV+), modern paleoart by experts like Mark Witton, scientific papers on Late Cretaceous Hell Creek fauna",
+    "accuracy_tips": [
+      "Ensure T-Rex has lips covering teeth (modern consensus)",
+      "No grass on ground - only ferns and low plants",
+      "Only Hell Creek species - no Jurassic dinosaurs",
+      "Realistic earth-tone colors with vibrant display accents",
+      "Subtropical humid atmosphere crucial for authenticity"
+    ]
+  }
+}
+

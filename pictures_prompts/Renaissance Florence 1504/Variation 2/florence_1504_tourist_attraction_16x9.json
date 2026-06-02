@@ -1,0 +1,140 @@
+{
+  "prompt_config": {
+    "aspect_ratio": "16:9",
+    "orientation": "horizontal",
+    "style": "Travel agency attraction promotional imagery",
+    "theme": "Renaissance Florence 1504 - Ultimate Cultural Time Travel Experience",
+    "photography_style": "Aspirational travel advertising, cultural tourism marketing",
+    "quality": "8K ultra detailed, commercial campaign quality"
+  },
+  "main_prompt": "Vibrant travel agency promotional image for premium Renaissance Florence 1504 cultural tour, 16:9 format, luxury tourism campaign style showcasing thrilling Renaissance art and culture experience, excited time travelers in period-inspired Renaissance costumes participating in authentic 1504 activities, modern tourists watching Michelangelo unveiling David statue at Palazzo Vecchio with amazed expressions, guided tours through Leonardo da Vinci's workshop with master artist demonstrating techniques, elegant Renaissance banquet experience in authentic palazzo setting, spectacular golden hour Tuscan lighting making everything magical, magnificent Duomo with Brunelleschi's dome and colorful marble dominating skyline, bustling Piazza della Signoria with Renaissance citizens and costumed tourists mingling, professional travel photography with vibrant appealing colors, sense of wonder excitement and cultural immersion, luxury cultural tourism aesthetic, historically accurate but presented as accessible exciting vacation destination, welcoming inviting composition showing both Renaissance spectacle and comfortable tourist experience, aspirational lifestyle imagery, exotic historical paradise, 8K detailed showing incredible once-in-a-lifetime cultural experience, travel brochure quality making viewers want to book immediately",
+  
+  "detailed_elements": {
+    "travel_agency_concept": {
+      "tourism_approach": "Presenting Renaissance Florence 1504 as ultimate premium cultural vacation destination, like visiting living museum where tourists can experience golden age of art",
+      "target_audience": "Cultural travelers, art enthusiasts, history lovers, luxury experience seekers, families wanting educational adventure, Renaissance art fans",
+      "key_selling_points": "Witness Michelangelo and Leonardo at work, see David unveiling, experience authentic Renaissance life, art workshops, palazzo banquets, period costume experiences, guided expert tours, comfortable modern amenities, incredible photo opportunities",
+      "attraction_elements": "Show spectacular Renaissance art/architecture AND quality tourist experience - costumed guides, interactive workshops, authentic experiences, comfortable viewing facilities",
+      "emotional_appeal": "Cultural wonder, artistic inspiration, historical immersion, educational enrichment, luxury comfort, family cultural bonding, bucket-list achievement"
+    },
+    
+    "tourist_experience_elements": {
+      "renaissance_costume_experience": "Tourists wearing beautiful period-inspired Renaissance costumes (simplified authentic style), trying on velvet gowns and doublets, feeling like Renaissance nobility, professional costume fitting service visible, fun immersive experience",
+      "art_workshop_tours": "Modern tourists in Leonardo da Vinci's or other master's bottega (workshop), watching artist demonstrate fresco or oil painting techniques, getting hands-on experience, educational and exciting, marble sculpture demonstrations",
+      "guided_cultural_tours": "Professional multilingual guides in elegant Renaissance-inspired attire leading groups through Florence, pointing out architectural details, explaining history, making Renaissance accessible and fascinating, comfortable group sizes",
+      "david_unveiling_experience": "Recreated moment of David statue unveiling at Palazzo Vecchio 1504, tourists positioned to witness historical moment, photo opportunity with statue, sense of being present at artistic milestone",
+      "renaissance_banquet": "Authentic Renaissance feast experience in beautiful palazzo setting, period recipes and entertainment, musicians and performers, tourists enjoying cultural immersion in luxury comfort",
+      "comfortable_facilities": "Subtle modern amenities - comfortable viewing areas, rest stops, refreshment stations, professional organization, showing this is premium comfortable experience not rough historical camping"
+    },
+    
+    "renaissance_attractions_presentation": {
+      "duomo_magnificence": "Brunelleschi's dome presented as architectural marvel tourists can climb and explore, magnificent polychrome marble facade (white, green, pink) as stunning photo backdrop, guided tours explaining revolutionary engineering, breathtaking views from top, the ultimate Florence landmark experience",
+      "palazzo_vecchio_david": "Palazzo Vecchio as living political center with Michelangelo's David just unveiled 1504 at entrance, tourists photographing with iconic statue, fortress architecture creating dramatic backdrop, Piazza della Signoria as open-air sculpture gallery, historical significance explained by guides",
+      "ponte_vecchio_charm": "Picturesque medieval bridge over Arno as romantic photo spot, colorful shops (butchers and tanners in 1504), authentic medieval atmosphere, guided walks explaining bridge history, scenic river views",
+      "artist_workshops": "Renaissance bottega culture as interactive experience - visit Leonardo's workshop, see Michelangelo at work, watch master craftsmen, hands-on art activities for tourists, authentic but accessible, making art creation process fascinating",
+      "renaissance_palazzos": "Beautiful palazzo interiors open for tours, authentic Renaissance decoration, frescoes and art, architectural details explained, luxury living of Renaissance nobles shown, photo opportunities in stunning settings",
+      "piazza_experiences": "Piazza della Signoria as vibrant cultural hub, outdoor sculpture viewing, Renaissance market experiences, street performers in period costume, cafés with piazza views (modern comfort in historical setting)"
+    },
+    
+    "florentine_destination_beauty": {
+      "architectural_splendor": "Florence presented as stunning open-air Renaissance museum, every building a masterpiece, ochre-yellow and terracotta creating warm welcoming palette, pietra serena stone adding elegant grey accents, visually harmonious cityscape",
+      "tuscan_golden_light": "Magical golden hour Tuscan lighting making everything look romantic and beautiful, warm amber glow on marble and stone, peachy-pink skies, creates feeling of stepping into Renaissance painting",
+      "arno_river_romance": "Scenic Arno river with reflections, romantic bridges, riverside walks, adding natural beauty element to cultural experience, creates varied photo opportunities",
+      "tuscan_hills_backdrop": "Beautiful Tuscan countryside visible in distance with soft atmospheric perspective, reminds tourists they're in stunning Tuscany, adds natural beauty to cultural attractions",
+      "welcoming_atmosphere": "Florence presented as warm inviting destination not intimidating or stuffy, accessible cultural richness, comfortable climate, pedestrian-friendly historical center perfect for exploration"
+    },
+    
+    "lighting_and_atmosphere": {
+      "golden_hour_magic": "Beautiful warm golden hour Tuscan lighting making everything magical and photogenic, creates aspirational vacation aesthetic",
+      "perfect_conditions": "Clear beautiful weather, excellent visibility, comfortable temperature suggested by light quality, 'perfect day' feeling",
+      "cultural_ambiance": "Atmosphere of artistic creation and intellectual energy, Renaissance masters at work, sense of being at epicenter of cultural revolution, inspiring and exciting",
+      "festive_celebration": "Sense of celebration around David unveiling and Renaissance artistic achievements, joyful cultural atmosphere, people excited about art and beauty"
+    },
+    
+    "color_palette_marketing": {
+      "vibrant_tuscan": "Rich vibrant but authentic Tuscan Renaissance colors - warm ochre yellows, terracotta reds, crimson velvet, deep blues, forest greens, enhanced for marketing appeal",
+      "architectural_warmth": "Warm welcoming ochre-yellow buildings, grey pietra serena creating elegant contrast, red terracotta roofs, polychrome marble patterns",
+      "costume_richness": "Beautiful Renaissance costume colors - rich velvets in crimson, royal blue, emerald green, gold brocade details, making period dress attractive",
+      "artistic_palette": "Renaissance master painting colors - ultramarine blue, crimson lake, earth tones, gold leaf, inspiring artistic atmosphere",
+      "sky_beauty": "Gorgeous Tuscan golden hour sky - peachy-pink, soft lavender, warm golds, creating romantic destination aesthetic"
+    },
+    
+    "composition_commercial": {
+      "hero_shot_layout": "Dynamic composition showcasing spectacular Renaissance setting AND happy tourists experiencing culture safely comfortably, balanced showing both historical wonder and modern tourist experience",
+      "foreground_engagement": "Tourists in period costume or modern comfortable clothes actively engaged - photographing David, painting in workshop, enjoying banquet, creates 'you could be here' appeal",
+      "midground_culture": "Renaissance architecture, art, citizens in authentic 1504 costume, creating immersive historical atmosphere and spectacular visual interest",
+      "background_beauty": "Duomo dome, Tuscan sky, beautiful cityscape creating depth and showing destination magnificence",
+      "balanced_appeal": "Perfect balance between authentic Renaissance culture (impressive and educational) and comfortable tourism (accessible and enjoyable)"
+    },
+    
+    "travel_marketing_mood": {
+      "cultural_excitement": "Image conveys genuine excitement about experiencing Renaissance art and culture, tourists visibly inspired and amazed, moment feels special",
+      "accessible_luxury": "Cultural richness presented as accessible not elitist, luxury experience available to passionate travelers, comfortable professional organization",
+      "educational_enrichment": "Clear sense of learning and cultural enrichment, guided expertise, once-in-a-lifetime educational opportunity, intellectually stimulating",
+      "artistic_inspiration": "Exposure to Renaissance masters inspires creativity and wonder, tourists engaging with art actively not just observing passively",
+      "family_cultural": "Suitable for families and various ages, shared cultural bonding, educational value for children in fun engaging way",
+      "bucket_list_achievement": "Ultimate cultural travel experience, top destination for art lovers, life-changing journey through Renaissance masterpieces"
+    }
+  },
+  
+  "negative_prompt": "scary intimidating atmosphere, stuffy boring museum aesthetic, elitist inaccessible culture, modern mass tourism crowding, tacky tourist traps, incorrect historical period, baroque (too late), medieval only (need Renaissance), modern architecture except tourist facilities, contemporary clothing except tourists, cars, anachronistic elements, dark gloomy lighting, flat boring composition, low quality rendering, cheesy fake historical reenactment, theme park fakeness, incorrect Duomo colors, wrong fashion period",
+  
+  "style_keywords": [
+    "Travel agency promotional",
+    "Cultural tourism marketing",
+    "Renaissance experience",
+    "Art history tourism",
+    "Luxury cultural travel",
+    "Educational vacation",
+    "Florence 1504",
+    "Interactive history",
+    "Period costume experience",
+    "Art workshop tours",
+    "Renaissance banquet",
+    "David statue unveiling",
+    "Leonardo workshop",
+    "Guided cultural tours",
+    "Golden hour Tuscan",
+    "Aspirational travel",
+    "Family cultural adventure",
+    "Bucket-list destination",
+    "Living museum",
+    "Accessible culture",
+    "8K commercial quality",
+    "Travel brochure appeal"
+  ],
+  
+  "technical_parameters": {
+    "recommended_settings": {
+      "aspect_ratio": "16:9",
+      "resolution": "7680x4320 (8K)",
+      "quality": "maximum - commercial campaign",
+      "appeal_level": "High aspirational cultural appeal"
+    }
+  },
+  
+  "complete_prompt_string": "Vibrant travel agency promotional image for premium Renaissance Florence 1504 cultural time travel tour, 16:9 format, luxury tourism campaign style, excited diverse group of tourists some wearing beautiful period-inspired Renaissance costumes (velvet gowns, doublets) participating in authentic cultural experiences, modern visitors watching Michelangelo unveiling David statue at Palazzo Vecchio with amazed expressions taking photos, guided tour in Leonardo da Vinci's workshop with master demonstrating painting techniques on canvas while tourists observe fascinated, elegant Renaissance banquet scene with tourists enjoying authentic feast in beautiful palazzo, professional multilingual guides in Renaissance-inspired elegant attire explaining art and history, spectacular golden hour Tuscan lighting casting warm amber glow creating magical atmosphere, magnificent Duomo of Santa Maria del Fiore with Brunelleschi's revolutionary dome in red terracotta tiles and stunning polychrome marble facade (white green pink geometric patterns) dominating skyline, crenellated ochre-brown Palazzo Vecchio fortress with tall tower, bustling Piazza della Signoria with Renaissance citizens in authentic 1504 velvet fashion and costumed tourists mingling, Ponte Vecchio bridge over Arno, ochre-yellow stucco buildings with grey pietra serena stone details and terracotta roofs creating warm welcoming cityscape, vibrant appealing Tuscan Renaissance colors, rich crimsons deep blues emerald greens gold brocade, professional travel photography color grading, sense of cultural wonder excitement and artistic inspiration, luxury cultural tourism aesthetic showing both spectacular Renaissance art/architecture and comfortable quality tourist experience, historically accurate but presented as accessible exciting vacation destination, welcoming inviting composition with tourists actively engaged photographing exploring learning, aspirational lifestyle imagery, educational enrichment visible, family-friendly cultural adventure, exotic historical paradise at golden age of art, 8K ultra detailed showing incredible photo opportunities and once-in-a-lifetime cultural immersion, travel brochure commercial quality making viewers immediately want to book Renaissance Florence experience, balanced showing authentic Renaissance magnificence and modern comfortable professional tourism organization",
+  
+  "alternative_prompts": {
+    "option_1_costume_experience": "Cultural tourism marketing, 16:9, tourists in beautiful Renaissance costume trying velvet gowns and doublets, Duomo backdrop, golden hour, professional guides, fun immersive experience, luxury cultural travel, commercial quality, booking appeal",
+    
+    "option_2_workshop_tour": "Travel agency promotional, 16:9, Leonardo da Vinci workshop with tourists watching master paint, authentic bottega atmosphere, Renaissance Florence visible through windows, guided art experience, educational tourism, golden hour lighting, aspirational cultural travel, 8K detailed",
+    
+    "option_3_david_moment": "Premium cultural tourism, 16:9, tourists photographing with Michelangelo's David statue at Palazzo Vecchio unveiling 1504, Renaissance crowd, golden Tuscan light, once-in-a-lifetime moment, guided tour visible, luxury cultural experience, commercial travel marketing quality"
+  },
+  
+  "usage_notes": {
+    "for_midjourney": "Use complete_prompt_string with --ar 16:9 --style raw --v 6 --q 2",
+    "marketing_emphasis": "Balance spectacular Renaissance culture with visible comfortable tourist experience, show educational value and accessibility, create desire to experience this cultural immersion"
+  },
+  
+  "campaign_tagline_suggestions": [
+    "\"Experience the Renaissance: Walk with Masters\"",
+    "\"Florence 1504: Where Art History Comes Alive\"",
+    "\"Step into Leonardo's World. Touch Renaissance Magic.\"",
+    "\"The Ultimate Cultural Journey: Renaissance Florence Awaits\"",
+    "\"Witness the Birth of Modern Art: Your Renaissance Adventure\"",
+    "\"Florence 1504: More Than a Museum. A Living Masterpiece.\""
+  ]
+}
+

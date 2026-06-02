@@ -1,0 +1,121 @@
+{
+  "prompt_config": {
+    "aspect_ratio": "1:1",
+    "orientation": "square",
+    "format": "Instagram optimized",
+    "theme": "Paris 1889 - Exposition Universelle",
+    "style": "Impressionist realism with autochrome photography texture"
+  },
+  "main_prompt": "A captivating square composition of Paris 1889 during the Exposition Universelle, 1:1 format, centered on the newly inaugurated Eiffel Tower painted in Rouge Venise (dark reddish-brown at summit with gradient), Belle Époque crowd in period-accurate fashion on bustling cobblestone streets, Haussmannian buildings with cream limestone and grey-blue zinc roofs framing the scene, volumetric lighting with warm gaslight contrasting cold electric arc lights, morning fog, steam and coal smoke atmosphere, impressionist realism style with photographic grain and slight vignetting",
+  
+  "composition_notes": {
+    "instagram_optimization": "Square 1:1 format requires focused composition, vertical emphasis to include full Eiffel Tower or closer street-level scene with Tower in background",
+    "framing_suggestions": [
+      "Option 1: Vertical slice showing Eiffel Tower from base to top with foreground crowd and street activity",
+      "Option 2: Street-level scene with Tower visible in upper background, focus on Belle Époque crowd and architecture",
+      "Option 3: Close-up of Galerie des Machines entrance with elegantly dressed visitors, Tower visible in distance"
+    ]
+  },
+  
+  "detailed_elements": {
+    "architecture": {
+      "eiffel_tower": "Newly built Eiffel Tower painted in Rouge Venise (dark red-brown color), gradient paint from dark at top to lighter at base, raw industrial modernity symbol, iron lattice structure clearly visible, positioned as central or background focal point",
+      "galerie_des_machines": "Massive industrial cathedral, blue-grey steel framework, enormous glass vault, largest arched building of the era, imposing architectural presence",
+      "haussmannian_buildings": "Cream-colored limestone buildings, grey-blue zinc mansard roofs, ornate wrought-iron balconies, classic Parisian architecture framing the square composition",
+      "street_furniture": "Luisant cobblestones, green Morris columns with colorful posters, newspaper kiosks, gas street lamps, period-accurate urban details"
+    },
+    
+    "fashion_1889": {
+      "women": "Ladies in Belle Époque S-silhouette dresses, tightly corseted waists, long flowing skirts without large bustles, lace parasols, elaborate hats adorned with feathers and flowers, long gloves, elegant posture",
+      "men": "Gentlemen in dark three-piece suits and frock coats, obligatory hats (top hats for bourgeoisie, bowler hats or caps for workers), handlebar mustaches or full beards, formal Victorian gentleman style",
+      "crowd": "Mixed social classes, well-dressed bourgeoisie visiting the Exposition, workers in rough vests and work blouses, authentic 1889 fashion accuracy, crowd positioned in foreground or mid-ground for Instagram engagement"
+    },
+    
+    "color_palette": {
+      "dominant_colors": ["sepia tones", "zinc grey", "limestone beige", "brick red (Eiffel Tower)", "bottle green (urban furniture)", "warm gaslight yellow", "cold electric blue-white"],
+      "color_description": "Muted historical palette, sepia, grey zinc, stone beige, Rouge Venise brick red, bottle green, Instagram-friendly yet historically accurate",
+      "instagram_appeal": "Rich vintage tones that stand out in Instagram feeds, nostalgic aesthetic"
+    },
+    
+    "visual_texture": {
+      "film_grain": "Light photographic grain simulating old film stock",
+      "vignetting": "Subtle vignette effect on edges, enhanced for square format",
+      "finish": "Autochrome photography aesthetic with slightly grainy pastel tones, impressionist realism à la Gustave Caillebotte and Jean Béraud"
+    },
+    
+    "lighting_atmosphere": {
+      "gaslight": "Warm yellow flickering gaslight illuminating streets, soft golden glow, traditional lighting",
+      "electric_light": "Cold blue-white electric arc lamps at the Exposition Universelle, harsh modern illumination, technological contrast",
+      "natural_light": "Foggy morning light, atmospheric haze, volumetric lighting through steam and coal smoke",
+      "atmospheric_effects": "Steam vapor, coal smoke from trains and factories in background, mist over the Seine river, industrial revolution atmosphere",
+      "instagram_lighting": "Balanced exposure for mobile viewing, dramatic but not too dark"
+    }
+  },
+  
+  "negative_prompt": "modern clothing, contemporary fashion, cars, automobiles, modern buildings, skyscrapers, neon signs, plastic materials, digital aesthetic, oversaturated colors, bronze Eiffel Tower, wrong historical period, Victorian England fashion, crinolines, large bustles, anachronistic elements, modern photography style, clean air, 21st century elements, horizontal composition, wide panorama, stretched composition",
+  
+  "style_keywords": [
+    "1889 Paris",
+    "Exposition Universelle",
+    "Belle Époque",
+    "Industrial Revolution",
+    "Impressionist realism",
+    "Gustave Caillebotte style",
+    "Jean Béraud style",
+    "Autochrome photography",
+    "Gaslight era",
+    "Victorian era France",
+    "Historical accuracy",
+    "Period-correct fashion",
+    "Bustling cobblestone streets",
+    "Volumetric fog",
+    "Steam and smoke atmosphere",
+    "Sepia and zinc tones",
+    "Film grain texture",
+    "Square composition",
+    "Cinematic framing",
+    "Instagram aesthetic",
+    "Vertical emphasis"
+  ],
+  
+  "technical_parameters": {
+    "recommended_settings": {
+      "aspect_ratio": "1:1",
+      "quality": "high",
+      "style_strength": "medium-high for historical accuracy",
+      "detail_level": "high for architecture and fashion details",
+      "instagram_specs": "Minimum 1080x1080px for optimal quality"
+    }
+  },
+  
+  "complete_prompt_string": "Square composition of Paris 1889 during Exposition Universelle, 1:1 format, featuring the newly inaugurated Eiffel Tower painted in Rouge Venise red-brown with gradient as central focal point, Haussmannian limestone buildings with zinc roofs and wrought-iron balconies framing the scene, bustling cobblestone street with reflections, crowds in authentic 1889 Belle Époque fashion, women in S-silhouette dresses with corseted waists wearing elaborate feathered hats and carrying lace parasols, men in three-piece suits and frock coats wearing top hats and bowler hats with handlebar mustaches, warm yellow gaslight contrasting with cold blue-white electric arc lights from the Exposition, foggy morning atmosphere, volumetric lighting through steam and coal smoke, mist rising, green Morris columns, newspaper kiosks, sepia and zinc grey color palette with bottle green accents, impressionist realism style à la Gustave Caillebotte and Jean Béraud, autochrome photography texture with light film grain and subtle vignetting, industrial revolution atmosphere, historically accurate, cinematic square framing, bustling Belle Époque Paris street scene, Instagram-optimized composition",
+  
+  "alternative_prompts": {
+    "option_1_vertical_tower": "Vertical square composition 1:1, Eiffel Tower painted in Rouge Venise dominating the frame from base to top, Belle Époque crowd in foreground on cobblestones, Haussmannian buildings on sides, warm gaslight vs cold electric lights, foggy atmospheric Paris 1889, impressionist realism, autochrome texture, historically accurate fashion and architecture",
+    
+    "option_2_street_scene": "Square 1:1 intimate street scene of Paris 1889, Eiffel Tower in Rouge Venise visible in background, focus on Belle Époque elegantly dressed crowd, women with parasols and feathered hats, men in top hats, cobblestone reflections, green Morris columns, gaslight glow, Haussmannian facades, steam atmosphere, impressionist realism, film grain, historically accurate",
+    
+    "option_3_galerie_entrance": "Square 1:1 composition of Galerie des Machines grand entrance, blue-grey steel and glass cathedral, Belle Époque visitors in period fashion entering, Eiffel Tower Rouge Venise visible in distance, warm and cold lighting contrast, cobblestones, steam and fog, sepia tones, impressionist realism, 1889 Paris Exposition Universelle, autochrome photography aesthetic"
+  },
+  
+  "usage_notes": {
+    "for_midjourney": "Use complete_prompt_string with --ar 1:1 --style raw --v 6",
+    "for_stable_diffusion": "Use main_prompt + detailed_elements sections, add negative_prompt, set dimensions to 1024x1024 or 1536x1536",
+    "for_dalle": "Use complete_prompt_string or alternative_prompts options, DALL-E 3 handles complex descriptions well, specify 1024x1024",
+    "for_leonardo": "Use main_prompt with style_keywords, set aspect ratio to 1:1, resolution 1024x1024",
+    "instagram_tips": [
+      "Export at minimum 1080x1080px for best quality",
+      "Test different composition options (vertical tower vs street scene)",
+      "Vintage aesthetic works well for Instagram engagement",
+      "Consider adding subtle border or frame for gallery posts"
+    ]
+  },
+  
+  "instagram_caption_suggestions": [
+    "Paris, 1889 🗼 Quand la Tour Eiffel était encore rouge...",
+    "Voyage dans le temps : L'Exposition Universelle de 1889 ✨",
+    "Belle Époque : Entre tradition et modernité industrielle 🎩",
+    "1889 - Paris découvre la Tour Eiffel en Rouge Venise 🏗️"
+  ]
+}
+

@@ -1,0 +1,148 @@
+{
+  "prompt_config": {
+    "aspect_ratio": "16:9",
+    "orientation": "horizontal",
+    "style": "Cinematic luxury travel photography",
+    "theme": "Renaissance Florence 1504 - Cradle of the Renaissance",
+    "photography_style": "National Geographic quality, historical documentary style",
+    "quality": "8K ultra detailed, medium format camera",
+    "artistic_influence": "Leonardo da Vinci sfumato, Botticelli elegance"
+  },
+  "main_prompt": "Cinematic travel photography of Renaissance Florence 1504, 16:9 horizontal format, luxury campaign style, golden hour Tuscan lighting casting warm amber glow across historic city, the magnificent Duomo of Santa Maria del Fiore with Brunelleschi's revolutionary dome dominating skyline, red terracotta tiles contrasting beautifully with white green and pink marble facade, Palazzo Vecchio's crenellated ochre-brown stone fortress with tall tower at Piazza della Signoria, Michelangelo's David statue prominently displayed at palazzo entrance, Ponte Vecchio bridge spanning Arno river with medieval shops, elegant Renaissance citizens in period-accurate 1504 fashion strolling cobblestone streets, women in rich velvet gowns with square necklines and slashed sleeves showing white chemise, men in fitted doublets and bicolor hose with flat felt hats, professional color grading with Tuscan earth-tone palette, shot on medium format camera with beautiful depth of field, Renaissance painting aesthetic with sfumato soft edges, National Geographic quality editorial photography, aspirational mood evoking cultural richness and artistic golden age, authentic historical accuracy, vibrant but sophisticated Renaissance colors, atmospheric perspective with dusty workshop ambiance, 8K ultra detailed architecture and fabric textures, luxury cultural travel editorial aesthetic",
+  
+  "detailed_elements": {
+    "time_period_specifics": {
+      "year": "1504",
+      "location": "Florence (Firenze), Republic of Florence, Tuscany",
+      "historical_context": "Height of High Renaissance, Michelangelo just completed David, Leonardo working on Mona Lisa, cultural and artistic golden age, Florence as center of Renaissance humanism and art",
+      "significance": "Birthplace of perspective, mathematical proportions in architecture, rebirth of classical learning"
+    },
+    
+    "florentine_architecture": {
+      "duomo_santa_maria_del_fiore": "Magnificent cathedral dominating Florence skyline, Brunelleschi's revolutionary octagonal dome (cupola) in red terracotta tiles creating iconic silhouette, facade with geometric patterns in white Carrara marble, green Prato marble, and pink Maremma marble (polychrome marble), bell tower (Campanile di Giotto) adjacent, architectural masterpiece showcasing Renaissance mathematical proportions and symmetry, octagonal baptistery nearby, complex with detailed marble inlay work, the ultimate visual landmark",
+      "palazzo_vecchio": "Imposing fortress-palace in ochre-brown pietra forte stone, crenellated (merlons) medieval defensive architecture, tall slender tower (Torre d'Arnolfo) 94 meters high dominating Piazza della Signoria, rusticated stone facade showing power, heavy Gothic-Renaissance transition style, Michelangelo's David statue recently placed at main entrance (1504), political heart of Florence",
+      "piazza_della_signoria": "Main civic square with Palazzo Vecchio, open public space with various statues, Loggia dei Lanzi with sculptures, cobblestone paving, center of political and social life, citizens gathering, outdoor sculpture gallery",
+      "ponte_vecchio": "Medieval bridge over Arno river, unique inhabited bridge with shops built along it, in 1504 still housing butchers and tanners (not yet jewelry shops), colorful wooden structures projecting over river, arched stone bridge, Arno water visible (greenish-brown murky color), romantic iconic structure",
+      "typical_buildings": "Residential buildings in ochre-yellow stucco plaster, pietra serena (grey sandstone) used for columns arches doorframes and architectural details, terracotta tile roofs, narrow medieval streets opening to Renaissance piazzas, loggias with arches, symmetrical facades showing Renaissance proportions, wooden shutters",
+      "architectural_materials": "Pietra serena (grey Tuscan sandstone) for structural elements and refined details, ochre-yellow plaster on building facades, terracotta tiles for roofs, polychrome marble for important buildings, emphasis on mathematical proportions and symmetry, local Tuscan materials throughout"
+    },
+    
+    "renaissance_fashion_1504": {
+      "women_fashion": "Rich Renaissance gowns in heavy luxurious fabrics, high waist (empire waist) or natural waistline depending on style, square necklines (décolleté carré) showing chemise edge, long full skirts in velvet silk or brocade, detachable slashed sleeves (crevés) with white chemise puffing through slits showing underneath layer, elaborate embroidery with gold thread, rich colors (crimson red, deep blue, forest green, golden yellow), hair styled elaborately with pearl nets (reticella), light veils, or braided coiffures, elegant composed Renaissance beauty ideal",
+      "men_fashion": "Fitted doublet (pourpoint) - short tailored jacket, over hose (chausses) - tight leg covering often bicolor or striped creating visual interest, flat felt hats or velvet bonnets (berretta), codpiece visible (standard for period), slashed sleeves showing contrasting fabric, rich fabrics like velvet and brocade for wealthy, earth tones for common people, elegant proportioned silhouette",
+      "fabric_textures": "Heavy velvet with visible texture and depth, luxurious silk with sheen, rich brocade with woven gold thread patterns, visible embroidery detail, slashed sleeves showing fabric layers, white linen chemise visible through slashes and necklines, fabric draping naturally showing weight and quality",
+      "color_palette_fashion": "Rich Renaissance colors - crimson red (expensive dye, for wealthy), deep blue from lapis lazuli (very expensive, nobility), forest green, golden yellow, burgundy, black (fashionable and expensive), earth tones for merchants and artisans, white linen undergarments always visible",
+      "accessories": "Women: pearl jewelry, gold chains, embroidered belts, decorative hair nets, men: leather belts with ornate buckles, daggers for gentlemen, purses, elaborate hat decorations"
+    },
+    
+    "tuscan_color_palette": {
+      "dominant_colors": ["ochre yellow (building plaster)", "terra di Siena burnt (Sienna brown)", "crimson red (expensive noble color)", "olive green", "ultramarine blue from lapis lazuli (sacred/wealthy)", "warm terracotta", "grey pietra serena stone", "white Carrara marble", "warm golden sunlight"],
+      "color_description": "Authentic Tuscan Renaissance palette inspired by fresco and oil painting pigments, warm earth tones dominating architecture, rich jewel tones in fabric and details, mathematical balance in color distribution",
+      "artistic_color_theory": "Colors as seen in Renaissance paintings - warm undertones, limited but rich palette based on available natural pigments, emphasis on chiaroscuro (light-dark contrast), atmospheric perspective showing cooler tones in distance",
+      "color_grading_style": "Renaissance oil painting color aesthetic, warm golden hour tones, sophisticated earth palette with rich accent colors, slight sfumato softness in edges and distance, cinematic but historically authentic"
+    },
+    
+    "golden_hour_tuscan_lighting": {
+      "time_of_day": "Golden hour - warm Tuscan sunlight approximately one hour before sunset",
+      "light_quality": "Warm golden amber light characteristic of Tuscany, soft directional light creating beautiful chiaroscuro (light-dark contrast), long shadows emphasizing architectural details and depth",
+      "light_on_architecture": "Ochre-yellow buildings glowing warm golden-beige, pietra serena grey stone showing beautiful contrast, terracotta roof tiles catching warm light appearing almost glowing, marble reflecting light brilliantly, creating painterly quality",
+      "light_on_people": "Renaissance figures beautifully lit with warm glow on rich fabric textures, faces softly illuminated showing Renaissance portrait lighting, fabric colors enhanced by golden light, creating living painting aesthetic",
+      "atmospheric_quality": "Slight atmospheric haze creating sfumato effect (Leonardo's technique), dust particles visible in light shafts from workshops, warm air creating gentle diffusion, romantic soft-focus distance",
+      "chiaroscuro": "Strong contrast between illuminated areas and shadowed spaces, architectural elements creating dramatic light and dark patterns, Renaissance painting lighting aesthetic, volumetric light in dusty workshop air"
+    },
+    
+    "renaissance_atmosphere": {
+      "intellectual_cultural": "Atmosphere of learning and artistic creation, sense of classical revival and humanist philosophy, cultural sophistication in air",
+      "artisan_workshops": "Bottega (workshop) culture visible - sculptor's studios with marble dust in air, painter's workshops with smell of oil and pigments, craftsmen working in open doorways, apprentices learning from masters, creative industry atmosphere",
+      "street_life": "Narrow medieval streets opening to bright Renaissance squares, citizens in period costume going about daily life, merchants, artists, nobles, clergy, scholars, sense of bustling cultural center",
+      "artistic_ambiance": "Living in midst of artistic revolution, Michelangelo and Leonardo both in city, sense that art and beauty are valued above all, cultural golden age visible in every detail",
+      "dusty_creative": "Marble dust from sculpture studios, pigment powder from painting workshops, workshop atmosphere, creative industry visible on streets"
+    },
+    
+    "camera_technical": {
+      "camera_type": "Medium format camera aesthetic (Hasselblad quality) with Renaissance painting sensibility",
+      "depth_of_field": "Beautiful cinematic depth of field, foreground sharp with Renaissance figures, mid-ground showing architecture, background with soft sfumato atmospheric perspective",
+      "focal_length_feel": "Classic portrait focal length (50-85mm) flattering to Renaissance figures and architectural proportions, slight compression adding painterly quality",
+      "sharpness": "8K ultra detailed where in focus - fabric weaves, marble veining, architectural details all visible, but with Renaissance painting aesthetic allowing soft edges (sfumato)",
+      "artistic_rendering": "Shot to resemble Renaissance oil painting or fresco come to life, cinematic documentary quality with artistic sensibility, Leonardo da Vinci sfumato influence in atmospheric rendering",
+      "image_quality": "Clean professional quality with subtle film-like organic texture suggesting aged painting or fresco aesthetic"
+    },
+    
+    "composition": {
+      "layout": "Classical Renaissance composition following mathematical proportions and golden ratio, balanced symmetrical layout, architectural perspective emphasizing Renaissance mastery of linear perspective",
+      "foreground": "Renaissance figures in period costume, perhaps artisan at work or elegant citizens, sharp detail showing fabric and facial features",
+      "midground": "Iconic Florentine architecture - Duomo, Palazzo Vecchio, typical buildings, Renaissance urban landscape",
+      "background": "Tuscan hills in distance with soft atmospheric perspective, sky with warm golden tones, creating depth through classical perspective technique",
+      "perspective_emphasis": "Showcase Renaissance mastery of linear perspective - converging lines, accurate architectural rendering, mathematical proportions visible"
+    },
+    
+    "mood_atmosphere_overall": {
+      "aspirational": "Luxury cultural travel to Renaissance golden age, making viewer want to experience this artistic pinnacle of civilization",
+      "sophisticated": "Refined cultural elegance, intellectual sophistication, artistic mastery evident everywhere",
+      "romantic_historical": "Romantic idealization of Renaissance as perfect cultural moment, beautiful historical period at its peak",
+      "artistic_wonder": "Sense of walking through living Renaissance painting, artistic beauty as highest value",
+      "educational_cultural": "Rich cultural and historical experience, learning about Renaissance masters and their world"
+    }
+  },
+  
+  "negative_prompt": "modern elements, contemporary clothing, cars, modern buildings, anachronistic architecture, baroque period (comes later), medieval only (need Renaissance), incorrect fashion periods, gothic only, modern photography harsh flash, flat lighting, oversaturated digital colors, contemporary art style, wrong historical period, plastic materials, modern tourism infrastructure, incorrect marble colors on Duomo, modern Ponte Vecchio shops (jewelry - should be butchers/tanners), grass in piazzas (should be stone), modern street lamps, power lines, graffiti, modern signage",
+  
+  "style_keywords": [
+    "Cinematic travel photography",
+    "Luxury cultural travel",
+    "Renaissance Florence 1504",
+    "Golden hour Tuscan lighting",
+    "Professional color grading",
+    "Medium format camera",
+    "Depth of field",
+    "National Geographic quality",
+    "Historical documentary",
+    "Leonardo da Vinci sfumato",
+    "Botticelli aesthetic",
+    "Aspirational mood",
+    "Brunelleschi's Dome",
+    "Duomo Santa Maria del Fiore",
+    "Palazzo Vecchio",
+    "Michelangelo's David",
+    "Ponte Vecchio",
+    "Renaissance fashion 1504",
+    "Velvet and brocade",
+    "Slashed sleeves",
+    "Tuscan color palette",
+    "Ochre yellow architecture",
+    "Pietra serena stone",
+    "Terracotta tiles",
+    "Chiaroscuro lighting",
+    "Atmospheric perspective",
+    "Renaissance oil painting aesthetic",
+    "8K ultra detailed",
+    "Cultural golden age"
+  ],
+  
+  "technical_parameters": {
+    "recommended_settings": {
+      "aspect_ratio": "16:9",
+      "resolution": "7680x4320 (8K) or minimum 3840x2160 (4K)",
+      "quality": "maximum/ultra",
+      "detail_level": "8K ultra detailed, Renaissance painting quality",
+      "artistic_style": "Leonardo sfumato, Renaissance oil painting aesthetic"
+    }
+  },
+  
+  "complete_prompt_string": "Cinematic luxury travel photography of Renaissance Florence 1504, 16:9 horizontal format, golden hour Tuscan lighting casting warm amber glow across historic city, magnificent Duomo of Santa Maria del Fiore with Brunelleschi's revolutionary octagonal dome dominating skyline, red terracotta tiles contrasting beautifully with geometric patterns of white Carrara marble green Prato marble and pink Maremma marble facade, Palazzo Vecchio's imposing crenellated fortress in ochre-brown pietra forte stone with tall 94-meter Torre d'Arnolfo at Piazza della Signoria, Michelangelo's David statue prominently displayed at palazzo entrance just installed 1504, Ponte Vecchio medieval bridge over greenish-brown Arno river with butcher and tanner shops (not jewelry), elegant Renaissance citizens in authentic 1504 fashion on cobblestone streets, women in rich velvet gowns with high waists square necklines and slashed sleeves showing white linen chemise, elaborate embroidery with gold thread, crimson red deep blue forest green gowns, pearl nets in elaborate coiffures, men in fitted doublets over bicolor striped hose, flat felt hats or velvet bonnets, typical Florentine buildings in ochre-yellow stucco with pietra serena grey sandstone columns and arches, terracotta tile roofs, professional color grading with authentic Tuscan Renaissance palette, ochre yellow, terra di Siena burnt, crimson red, olive green, ultramarine blue, warm terracotta, shot on medium format camera with beautiful depth of field, Leonardo da Vinci sfumato soft edges and atmospheric perspective, chiaroscuro light-dark contrast, warm golden light creating painterly quality, marble dust in air from sculptor workshops, artisan bottega culture visible, narrow medieval streets opening to bright Renaissance piazzas, National Geographic quality editorial photography, aspirational mood evoking cultural richness artistic golden age and Renaissance humanism, authentic historical accuracy, vibrant but sophisticated Renaissance oil painting colors, 8K ultra detailed showing fabric textures embroidery architectural details and marble patterns, luxury cultural travel editorial aesthetic, living Renaissance painting quality",
+  
+  "alternative_prompts": {
+    "option_1_duomo_focus": "Luxury cultural travel photography, 16:9, golden hour, magnificent Duomo with Brunelleschi's dome in red terracotta and polychrome marble, Renaissance citizens in 1504 velvet fashion in foreground, ochre buildings, professional color grading Tuscan palette, medium format quality, sfumato atmospheric, National Geographic editorial, 8K detailed",
+    
+    "option_2_piazza_signoria": "Cinematic historical travel, 16:9, golden hour Florence 1504, Palazzo Vecchio fortress with tall tower at Piazza della Signoria, Michelangelo's David at entrance, Renaissance crowd in period costume, pietra serena architecture, warm lighting, luxury cultural campaign, Leonardo sfumato style, aspirational mood, 8K ultra detailed",
+    
+    "option_3_ponte_vecchio": "High-end cultural photography, 16:9, golden hour, Ponte Vecchio bridge over Arno with medieval shops, Renaissance Florence cityscape with Duomo in background, figures in 1504 fashion, warm Tuscan light, chiaroscuro atmosphere, professional Renaissance color palette, medium format aesthetic, National Geographic quality, 8K detailed"
+  },
+  
+  "usage_notes": {
+    "for_midjourney": "Use complete_prompt_string with --ar 16:9 --style raw --v 6 --q 2, may add '--stylize' for more artistic Renaissance painting aesthetic",
+    "historical_accuracy": "Ensure Duomo has correct marble colors, David is at Palazzo Vecchio entrance (1504 placement), Ponte Vecchio has butchers not jewelers, fashion is specifically 1504 not generic Renaissance",
+    "artistic_style": "Emphasize Leonardo sfumato for soft atmospheric edges, Renaissance oil painting color palette, chiaroscuro lighting"
+  }
+}
+

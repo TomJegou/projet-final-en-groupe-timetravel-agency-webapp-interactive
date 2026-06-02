@@ -1,0 +1,149 @@
+{
+  "prompt_config": {
+    "aspect_ratio": "16:9",
+    "orientation": "horizontal",
+    "style": "Travel agency attraction promotional imagery",
+    "theme": "Late Cretaceous Period - Premium Time Travel Safari Experience",
+    "photography_style": "Aspirational travel advertising, adventure tourism, exotic destination marketing",
+    "quality": "8K ultra detailed, commercial campaign quality"
+  },
+  "main_prompt": "Stunning travel agency promotional image for premium Cretaceous Period safari adventure, 16:9 format, luxury tourism campaign style showcasing thrilling dinosaur encounter experience, excited time travelers in modern safari observation vehicle getting incredible close-up view of majestic Tyrannosaurus Rex with detailed scaly skin, safe transparent viewing dome protecting tourists while providing immersive experience, Triceratops herd grazing peacefully near observation platform, spectacular golden hour lighting creating magical prehistoric atmosphere, lush fern-covered landscape with ancient conifers, professional travel photography with vibrant appealing colors, sense of wonder and excitement, luxury adventure tourism aesthetic, scientifically accurate dinosaurs but presented as accessible exciting vacation destination, welcoming inviting composition showing both wildlife spectacle and tourist comfort, aspirational lifestyle imagery, exotic prehistoric paradise, 8K detailed showing incredible once-in-a-lifetime experience, travel brochure quality making viewers want to book immediately",
+  
+  "detailed_elements": {
+    "travel_agency_concept": {
+      "tourism_approach": "Presenting Cretaceous Period as premium exotic vacation destination, like African safari or Galapagos expedition but 66 million years ago",
+      "target_audience": "Affluent adventure travelers, luxury experience seekers, nature enthusiasts, families wanting educational adventure, dinosaur enthusiasts of all ages",
+      "key_selling_points": "Once-in-a-lifetime opportunity, perfectly safe, scientifically accurate, guided expert tours, comfortable viewing facilities, incredible photo opportunities, educational experience, bucket-list adventure",
+      "attraction_elements": "Show both the spectacular wildlife (dinosaurs) AND the quality tourist experience (safe vehicles, viewing platforms, guided tours, comfortable facilities)",
+      "emotional_appeal": "Wonder, excitement, adventure, safety, luxury, education, family bonding, achievement of dream experience"
+    },
+    
+    "tourist_experience_elements": {
+      "safari_vehicles": "Modern sleek safari observation vehicles with transparent protective domes or reinforced viewing windows, comfortable seating visible, high-tech but blending with natural environment, perhaps electric/silent vehicles to not disturb wildlife, tourists inside visible taking photos excitedly, professional guides pointing out features",
+      "observation_platforms": "Elegant elevated viewing platforms made of natural materials (wood, stone) with safety railings, comfortable seating areas, binoculars stations, interpretive signs, tourists safely watching dinosaurs from ideal vantage point, platforms designed to blend with prehistoric landscape",
+      "tourist_presence": "Diverse group of tourists (families, couples, individuals) dressed in modern safari casual wear (khaki, earth tones, comfortable outdoor clothing, sun hats, cameras around necks), showing genuine excitement and wonder, taking photos, pointing at dinosaurs, safely experiencing prehistoric world, guides in professional uniforms",
+      "safety_emphasis": "All tourist elements clearly safe and professional - reinforced viewing areas, secure vehicles, expert guides present, safety equipment visible but not intrusive, showing adventure can be both thrilling and secure",
+      "comfort_luxury": "Subtle hints of luxury experience - comfortable seating, sun protection, perhaps refreshment stations, quality equipment, professional service, showing this is premium experience not roughing it"
+    },
+    
+    "dinosaur_attraction_presentation": {
+      "tyrannosaurus_rex_star": "T-Rex presented as star attraction - magnificent apex predator at safe but impressive distance, detailed realistic scaly skin showing animal's power and beauty, realistic anatomy (lips covering teeth, accurate build), positioned to show scale and majesty, perhaps hunting or displaying dominance behavior creating dramatic moment, brown-grey earth tones with possible display colors, the 'must-see' headliner of the tour",
+      "triceratops_accessible": "Triceratops herd as the 'gentle giants' tourists can observe safely, impressive three horns and massive frill shown in detail, peaceful grazing behavior making them approachable attraction, perhaps mother with juveniles for family appeal, realistic bone and skin texture, earthy colors, positioned closer to viewing areas as they're herbivores and safer",
+      "quetzalcoatlus_spectacle": "Giant Quetzalcoatlus pterosaurs as aerial spectacle - shown flying overhead or landing near observation areas, impressive wingspan creating 'wow' moment, giraffe-like height when standing, unique aerial prehistoric experience, guides explaining this isn't technically dinosaur but amazing contemporary creature",
+      "edmontosaurus_herds": "Large peaceful Edmontosaurus herds as guaranteed sightings - numerous individuals creating impressive group spectacle, duck-billed appearance unique and photogenic, safe herbivores tourists can observe for extended periods, excellent for photography and video",
+      "behavioral_moments": "Dinosaurs shown in exciting but natural behaviors - T-Rex roaring, Triceratops sparring, pterosaurs fishing, herds migrating - creating action moments for marketing while remaining scientifically accurate, these are wild animals doing natural things not circus performers"
+    },
+    
+    "prehistoric_landscape_destination": {
+      "paradise_presentation": "Lush beautiful prehistoric landscape presented as stunning natural destination, NOT scary or dangerous looking but beautiful and welcoming, like national park or nature reserve aesthetic",
+      "fern_prairies": "Beautiful expansive fern-covered plains (no grass, scientifically accurate) looking like exotic green meadows, creating open viewing areas, visually appealing prehistoric savanna feel",
+      "ancient_forests": "Majestic ancient Araucaria and other conifers creating cathedral-like forest experiences, Cycads adding exotic palm-like visual interest, early flowering Magnolias providing beautiful blooms, forests looking enchanted and inviting not dark and threatening",
+      "water_features": "Scenic rivers, lakes, or coastal areas where dinosaurs come to drink, creating perfect wildlife viewing opportunities, beautiful reflections, waterfront viewing platforms, adds visual variety and natural beauty",
+      "scenic_viewpoints": "Composition shows sweeping vistas, beautiful horizons, dramatic skies, creating sense of vast untouched prehistoric wilderness waiting to be explored, inspirational landscape photography",
+      "comfortable_climate": "Subtropical environment presented positively - warm pleasant weather, beautiful golden hour light, occasional dramatic clouds but not stormy, feels like ideal vacation climate"
+    },
+    
+    "lighting_and_atmosphere": {
+      "golden_hour_magic": "Beautiful warm golden hour lighting making everything look magical and inviting, golden amber tones, soft flattering light, long dramatic shadows, peachy-pink sky, creates 'best time of day' feeling",
+      "perfect_conditions": "Clear visibility with slight atmospheric haze for depth, pleasant warm light suggesting comfortable temperature, no harsh midday sun or threatening weather, 'perfect day' conditions",
+      "aspirational_quality": "Lighting makes everything look beautiful, appealing, photogenic - this is the Cretaceous at its most beautiful, the way it looks in your dreams",
+      "safety_visibility": "Excellent visibility showing tourists can clearly see everything, no threatening shadows or hidden dangers visible, open clear sightlines"
+    },
+    
+    "color_palette_marketing": {
+      "vibrant_appealing": "Rich vibrant but natural colors that look inviting and beautiful, enhanced for marketing appeal while remaining realistic",
+      "dinosaur_colors": "Scientifically plausible but visually appealing dinosaur colors - impressive grey-browns with vibrant accent colors on display features (reds, oranges, blues) making them look magnificent not drab",
+      "lush_greens": "Beautiful rich prehistoric greens in vegetation, various shades creating visual interest, looks lush and alive",
+      "warm_earth_tones": "Welcoming warm browns, ambers, golds in landscape and lighting, creates feeling of warmth and comfort",
+      "sky_colors": "Beautiful blue sky or gorgeous golden hour peachy-pink tones, aspirational vacation destination sky",
+      "tourist_elements": "Modern equipment and clothing in complementary earth tones (khaki, olive, tan, cream) that blend well but show modern comfort"
+    },
+    
+    "composition_commercial": {
+      "hero_shot_layout": "Dynamic composition showcasing both spectacular dinosaur encounter AND happy tourists experiencing it safely, rule of thirds with dinosaurs as primary subject and tourists/facilities as secondary showing scale and accessibility",
+      "foreground_interest": "Perhaps safari vehicle or observation platform in foreground with tourists, creating 'you could be here' perspective, immediately showing this is organized tour experience",
+      "midground_action": "Dinosaurs in mid-ground at impressive but safe distance, main wildlife spectacle, dramatic behavior or impressive poses",
+      "background_depth": "Beautiful prehistoric landscape in background showing destination beauty, creates depth and sense of vast park to explore",
+      "balanced_elements": "Perfect balance between wild exciting nature (dinosaurs) and comfortable safe tourism (vehicles, platforms, guides), shows adventure is accessible",
+      "aspirational_framing": "Composition makes viewer imagine themselves in tourist's position, creates desire to experience this"
+    },
+    
+    "travel_marketing_mood": {
+      "excitement_wonder": "Image conveys genuine excitement and sense of wonder - tourists visibly amazed, dinosaurs impressive, moment feels special and thrilling",
+      "safety_confidence": "Despite wild animals and prehistoric setting, overall mood is confident and safe - professional operation, secure viewing, expert guidance visible",
+      "luxury_quality": "Everything looks high-quality and well-organized - premium experience, professional service, comfortable facilities, this is luxury adventure not budget tourism",
+      "accessibility": "Despite exotic destination, seems achievable and welcoming - modern facilities, professional operation, suitable for various travelers, not extreme expedition",
+      "educational_value": "Subtle hints of educational experience - interpretive elements, professional guides, scientific accuracy, enriching journey not just thrill ride",
+      "memorable_experience": "Conveys this is once-in-a-lifetime bucket-list experience, photo opportunity of a lifetime, story to tell forever, ultimate adventure",
+      "family_friendly": "Can include family groups showing this is suitable for various ages, shared adventure, educational for children, bonding experience",
+      "bucket_list_appeal": "Ultimate dream vacation, top of life goals, extraordinary experience, worth the investment"
+    }
+  },
+  
+  "negative_prompt": "scary threatening atmosphere, dangerous looking, dark ominous mood, horror aesthetic, attacking dinosaurs, tourists in danger, damaged vehicles, panic, fear, threatening weather, storm clouds, disaster scenes, primitive camping, uncomfortable conditions, budget tourism, crowded mass tourism, circus-like presentation, dinosaurs performing tricks, anachronistic dinosaurs (Jurassic species), cartoon style, unrealistic colors, modern cityscape, contemporary buildings except safari facilities, poor quality rendering, blurry, low resolution, dated photography style, aggressive marketing, cheesy tourist trap aesthetic, fake obviously manipulated",
+  
+  "style_keywords": [
+    "Travel agency promotional",
+    "Luxury safari tourism",
+    "Adventure destination marketing",
+    "Premium wildlife experience",
+    "Exotic vacation destination",
+    "Time travel tourism",
+    "Cretaceous safari adventure",
+    "Aspirational travel photography",
+    "Commercial campaign quality",
+    "Golden hour beauty",
+    "Tourist attraction imagery",
+    "Safe wildlife viewing",
+    "Observation vehicles",
+    "Viewing platforms",
+    "Guided tour experience",
+    "Family adventure",
+    "Bucket-list experience",
+    "Educational tourism",
+    "Scientifically accurate",
+    "Dinosaur encounters",
+    "Prehistoric paradise",
+    "Once-in-a-lifetime",
+    "Wonder and excitement",
+    "Professional operation",
+    "8K detailed",
+    "Travel brochure quality",
+    "Booking appeal"
+  ],
+  
+  "technical_parameters": {
+    "recommended_settings": {
+      "aspect_ratio": "16:9",
+      "resolution": "7680x4320 (8K) for maximum commercial quality",
+      "quality": "maximum/ultra - commercial campaign standard",
+      "appeal_level": "High aspirational appeal, makes viewers want to book"
+    }
+  },
+  
+  "complete_prompt_string": "Stunning travel agency promotional image for premium Cretaceous Period time travel safari adventure, 16:9 format, luxury tourism campaign style, excited diverse group of tourists in modern sleek safari observation vehicle with transparent protective dome getting incredible safe close-up view of majestic Tyrannosaurus Rex with detailed realistic scaly skin lips covering teeth brown-grey coloration showing impressive power and natural beauty at secure distance, professional safari guide in uniform pointing and explaining, tourists taking photos with cameras showing genuine excitement and wonder, Triceratops herd with three horns and massive frills grazing peacefully near elegant wooden observation platform with safety railings where other visitors watch comfortably, perhaps Quetzalcoatlus pterosaur flying overhead creating aerial spectacle, spectacular golden hour lighting casting warm amber glow creating magical prehistoric atmosphere, lush beautiful fern-covered landscape (no grass scientifically accurate) looking like exotic green plains, ancient Araucaria conifer trees and Cycads creating beautiful prehistoric forest backdrop, early Magnolia trees with white pink flowers, scenic river or water feature, beautiful peachy-pink golden sky, professional travel photography with vibrant appealing natural colors, rich lush greens, warm earth tones, sense of wonder excitement and adventure balanced with safety and comfort, luxury adventure tourism aesthetic showing both spectacular wildlife and quality tourist experience, scientifically accurate Hell Creek dinosaurs but presented as accessible exciting vacation destination, welcoming inviting composition with tourists in modern comfortable safari wear (khaki, earth tones, sun hats, outdoor clothing), modern equipment blending naturally, aspirational lifestyle imagery showing this is achievable dream vacation, exotic prehistoric paradise destination, comfortable subtropical climate, perfect viewing conditions, clear visibility, educational interpretive elements subtly visible, family-friendly adventure suitable for various ages, once-in-a-lifetime bucket-list experience appeal, 8K ultra detailed showing incredible photo opportunities, professional organized operation, travel brochure commercial quality making viewers immediately want to book this extraordinary time travel safari, balanced composition showing both wild exciting nature and comfortable safe professional tourism experience, ultimate prehistoric wildlife adventure",
+  
+  "alternative_prompts": {
+    "option_1_vehicle_encounter": "Premium travel marketing, 16:9, modern safari vehicle with transparent dome, tourists inside taking photos excitedly, massive T-Rex at safe impressive distance outside showing detailed skin texture, professional guide present, beautiful fern prairie, golden hour lighting, luxury adventure tourism style, commercial quality, bucket-list experience appeal, 8K detailed",
+    
+    "option_2_platform_viewing": "Travel agency promotional, 16:9, elegant elevated wooden observation platform with tourists safely watching Triceratops herd grazing below, families and couples in safari casual wear, professional guides with binoculars, beautiful prehistoric landscape with ancient conifers, golden hour magic, aspirational destination marketing, educational tourism aesthetic, commercial campaign quality",
+    
+    "option_3_panoramic_safari": "Luxury safari advertising, 16:9, sweeping vista of beautiful Cretaceous landscape, multiple dinosaur species visible (T-Rex, Triceratops, Edmontosaurus herds, flying Quetzalcoatlus), safari vehicles and viewing platforms integrated naturally, tourists experiencing prehistoric paradise, stunning golden light, exotic destination beauty, once-in-a-lifetime adventure appeal, 8K travel brochure quality"
+  },
+  
+  "usage_notes": {
+    "for_midjourney": "Use complete_prompt_string with --ar 16:9 --style raw --v 6 --q 2",
+    "marketing_emphasis": "Balance spectacular wildlife with visible tourist experience and safety, show both adventure and comfort, make destination look accessible and appealing",
+    "booking_psychology": "Image should make viewers imagine themselves there, create desire to experience this, show value and quality of experience"
+  },
+  
+  "campaign_tagline_suggestions": [
+    "\"Experience the Cretaceous: The Ultimate Safari Adventure\"",
+    "\"66 Million Years Ago. Today's Most Extraordinary Journey.\"",
+    "\"Walk with Dinosaurs. Safely. Comfortably. Unforgettably.\"",
+    "\"Time Travel Safari: Where Dreams Meet Reality\"",
+    "\"The Cretaceous Awaits: Your Prehistoric Paradise Adventure\"",
+    "\"Beyond Your Wildest Dreams: Premium Dinosaur Encounters\""
+  ]
+}
+

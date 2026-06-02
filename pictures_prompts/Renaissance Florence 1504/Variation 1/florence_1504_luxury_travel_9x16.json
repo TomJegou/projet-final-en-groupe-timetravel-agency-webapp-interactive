@@ -1,0 +1,138 @@
+{
+  "prompt_config": {
+    "aspect_ratio": "9:16",
+    "orientation": "vertical",
+    "format": "Instagram Stories/Reels, TikTok optimized",
+    "style": "Cinematic luxury travel photography",
+    "theme": "Renaissance Florence 1504 - Cradle of the Renaissance",
+    "photography_style": "National Geographic quality, historical documentary style",
+    "quality": "8K ultra detailed, medium format camera",
+    "artistic_influence": "Leonardo da Vinci sfumato, Botticelli elegance"
+  },
+  "main_prompt": "Cinematic travel photography of Renaissance Florence 1504, 9:16 vertical portrait format, luxury campaign style, golden hour Tuscan lighting, Brunelleschi's magnificent dome towering vertically with red terracotta tiles and polychrome marble, or tall Torre d'Arnolfo of Palazzo Vecchio reaching skyward, elegant Renaissance citizens in 1504 fashion on cobblestone streets below, women in velvet gowns with slashed sleeves, men in doublets, ochre-yellow buildings with pietra serena stone flanking vertical composition, professional color grading with Tuscan palette, shot on medium format camera with beautiful vertical depth of field, Leonardo sfumato atmospheric perspective, National Geographic quality, aspirational cultural mood, authentic historical accuracy, vibrant Renaissance colors, 8K ultra detailed, immersive vertical storytelling for Stories and Reels, luxury cultural travel aesthetic",
+  
+  "composition_notes": {
+    "stories_reels_optimization": "Vertical 9:16 format perfect for immersive mobile viewing, emphasizes vertical Renaissance architecture - dome towers campaniles",
+    "vertical_storytelling": "Composition flows from street-level Renaissance life upward through architecture to Tuscan sky",
+    "framing_options": [
+      "Option 1: Ground-level looking up at towering Duomo dome, Renaissance figures in foreground, dramatic vertical scale",
+      "Option 2: Palazzo Vecchio tower reaching vertically with piazza and citizens below",
+      "Option 3: Narrow medieval street opening to piazza with Renaissance architecture towering above",
+      "Option 4: Vertical slice showing layers - street life, architecture, dome, Tuscan sky"
+    ],
+    "mobile_viewing": "Optimized for full-screen vertical mobile, immersive Renaissance experience",
+    "safe_zones": "Key elements positioned to avoid Stories UI at top and bottom"
+  },
+  
+  "detailed_elements": {
+    "architecture_vertical": {
+      "duomo_vertical": "Brunelleschi's dome emphasized in vertical frame, red terracotta tiles, polychrome marble, towering majestically from base to cupola top",
+      "palazzo_vecchio_tower": "94-meter Torre d'Arnolfo perfect for vertical composition, crenellated ochre-brown stone reaching skyward",
+      "vertical_buildings": "Tall Florentine buildings flanking narrow streets, ochre-yellow with pietra serena, creating vertical depth"
+    },
+    
+    "fashion_1504_vertical": {
+      "women": "Rich velvet gowns visible in foreground detail, high waists, square necklines, slashed sleeves with white chemise, elaborate embroidery, crimson deep blue green, pearl nets",
+      "men": "Fitted doublets, bicolor hose, flat hats, positioned in foreground or mid-ground for scale and human interest"
+    },
+    
+    "tuscan_colors_vertical": {
+      "vertical_palette": ["ochre yellow buildings", "terra di Siena", "crimson red fashion", "olive green", "ultramarine blue accents", "terracotta tiles", "grey stone", "white marble", "golden sky"],
+      "vertical_grading": "Renaissance oil painting aesthetic flowing through vertical frame, warm golden tones"
+    },
+    
+    "golden_hour_vertical": {
+      "vertical_lighting": "Golden hour light flowing through vertical composition, warm amber from ground to sky",
+      "dramatic_shadows": "Long vertical shadows emphasizing architecture height and depth",
+      "sky_gradient": "Beautiful warm peachy-pink and golden Tuscan sky in upper vertical frame",
+      "atmospheric": "Sfumato haze creating vertical depth layers, dusty workshop air"
+    },
+    
+    "vertical_depth": {
+      "foreground": "Renaissance street life, citizens in period costume, cobblestones",
+      "midground": "Florentine architecture, ochre buildings, pietra serena details",
+      "background": "Dominant architectural element (Duomo or tower), Tuscan sky"
+    }
+  },
+  
+  "negative_prompt": "modern elements, contemporary clothing, cars, modern buildings, anachronistic architecture, baroque, incorrect fashion, gothic only, harsh flash, flat lighting, oversaturated digital, wrong period, plastic, modern tourism, incorrect Duomo colors, modern Ponte Vecchio, grass in piazzas, modern lamps, power lines, graffiti, horizontal composition, landscape orientation",
+  
+  "style_keywords": [
+    "Cinematic travel photography",
+    "Luxury cultural travel",
+    "Renaissance Florence 1504",
+    "Vertical composition",
+    "Stories aesthetic",
+    "Reels optimized",
+    "Golden hour Tuscan",
+    "Leonardo sfumato",
+    "Brunelleschi Dome vertical",
+    "Palazzo Vecchio tower",
+    "Renaissance fashion",
+    "Velvet brocade",
+    "Tuscan palette",
+    "Chiaroscuro",
+    "Vertical depth",
+    "8K detailed",
+    "Immersive storytelling",
+    "Cultural golden age"
+  ],
+  
+  "technical_parameters": {
+    "recommended_settings": {
+      "aspect_ratio": "9:16",
+      "resolution": "2160x3840 (4K vertical) or 4320x7680 (8K)",
+      "stories_reels_specs": "Minimum 1080x1920px",
+      "quality": "maximum/ultra"
+    }
+  },
+  
+  "complete_prompt_string": "Cinematic luxury travel photography of Renaissance Florence 1504, 9:16 vertical portrait format for Instagram Stories and Reels, golden hour Tuscan lighting casting warm amber glow, magnificent Duomo of Santa Maria del Fiore with Brunelleschi's dome towering vertically in frame, red terracotta tiles and polychrome marble facade (white green pink) reaching from base upward, OR Palazzo Vecchio's 94-meter Torre d'Arnolfo tower stretching skyward, elegant Renaissance citizens in authentic 1504 fashion on cobblestone streets in foreground, women in rich velvet gowns with high waists square necklines slashed sleeves showing white chemise, elaborate gold embroidery, crimson red deep blue forest green gowns, pearl nets in hair, men in fitted doublets over bicolor striped hose with flat felt hats, tall ochre-yellow stucco buildings with pietra serena grey stone columns flanking vertical composition, terracotta roofs, narrow medieval streets opening to bright Renaissance piazzas, professional color grading with Tuscan Renaissance palette flowing vertically, ochre yellow terra di Siena crimson olive green ultramarine blue, shot on medium format camera with beautiful vertical depth of field, Leonardo da Vinci sfumato soft atmospheric perspective creating vertical depth layers, chiaroscuro lighting with long vertical shadows, marble dust in air from workshops, warm golden light gradient from ground to beautiful peachy-pink Tuscan sky at top, National Geographic quality editorial photography, aspirational cultural mood evoking Renaissance artistic golden age, authentic historical accuracy, vibrant sophisticated Renaissance oil painting colors, 8K ultra detailed showing fabric textures embroidery and architectural details, immersive vertical storytelling optimized for Stories and Reels, luxury cultural travel aesthetic, dramatic vertical sense of Renaissance architectural mastery",
+  
+  "alternative_prompts": {
+    "option_1_duomo_vertical": "Luxury travel photography, 9:16 vertical, golden hour, Brunelleschi's dome towering in frame, red terracotta and marble, Renaissance figures below, ochre buildings flanking, Tuscan colors, Leonardo sfumato, National Geographic, 8K detailed, Stories optimized",
+    
+    "option_2_tower_vertical": "Cultural travel editorial, 9:16 vertical, Palazzo Vecchio tower reaching skyward, piazza with Renaissance crowd below in 1504 costume, golden light, chiaroscuro, Tuscan palette, medium format aesthetic, immersive vertical storytelling, Reels format, 8K ultra detailed",
+    
+    "option_3_street_vertical": "High-end cultural photography, 9:16 vertical, narrow Florentine street with Renaissance figures in foreground, tall ochre buildings, Duomo dome rising majestically in background, golden hour, sfumato atmosphere, vertical depth layers, professional color grading, Stories perfect, 8K detailed"
+  },
+  
+  "usage_notes": {
+    "for_midjourney": "Use complete_prompt_string with --ar 9:16 --style raw --v 6 --q 2",
+    "stories_reels_tips": [
+      "Export at 1080x1920px minimum, 2160x3840px for premium",
+      "Vertical format naturally emphasizes Renaissance architectural height",
+      "Duomo and towers perfect for vertical mobile viewing",
+      "Position key elements within safe zones for UI",
+      "Cultural content performs well in Stories/Reels"
+    ]
+  },
+  
+  "instagram_caption_suggestions": [
+    "Florence 1504 from street to sky 🏛️✨ #RenaissanceFlorence",
+    "The Duomo towers above Renaissance life 🌅 #Florence1504",
+    "Walking through living history 🎨 #TuscanGoldenHour",
+    "1504: The golden age of art and architecture ✨ #Renaissance",
+    "From cobblestones to cupola 🏛️ #FlorenceStories",
+    "Vertical journey through the Renaissance 🌅🎨"
+  ],
+  
+  "hashtag_suggestions": [
+    "#Florence1504",
+    "#Renaissance",
+    "#InstagramStories",
+    "#Reels",
+    "#TravelReels",
+    "#Firenze",
+    "#CulturalTravel",
+    "#HistoricalTravel",
+    "#Duomo",
+    "#BrunelleschiDome",
+    "#TuscanLight",
+    "#ItalianRenaissance",
+    "#VerticalTravel",
+    "#RenaissanceArt",
+    "#TimelessItaly"
+  ]
+}
+

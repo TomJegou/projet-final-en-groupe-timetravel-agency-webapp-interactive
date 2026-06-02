@@ -1,0 +1,171 @@
+{
+  "prompt_config": {
+    "aspect_ratio": "1:1",
+    "orientation": "square",
+    "format": "Instagram optimized",
+    "style": "Cinematic luxury travel photography",
+    "theme": "Late Cretaceous Period - Hell Creek Formation (~66 million years ago)",
+    "photography_style": "National Geographic quality, Prehistoric Planet documentary style",
+    "quality": "8K ultra detailed, medium format camera"
+  },
+  "main_prompt": "Cinematic wildlife travel photography of the Late Cretaceous Period Hell Creek Formation, 1:1 square format for Instagram, luxury campaign style, golden hour lighting casting warm amber glow, a massive Tyrannosaurus Rex with thick scaly skin centered majestically in frame, Triceratops with massive frill in mid-ground, lush prehistoric vegetation with dense ferns covering ground, ancient conifers and Cycads, humid subtropical atmosphere with heat haze, professional color grading with rich earthy tones, shot on medium format camera with beautiful depth of field, Prehistoric Planet documentary realism, National Geographic quality, aspirational mood, scientifically accurate, vibrant but natural colors, 8K ultra detailed, square composition perfect for Instagram, luxury nature documentary aesthetic",
+  
+  "composition_notes": {
+    "instagram_optimization": "Square 1:1 format designed for maximum visual impact in Instagram feeds, powerful centered composition with prehistoric megafauna as focal point",
+    "framing_options": [
+      "Option 1: T-Rex portrait-style centered in frame, sharp focus on head and upper body showing skin texture detail, fern prairie background",
+      "Option 2: Triceratops with three horns and frill as hero subject centered, facing camera, dramatic golden hour lighting",
+      "Option 3: Giant Quetzalcoatlus pterosaur standing on ground showing giraffe-like height, prehistoric landscape behind",
+      "Option 4: Edmontosaurus herd in fern prairie with ancient forest backdrop creating balanced square composition"
+    ],
+    "square_format_strategy": "Use dramatic dinosaur subjects that work well centered, emphasize scale and detail, create thumb-stopping Instagram impact"
+  },
+  
+  "detailed_elements": {
+    "time_period_specifics": {
+      "geological_period": "Late Cretaceous Period, Maastrichtian Age",
+      "location": "Hell Creek Formation, North America",
+      "years_ago": "Approximately 66 million years ago",
+      "climate": "Greenhouse Earth - subtropical, humid, warm"
+    },
+    
+    "dinosaur_species": {
+      "tyrannosaurus_rex": "T-Rex, apex predator, massive build 12-13m long, thick scaly skin, lips covering teeth when mouth closed, powerful and intimidating, brown-grey coloration with possible display colors on head",
+      "triceratops": "Three-horned herbivore, massive bone frill, tank-like body 8-9m long, earthy brown-grey with potential bright frill accents, Instagram-worthy iconic dinosaur",
+      "quetzalcoatlus": "Giant pterosaur, wingspan 10-11m, tall as giraffe on ground, long toothless beak, impressive scale for dramatic square composition",
+      "edmontosaurus": "Duck-billed dinosaur, 12-13m long, lives in herds, peaceful grazing behavior, brown-beige coloration",
+      "scientific_accuracy": "All Hell Creek species, modern paleontological accuracy, no Jurassic dinosaurs"
+    },
+    
+    "prehistoric_vegetation": {
+      "ground_cover": "NO GRASS - ground covered entirely with ferns (bracken ferns, tree ferns), dense ferny undergrowth",
+      "trees": "Ancient Araucaria conifers, Cycads (short palm-like), early flowering Magnolia trees",
+      "landscape": "Mix of dense subtropical forest and open fern-covered floodplains",
+      "visual_signature": "Lush prehistoric green with earthy tones, ferns creating unique ground texture instead of grass"
+    },
+    
+    "golden_hour_lighting": {
+      "light_quality": "Warm amber and golden tones, dramatic shadows emphasizing dinosaur scale and texture",
+      "light_on_subjects": "Thick scaly dinosaur skin catching warm light with beautiful highlights showing every scale detail",
+      "atmospheric_quality": "Humid subtropical haze creating soft diffused quality, heat shimmer adding prehistoric atmosphere",
+      "sky": "Warm peachy-pink tones at horizon, subtropical color palette"
+    },
+    
+    "color_palette": {
+      "dominant_colors": ["forest green", "earthy brown", "slate grey (dinosaur skin)", "warm golden amber", "volcanic grey-blue", "vibrant display colors", "peachy sky"],
+      "dinosaur_coloration": "Scientific plausibility - brown, grey, olive base colors, vibrant accent colors (reds, oranges, blues) on crests and display features for males",
+      "color_grading_style": "Professional wildlife documentary grading, National Geographic aesthetic, rich natural saturation, enhanced warm golden hour tones",
+      "instagram_appeal": "Colors that pop in Instagram feeds while maintaining documentary realism and scientific accuracy"
+    },
+    
+    "camera_technical": {
+      "camera_type": "Medium format camera aesthetic (Hasselblad wildlife quality)",
+      "documentary_style": "Prehistoric Planet photorealism standard",
+      "depth_of_field": "Wildlife photography DOF optimized for square format, main subject tack sharp, background elegantly soft",
+      "sharpness": "8K ultra detailed - every scale, skin fold, plant texture visible in focus areas",
+      "image_quality": "Documentary quality, clean with subtle organic texture"
+    },
+    
+    "composition": {
+      "layout": "Strong centered composition for square format, rule of thirds adapted to 1:1, dramatic subject placement",
+      "scale_emphasis": "Composition shows massive size of dinosaurs through environmental context and framing",
+      "visual_impact": "Thumb-stopping Instagram presence, immediately captivating prehistoric subject"
+    },
+    
+    "mood_atmosphere_mood": {
+      "aspirational": "Luxury time-travel experience mood, making viewer want to witness this lost world",
+      "scientific_wonder": "Authentic paleontological accuracy with stunning visual appeal",
+      "dramatic": "Epic scale and drama of prehistoric megafauna",
+      "instagram_friendly": "Optimized for social media engagement while maintaining documentary quality"
+    }
+  },
+  
+  "negative_prompt": "modern animals, humans, contemporary elements, anachronistic dinosaurs (Stegosaurus, Brachiosaurus, Jurassic species), cartoon style, outdated Jurassic Park look, teeth protruding from closed mouth, excessive feathering, bright neon colors, grass on ground, modern plants, buildings, vehicles, oversaturated cartoon colors, low resolution, blurry, poor CGI, fake look, toy-like, anthropomorphic, inaccurate anatomy, mixed time periods, flat lighting, horizontal composition, stretched image",
+  
+  "style_keywords": [
+    "Cinematic wildlife photography",
+    "Luxury nature documentary",
+    "Late Cretaceous Period",
+    "Hell Creek Formation",
+    "Golden hour lighting",
+    "Professional color grading",
+    "Medium format camera",
+    "Prehistoric Planet quality",
+    "National Geographic wildlife",
+    "Documentary realism",
+    "Square composition",
+    "Instagram aesthetic",
+    "Scientifically accurate",
+    "Tyrannosaurus Rex",
+    "Triceratops",
+    "Quetzalcoatlus",
+    "Prehistoric vegetation",
+    "Fern-covered ground",
+    "Subtropical climate",
+    "8K ultra detailed",
+    "Photorealistic dinosaurs",
+    "Paleontological accuracy",
+    "Epic scale",
+    "Social media optimized"
+  ],
+  
+  "technical_parameters": {
+    "recommended_settings": {
+      "aspect_ratio": "1:1",
+      "resolution": "4320x4320 (8K square) or minimum 2160x2160 (4K)",
+      "quality": "maximum/ultra",
+      "instagram_specs": "Minimum 1080x1080px",
+      "detail_level": "8K ultra detailed, documentary quality"
+    }
+  },
+  
+  "complete_prompt_string": "Cinematic wildlife travel photography of Late Cretaceous Period Hell Creek Formation 66 million years ago, 1:1 square format for Instagram, golden hour lighting casting warm amber glow, massive Tyrannosaurus Rex with thick scaly skin and powerful build centered majestically in frame, lips covering teeth, brown-grey coloration with possible display colors, OR Triceratops with three horns and massive bone frill as hero subject, OR giant Quetzalcoatlus pterosaur showing giraffe-like height, lush prehistoric vegetation with NO GRASS, ground completely covered with dense ferns and tree ferns, ancient Araucaria conifer trees, short Cycads, early Magnolia trees, humid subtropical atmosphere with heat haze, professional wildlife documentary color grading with rich earthy forest greens, slate grey dinosaur skin, vibrant accent colors on display features, warm golden ambient light, shot on medium format camera with wildlife photography depth of field, main subject tack sharp showing every scale and skin texture detail in 8K resolution, background with soft bokeh, Prehistoric Planet documentary realism and scientific accuracy, National Geographic wildlife photography quality, aspirational mood evoking wonder, scientifically accurate Hell Creek fauna, authentic Late Cretaceous ecosystem, vibrant but naturalistic colors, 8K ultra detailed textures, square composition perfect for Instagram feeds, luxury nature documentary aesthetic, photorealistic rendering, thumb-stopping visual impact",
+  
+  "alternative_prompts": {
+    "option_1_trex_portrait": "Luxury wildlife photography, 1:1 square, golden hour, Tyrannosaurus Rex head and upper body portrait centered in frame, thick scaly skin texture in sharp focus, lips covering teeth, powerful intimidating presence, fern prairie background soft bokeh, professional documentary color grading, medium format quality, Prehistoric Planet realism, Instagram optimized, 8K detailed, scientifically accurate",
+    
+    "option_2_triceratops_hero": "Cinematic nature documentary, 1:1 square, golden hour Late Cretaceous, Triceratops with three horns and massive frill centered facing camera, dramatic lighting on bone frill showing texture, ancient forest with ferns backdrop, professional wildlife grading, medium format aesthetic, Hell Creek accuracy, aspirational mood, Instagram format, 8K ultra detailed",
+    
+    "option_3_pterosaur_scale": "High-end nature photography, 1:1 square, golden hour lighting, giant Quetzalcoatlus pterosaur standing on ground showing impressive giraffe-like height, long beak, prehistoric landscape with ferns and ancient conifers, warm amber light, professional documentary grading, National Geographic quality, square Instagram composition, scientifically accurate, 8K detailed"
+  },
+  
+  "usage_notes": {
+    "for_midjourney": "Use complete_prompt_string with --ar 1:1 --style raw --v 6 --q 2",
+    "for_stable_diffusion": "Use main_prompt + detailed_elements, include negative_prompt, photorealistic models",
+    "for_dalle": "Use complete_prompt_string, emphasize square format and Instagram optimization",
+    "instagram_tips": [
+      "Export at minimum 1080x1080px",
+      "Consider 2160x2160px for premium quality",
+      "Dinosaur subjects create strong engagement",
+      "Documentary realism makes content educational and shareable",
+      "Golden hour aesthetic adds cinematic quality"
+    ]
+  },
+  
+  "instagram_caption_suggestions": [
+    "66 million years ago: golden hour in the Cretaceous 🦖✨",
+    "Time traveling to when giants walked the Earth 🌍 #Cretaceous",
+    "Meet the king: T-Rex in his prime 🦖 #PrehistoricPlanet",
+    "Late Cretaceous luxury travel experience ✨ Hell Creek Formation",
+    "Before the asteroid: life in the age of dinosaurs 🦕🌅",
+    "Prehistoric wildlife photography at its finest 📸🦖"
+  ],
+  
+  "hashtag_suggestions": [
+    "#Cretaceous",
+    "#Dinosaurs",
+    "#TRex",
+    "#Triceratops",
+    "#PrehistoricPlanet",
+    "#Paleontology",
+    "#WildlifePhotography",
+    "#NatureDocumentary",
+    "#TimeTravel",
+    "#PrehistoricLife",
+    "#DinosaurLove",
+    "#NationalGeographic",
+    "#ScienceAccurate",
+    "#LuxuryTravel"
+  ]
+}
+

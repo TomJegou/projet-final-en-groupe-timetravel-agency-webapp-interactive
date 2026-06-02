@@ -1,0 +1,119 @@
+{
+  "prompt_config": {
+    "aspect_ratio": "1:1",
+    "orientation": "square",
+    "format": "Instagram time travel documentation",
+    "style": "Ultra-realistic time travel photography documentation",
+    "theme": "Renaissance Florence 1504 - Authentic Time Travel Experience",
+    "photography_style": "Photorealistic documentation, actual time travel photography",
+    "quality": "8K photorealistic, as if truly captured in 1504"
+  },
+  "main_prompt": "Ultra-realistic photograph captured by time travelers actually visiting Renaissance Florence 1504, 1:1 square format for Instagram, absolutely photorealistic quality as if shot with modern camera in authentic past, genuine Renaissance Florence with real 1504 citizens in period-accurate clothing, Duomo with Brunelleschi's dome exactly as it appeared in 1504, or David statue freshly installed with real crowd, or Leonardo actually working, authentic ochre buildings with period weathering, genuine Renaissance people conducting real daily life naturally unaware of camera, natural golden hour Tuscan lighting, every detail historically accurate - not staged or reconstructed, candid documentary photography of actual 1504 captured by time travel tourist, 8K photorealistic showing this is genuine time travel photography, square composition perfect for Instagram documentation",
+  
+  "composition_notes": {
+    "instagram_documentation": "Square 1:1 format for time travel tourist Instagram posts, documenting authentic Renaissance experience like real vacation photos but from the past",
+    "authentic_moments": [
+      "Option 1: Real Renaissance citizen portrait in authentic 1504 fashion, candid unposed, Duomo background",
+      "Option 2: David statue fresh installation with genuine crowd, documentary capture",
+      "Option 3: Leonardo's actual workshop with master at work, authentic moment",
+      "Option 4: Authentic Florence street scene, real daily life, natural behavior"
+    ]
+  },
+  
+  "detailed_elements": {
+    "time_travel_authenticity": {
+      "real_photography": "Actual photographs taken by time tourists in genuine 1504, not reenactments or recreations",
+      "candid_documentation": "Real Renaissance people unaware of camera, behaving naturally, authentic moments captured",
+      "historical_accuracy_absolute": "Every detail precisely accurate to 1504 - correct architecture state, exact fashion, proper context"
+    },
+    
+    "authentic_subjects": {
+      "real_florentines": "Genuine Renaissance citizens in accurate 1504 dress conducting authentic daily activities naturally",
+      "david_authentic": "Michelangelo's David just installed 1504 with real period crowd naturally gathered",
+      "leonardo_real": "Leonardo da Vinci actually working in authentic workshop with genuine materials and apprentices",
+      "architecture_exact": "Buildings exactly as they appeared in 1504 with authentic period weathering and details"
+    },
+    
+    "photorealistic_capture": {
+      "modern_camera_quality": "Professional DSLR quality (Canon EOS R5, Nikon Z9) but capturing real historical subject",
+      "natural_lighting": "Only natural Renaissance sunlight, authentic atmospheric conditions, real shadow physics",
+      "8k_detail": "Ultra-sharp photorealistic showing every authentic texture - fabric weave, stone grain, skin detail"
+    }
+  },
+  
+  "negative_prompt": "staged reenactment, reconstruction, theme park, costumed actors, theatrical, artificial sets, modern elements, anachronistic, wrong period, baroque, medieval only, incorrect fashion, modern materials, plastic, fake appearance, CGI rendered, painting style, artistic interpretation, modern lighting, posed subjects, aware of camera, incorrect historical details, post-1504 additions, low quality, blurry, fake, tourist attraction, entertainment venue, horizontal composition, stretched",
+  
+  "style_keywords": [
+    "Ultra-realistic time travel",
+    "Authentic 1504 photo",
+    "Photorealistic historical",
+    "Real Renaissance",
+    "Genuine time travel",
+    "Documentary photography",
+    "Square composition",
+    "Instagram documentation",
+    "Historical accuracy absolute",
+    "Candid Renaissance",
+    "Natural behavior",
+    "Modern camera past",
+    "8K photorealistic",
+    "Living history",
+    "Actual past capture"
+  ],
+  
+  "technical_parameters": {
+    "recommended_settings": {
+      "aspect_ratio": "1:1",
+      "resolution": "4320x4320 (8K square)",
+      "instagram_specs": "Minimum 1080x1080px",
+      "quality": "maximum - photorealistic"
+    }
+  },
+  
+  "complete_prompt_string": "Ultra-realistic photograph captured by time travelers actually visiting Renaissance Florence 1504, 1:1 square Instagram format, absolutely photorealistic quality as if shot with professional modern DSLR camera in authentic past, genuine Renaissance Florence with real 1504 citizens in period-accurate clothing conducting authentic daily life naturally unaware of camera, magnificent Duomo with Brunelleschi's dome exactly as appeared in 1504 with 68 years authentic weathering red terracotta tiles polychrome marble, OR Michelangelo's David statue freshly installed at Palazzo Vecchio with real Renaissance crowd naturally gathered, OR Leonardo da Vinci actually working in authentic bottega with genuine apprentices, real ochre-yellow buildings with pietra serena grey stone showing period-accurate weathering, genuine Renaissance Florentines in precise 1504 fashion - women in velvet gowns with slashed sleeves pearl nets, men in doublets and hose all with realistic wear, citizens conducting real business artisans working naturally, natural golden hour Tuscan sunlight with authentic Renaissance atmospheric conditions dust and marble dust, every detail absolutely historically accurate to 1504 no anachronisms, candid documentary photography capturing real historical moment as time travel tourist observing, 8K ultra-detailed photorealistic showing genuine fabric textures stone details all captured with documentary precision, natural photographic realism not artistic rendering, this is actual time travel photography of real Renaissance Florence not reconstruction, square composition perfect for Instagram time travel documentation",
+  
+  "alternative_prompts": {
+    "option_1_portrait_square": "Time travel photo, 1:1 square, photorealistic, authentic Renaissance citizen in 1504 fashion, Duomo background, natural behavior, modern camera historical subject, Instagram format, 8K documentary, absolute accuracy",
+    
+    "option_2_david_square": "Ultra-realistic time travel, 1:1 square, David statue fresh installation genuine crowd 1504, Palazzo Vecchio, candid capture, photorealistic, Instagram documentation, historically perfect",
+    
+    "option_3_workshop_square": "Authentic time travel photo, 1:1 square Instagram, Leonardo actually working authentic workshop, real apprentices, period materials, natural light, photorealistic candid, 8K detail, absolute historical accuracy"
+  },
+  
+  "usage_notes": {
+    "for_midjourney": "Use complete_prompt_string with --ar 1:1 --style raw --v 6 --q 2, emphasize 'photorealistic' 'actual photograph' 'documentary'",
+    "instagram_tips": [
+      "Export at 1080x1080px minimum, 2160x2160px premium",
+      "Document authentic Renaissance like real vacation photos from past",
+      "Emphasize candid natural moments not posed",
+      "Historical accuracy creates educational shareable content"
+    ]
+  },
+  
+  "instagram_caption_suggestions": [
+    "Just got back from 1504! 📸 Real Renaissance Florence #TimeTravel",
+    "Met Leonardo today in his actual workshop 🎨 #Florence1504",
+    "POV: You're actually there when David was unveiled 🗿✨",
+    "My vacation photos from Renaissance Florence 📷 #RealTimeTravel",
+    "This is what 1504 really looked like 🏛️ #AuthenticHistory",
+    "Time travel tourist documentation: Florence as it actually was ✨"
+  ],
+  
+  "hashtag_suggestions": [
+    "#TimeTravel",
+    "#Florence1504",
+    "#Renaissance",
+    "#RealHistory",
+    "#TimeTravelPhotography",
+    "#AuthenticPast",
+    "#LeonardoDaVinci",
+    "#MichelangeloDavid",
+    "#DocumentaryPhotography",
+    "#LivingHistory",
+    "#RenaissanceFlorence",
+    "#HistoricalAccuracy",
+    "#ActualPast",
+    "#TimeTourist"
+  ]
+}
+

@@ -1,0 +1,168 @@
+{
+  "prompt_config": {
+    "aspect_ratio": "9:16",
+    "orientation": "vertical",
+    "format": "Instagram Stories/Reels, TikTok travel marketing",
+    "style": "Travel agency attraction promotional imagery",
+    "theme": "Late Cretaceous Period - Premium Time Travel Safari Experience",
+    "photography_style": "Aspirational travel advertising, adventure tourism, vertical mobile-optimized",
+    "quality": "8K ultra detailed, commercial campaign quality"
+  },
+  "main_prompt": "Dynamic travel agency promotional content for premium Cretaceous safari, 9:16 vertical format for Stories and Reels, luxury tourism campaign style, excited tourists in modern safari observation vehicle experiencing thrilling dinosaur encounter from safe transparent dome, towering Tyrannosaurus Rex filling vertical frame dramatically while tourists photograph safely from below, or elevated observation platform with families watching prehistoric wildlife, spectacular golden hour lighting creating magical atmosphere, lush fern-covered landscape with ancient conifers emphasizing vertical depth, vibrant appealing colors, sense of wonder excitement and safety combined, luxury adventure tourism aesthetic, scientifically accurate dinosaurs presented as accessible vacation destination, immersive vertical storytelling showing both wildlife spectacle and comfortable tourist experience, aspirational lifestyle imagery optimized for mobile viewing, 8K detailed, travel marketing making viewers want to book immediately, perfect for Stories and Reels engagement",
+  
+  "composition_notes": {
+    "stories_reels_optimization": "Vertical 9:16 travel marketing format for immersive mobile viewing, emphasizes towering dinosaurs and vertical adventure while showing tourist safety and comfort",
+    "vertical_storytelling": "Composition flows from ground-level tourist perspective upward to impressive dinosaurs, creating aspirational first-person experience",
+    "framing_options": [
+      "Option 1: Ground-level tourist POV looking up at towering T-Rex from safe vehicle, dramatic vertical scale showing adventure, vehicle dome visible in foreground",
+      "Option 2: Vertical platform view showing tourists at mid-level watching dinosaurs below and pterosaurs above, multi-level prehistoric experience",
+      "Option 3: Tourist in foreground filming with phone in vertical format, dinosaur spectacular in background, relatable Stories/Reels moment",
+      "Option 4: Vertical slice showing complete safari experience - vehicle at bottom, tourists in middle, dinosaurs and sky above"
+    ],
+    "mobile_engagement": "Optimized for vertical mobile viewing with swipe-up appeal, creates desire to learn more and book, perfect for Stories ads",
+    "safe_zones": "Key elements positioned to avoid Stories UI, maintaining commercial impact and call-to-action space"
+  },
+  
+  "detailed_elements": {
+    "travel_agency_vertical": {
+      "mobile_marketing": "Premium time travel safari optimized for Stories/Reels/TikTok format, vertical video-style promotional imagery for social media generation",
+      "target_audience": "Mobile-first travelers, Stories viewers, adventure seekers, families, luxury experience enthusiasts scrolling social media",
+      "vertical_selling_points": "Immersive first-person perspective, towering impressive dinosaurs, safe comfortable experience, shareable vertical content, ultimate photo/video opportunity",
+      "call_to_action": "Swipe up to book, link in bio, immediate booking appeal through compelling vertical imagery"
+    },
+    
+    "tourist_experience_vertical": {
+      "safari_vehicles_vertical": "Modern observation vehicles with transparent domes viewed from inside or showing excited tourists photographing dinosaurs, vertical composition emphasizing protected safe viewing while dinosaurs tower above",
+      "viewing_platforms_vertical": "Elevated platforms shown in vertical frame with tourists at mid-level, dinosaurs below or at eye level, pterosaurs above, creating multi-layer vertical safari experience",
+      "tourist_authenticity": "Diverse tourists in modern safari casual wear (khaki, earth tones, sun hats, cameras) showing genuine excitement, taking vertical photos/videos themselves, creating relatable Stories moment",
+      "professional_guides": "Expert guides in uniform visible explaining and ensuring safety, professional operation clear, showing this is organized premium experience",
+      "vertical_safety": "Security elements visible throughout vertical frame - reinforced viewing areas, protective domes, railings - showing adventure is thrilling but completely safe"
+    },
+    
+    "dinosaur_vertical_spectacle": {
+      "tyrannosaurus_rex_towering": "T-Rex emphasized in vertical composition filling frame from ground upward, detailed realistic scaly skin, lips covering teeth, brown-grey with display colors, towering impressively while tourists safely observe from below, creating dramatic vertical scale and power",
+      "triceratops_accessible": "Triceratops herds at comfortable viewing level, impressive three horns and massive frills, peaceful grazing showing they're safe herbivores, families can observe comfortably, positioned in vertical frame for perfect viewing",
+      "quetzalcoatlus_aerial": "Giant pterosaurs perfect for vertical composition - shown flying through upper portion of frame or standing showing full giraffe-height, impressive wingspan, unique aerial prehistoric experience in vertical space",
+      "edmontosaurus_herds": "Large peaceful herds creating impressive group spectacle in mid-ground, guaranteed sightings, excellent for vertical video panning",
+      "vertical_behavior": "Dinosaurs shown in exciting natural behaviors that work well vertically - T-Rex roaring upward, pterosaurs diving, herds moving through vertical landscape"
+    },
+    
+    "prehistoric_paradise_vertical": {
+      "vertical_landscape": "Lush beautiful prehistoric environment composed vertically - fern-covered ground in foreground, ancient towering conifers reaching up frame, sky at top, creating depth layers",
+      "fern_prairies_foreground": "Beautiful fern-covered plains (no grass, scientifically accurate) in sharp foreground detail, exotic green ground cover looking inviting",
+      "ancient_forests_vertical": "Tall ancient Araucaria conifers and pines emphasizing vertical composition naturally, Cycads and Magnolias adding variety, forest creating height and majesty",
+      "scenic_elements": "Water features, dramatic skies, beautiful horizons composed for vertical viewing, creating aspirational destination beauty",
+      "welcoming_atmosphere": "Environment looks beautiful and inviting not threatening, comfortable subtropical climate, perfect vacation conditions"
+    },
+    
+    "golden_hour_vertical": {
+      "vertical_lighting": "Beautiful warm golden hour light flowing through vertical composition, warm amber glow from foreground to sky, creating magical atmosphere",
+      "dramatic_vertical_shadows": "Long shadows emphasizing vertical depth and dinosaur scale, dramatic but inviting lighting",
+      "sky_gradient": "Beautiful peachy-pink and golden sky in upper portion of vertical frame, aspirational vacation sunset/sunrise",
+      "perfect_conditions": "Clear visibility throughout vertical frame, comfortable lighting, perfect viewing weather, ideal photo opportunity moment"
+    },
+    
+    "stories_colors": {
+      "vibrant_mobile": "Rich vibrant but natural colors optimized for mobile screens and Stories viewing, immediate visual impact while scrolling",
+      "vertical_harmony": "Color palette flowing harmoniously through vertical composition - earthy foreground, lush green middle, beautiful sky top",
+      "engagement_colors": "Colors that capture attention in fast-scrolling Stories and Reels feeds while maintaining professional quality and natural authenticity"
+    },
+    
+    "vertical_marketing_mood": {
+      "immersive_excitement": "Vertical format creates immersive first-person feeling - viewer feels like they're actually there experiencing safari",
+      "safe_adventure": "Despite dramatic towering dinosaurs, overall mood is confident and secure, professional operation visible",
+      "shareable_moment": "Composition creates desire to share and post, relatable vertical content, Instagram/TikTok-worthy experience",
+      "booking_urgency": "Immediate desire to book created by compelling vertical imagery showing ultimate bucket-list experience",
+      "family_appeal": "Can show families enjoying together, suitable for various ages, bonding adventure"
+    }
+  },
+  
+  "negative_prompt": "scary threatening atmosphere, tourists in danger, attacking dinosaurs, dark ominous horror aesthetic, panic fear, damaged vehicles, uncomfortable primitive conditions, budget tourism, circus presentation, anachronistic Jurassic species, cartoon style, unrealistic colors, poor quality, blurry, aggressive marketing, cheesy tourist trap, fake manipulated, horizontal composition, landscape orientation",
+  
+  "style_keywords": [
+    "Travel agency promotional",
+    "Vertical Stories format",
+    "Reels marketing",
+    "TikTok optimized",
+    "Luxury safari tourism",
+    "Mobile-first advertising",
+    "Adventure attraction",
+    "Premium experience",
+    "Tourist photography",
+    "Safe wildlife viewing",
+    "Towering perspective",
+    "Golden hour vertical",
+    "Immersive storytelling",
+    "Family adventure",
+    "Bucket-list experience",
+    "Social media optimized",
+    "Aspirational travel",
+    "Dinosaur encounters",
+    "Once-in-a-lifetime",
+    "Commercial quality",
+    "Swipe-up appeal",
+    "Booking urgency"
+  ],
+  
+  "technical_parameters": {
+    "recommended_settings": {
+      "aspect_ratio": "9:16",
+      "resolution": "2160x3840 (4K vertical) or 4320x7680 (8K)",
+      "stories_reels_specs": "Minimum 1080x1920px, recommended 2160x3840px",
+      "quality": "maximum - commercial campaign standard"
+    }
+  },
+  
+  "complete_prompt_string": "Dynamic travel agency promotional content for premium Cretaceous Period time travel safari, 9:16 vertical portrait format for Instagram Stories Reels and TikTok, luxury tourism campaign style, modern sleek safari observation vehicle with transparent protective dome visible from inside perspective, excited diverse tourists with cameras and phones filming vertically showing genuine excitement and wonder, massive Tyrannosaurus Rex with detailed realistic scaly skin lips covering teeth brown-grey coloration towering dramatically filling vertical frame from ground upward at safe but impressive distance creating vertical sense of scale and power, OR elevated elegant wooden observation platform with safety railings in mid-frame showing families and couples in modern safari casual wear (khaki earth tones sun hats outdoor clothing) watching Triceratops herd with three horns and massive frills grazing peacefully below and Quetzalcoatlus giant pterosaurs flying above in upper frame, professional safari guide in uniform visible pointing and explaining, spectacular golden hour lighting casting warm amber glow flowing through vertical composition creating magical prehistoric atmosphere, lush beautiful fern-covered ground in sharp foreground detail (no grass scientifically accurate) looking exotic and inviting, tall ancient Araucaria conifer trees and pines emphasizing vertical height reaching upward through frame, Cycads and early Magnolia trees with flowers, beautiful peachy-pink golden sky gradient at top of vertical frame, vibrant appealing natural colors optimized for mobile viewing, rich lush greens, warm earth tones, professional commercial color grading, sense of wonder excitement adventure balanced with safety comfort and professional operation, luxury adventure tourism aesthetic, scientifically accurate Hell Creek dinosaurs presented as accessible exciting vacation destination, immersive vertical storytelling showing both spectacular wildlife encounter and quality comfortable tourist experience, welcoming inviting vertical composition, tourists in comfortable modern clothing capturing vertical content themselves, aspirational lifestyle appeal creating desire to experience and share, family-friendly educational adventure, once-in-a-lifetime bucket-list experience, 8K ultra detailed optimized for vertical mobile viewing, commercial travel marketing quality perfect for Stories Reels TikTok, makes viewers immediately want to swipe up and book, dramatic vertical scale showing towering dinosaurs while emphasizing tourist safety, ultimate prehistoric wildlife adventure destination, first-person immersive perspective",
+  
+  "alternative_prompts": {
+    "option_1_pov_vertical": "Travel marketing Stories, 9:16 vertical, tourist POV from inside safari dome looking up at towering T-Rex filling frame, dramatic vertical scale, golden hour beautiful, excitement and safety visible, luxury adventure style, commercial quality, booking appeal, 8K detailed",
+    
+    "option_2_platform_vertical": "Premium tourism Reels, 9:16 vertical, observation platform at mid-level with families watching, dinosaurs below and pterosaurs above, complete vertical safari experience, professional guides, beautiful prehistoric landscape, aspirational travel aesthetic, TikTok optimized, commercial campaign quality",
+    
+    "option_3_tourist_filming": "Travel advertising Stories, 9:16 vertical, tourist in foreground filming with smartphone vertically, spectacular dinosaur encounter in background, relatable shareable moment, beautiful golden light, exotic destination, luxury safari experience, makes viewers want to experience and post, commercial quality"
+  },
+  
+  "usage_notes": {
+    "for_midjourney": "Use complete_prompt_string with --ar 9:16 --style raw --v 6 --q 2",
+    "stories_reels_tips": [
+      "Export at 1080x1920px minimum, 2160x3840px for premium",
+      "Vertical composition emphasizes dinosaur height naturally",
+      "Colors optimized for mobile Stories viewing",
+      "Creates immersive first-person safari experience",
+      "Perfect for travel agency Stories ads with swipe-up",
+      "Position key elements within safe zones for UI",
+      "Test on mobile for optimal vertical impact"
+    ]
+  },
+  
+  "instagram_caption_suggestions": [
+    "Your POV on our Cretaceous safari 🦖📱 Swipe up to book! #TimeTravelSafari",
+    "This could be your next Stories post 📸🦖 Link in bio for bookings!",
+    "Adventure awaits 66 million years in the past ✨ Who's coming? 🦕",
+    "From our last tour group 🎥🦖 Spaces filling fast! Book now 👆",
+    "The ultimate vertical experience 🦖 Tag someone who needs this adventure!",
+    "Safe. Comfortable. Unforgettable. 🌍🦖 Your prehistoric safari awaits!"
+  ],
+  
+  "hashtag_suggestions": [
+    "#TimeTravelSafari",
+    "#CretaceousPeriod",
+    "#DinosaurEncounter",
+    "#InstagramStories",
+    "#Reels",
+    "#TikTokTravel",
+    "#LuxuryTravel",
+    "#AdventureTravel",
+    "#BucketList",
+    "#TravelGoals",
+    "#FamilyAdventure",
+    "#SafariLife",
+    "#VerticalVideo",
+    "#OnceInALifetime",
+    "#TravelAgency",
+    "#PrehistoricSafari",
+    "#BookNow"
+  ]
+}
+

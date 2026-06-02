@@ -1,0 +1,135 @@
+{
+  "prompt_config": {
+    "aspect_ratio": "9:16",
+    "orientation": "vertical",
+    "format": "Instagram Stories/Reels, TikTok travel marketing",
+    "style": "Travel agency attraction promotional imagery",
+    "theme": "Renaissance Florence 1504 - Ultimate Cultural Time Travel Experience",
+    "photography_style": "Aspirational travel advertising, cultural tourism marketing",
+    "quality": "8K ultra detailed, commercial campaign quality"
+  },
+  "main_prompt": "Dynamic travel agency promotional content for Renaissance Florence 1504 cultural tour, 9:16 vertical format for Stories and Reels, luxury tourism campaign style, excited tourists experiencing Renaissance culture vertically - trying on period costumes with towering Duomo above, painting in Leonardo's workshop with vertical architectural backdrop, watching David unveiling at Palazzo Vecchio with tall tower reaching skyward, Renaissance banquet scene, spectacular golden hour Tuscan lighting flowing through vertical composition, Brunelleschi's dome towering majestically in vertical frame, vibrant appealing Renaissance colors, sense of cultural wonder and accessible luxury, immersive vertical storytelling showing both Renaissance spectacle and comfortable tourist experience, aspirational cultural travel imagery optimized for mobile viewing, 8K detailed, makes viewers want to swipe up and book immediately",
+  
+  "composition_notes": {
+    "stories_reels_optimization": "Vertical 9:16 cultural travel marketing for immersive mobile viewing, emphasizes vertical Renaissance architecture and tourist activities",
+    "vertical_storytelling": "Composition flows from ground-level tourist experience upward through Renaissance architecture to Tuscan sky",
+    "framing_options": [
+      "Option 1: Ground-level tourist in costume with Duomo dome towering vertically above, dramatic scale",
+      "Option 2: Vertical workshop scene with tourists learning art, tall palazzo windows above",
+      "Option 3: Tourist POV filming David statue vertically with Palazzo tower reaching skyward behind",
+      "Option 4: Vertical banquet table with Renaissance palazzo interior rising above"
+    ],
+    "mobile_engagement": "Optimized for vertical mobile with swipe-up appeal for booking",
+    "safe_zones": "Key elements positioned to avoid Stories UI"
+  },
+  
+  "detailed_elements": {
+    "tourist_activities_vertical": {
+      "costume_fitting": "Tourists trying Renaissance costumes in foreground, Duomo towering above, fun immersive vertical moment",
+      "art_workshops": "Hands-on painting/sculpture with Renaissance masters, tall workshop windows creating vertical depth",
+      "guided_tours": "Professional guides leading tourists through narrow medieval streets opening to towering Renaissance monuments",
+      "cultural_events": "Renaissance banquets, performances, demonstrations filling vertical frame from table to palazzo ceiling"
+    },
+    
+    "vertical_attractions": {
+      "duomo_tower": "Brunelleschi's dome perfect for vertical composition, red terracotta and marble reaching skyward",
+      "palazzo_tower": "Tall Torre d'Arnolfo of Palazzo Vecchio emphasizing vertical drama",
+      "tall_buildings": "Florentine buildings flanking narrow streets creating vertical corridors",
+      "vertical_spaces": "Renaissance interiors with high ceilings, tall windows, vertical architectural drama"
+    },
+    
+    "vertical_colors": {
+      "gradient": "Warm ochre ground level flowing to golden peachy Tuscan sky at top",
+      "vibrant_flow": "Rich Renaissance colors (crimsons, blues, greens) flowing through vertical composition"
+    },
+    
+    "vertical_marketing": {
+      "immersive_pov": "First-person perspective making viewer feel present, creating desire to experience",
+      "swipe_up_appeal": "Compelling vertical imagery designed for Stories ad with booking call-to-action",
+      "mobile_optimized": "Colors and composition perfect for mobile screen viewing"
+    }
+  },
+  
+  "negative_prompt": "scary intimidating, stuffy boring, elitist inaccessible, modern mass tourism, tacky traps, incorrect period, baroque, medieval only, modern architecture, cars, anachronistic, dark gloomy, flat composition, low quality, cheesy fake, theme park, incorrect colors, horizontal composition, landscape orientation",
+  
+  "style_keywords": [
+    "Travel agency promotional",
+    "Vertical Stories format",
+    "Reels marketing",
+    "TikTok optimized",
+    "Cultural tourism",
+    "Renaissance experience",
+    "Art workshops",
+    "Period costume",
+    "Interactive history",
+    "Florence 1504",
+    "Educational vacation",
+    "Luxury cultural travel",
+    "Family adventure",
+    "Vertical composition",
+    "Golden hour Tuscan",
+    "Immersive storytelling",
+    "Swipe-up appeal",
+    "8K commercial quality"
+  ],
+  
+  "technical_parameters": {
+    "recommended_settings": {
+      "aspect_ratio": "9:16",
+      "resolution": "2160x3840 (4K vertical) or 4320x7680 (8K)",
+      "stories_reels_specs": "Minimum 1080x1920px",
+      "quality": "maximum - commercial"
+    }
+  },
+  
+  "complete_prompt_string": "Dynamic travel agency promotional content for premium Renaissance Florence 1504 cultural tour, 9:16 vertical portrait format for Instagram Stories Reels and TikTok, luxury tourism campaign, excited diverse tourists in beautiful period-inspired Renaissance velvet costumes (gowns, doublets) in foreground with magnificent Duomo and Brunelleschi's dome in red terracotta tiles and polychrome marble (white green pink) towering vertically above filling frame, OR tourists in Leonardo da Vinci's workshop learning painting techniques with tall palazzo windows creating vertical depth, OR visitors photographing Michelangelo's David statue at ground level with Palazzo Vecchio's 94-meter Torre d'Arnolfo tower stretching skyward behind, OR Renaissance banquet scene with tall palazzo interior rising above, professional multilingual guides in elegant Renaissance-inspired attire, spectacular golden hour Tuscan lighting flowing through vertical composition warm amber glow from ground to beautiful peachy-pink sky at top, tall ochre-yellow stucco buildings with grey pietra serena stone flanking narrow medieval streets, terracotta roofs, vibrant appealing Tuscan Renaissance colors rich crimsons deep blues emerald greens gold brocade, sense of cultural wonder excitement and artistic inspiration, luxury cultural tourism aesthetic, historically accurate but accessible exciting vacation destination, immersive vertical storytelling showing both spectacular Renaissance art/architecture and comfortable quality tourist experience, welcoming inviting vertical composition, tourists actively engaged amazed taking vertical photos themselves, aspirational lifestyle cultural travel, educational enrichment visible, family-friendly adventure, once-in-a-lifetime experience, 8K ultra detailed optimized for vertical mobile viewing, commercial travel marketing quality perfect for Stories Reels TikTok, makes viewers immediately want to swipe up and book Renaissance Florence cultural immersion, dramatic vertical sense of Renaissance architectural mastery",
+  
+  "alternative_prompts": {
+    "option_1_costume_vertical": "Cultural tourism Stories, 9:16 vertical, tourist in Renaissance costume with Duomo towering above, golden hour, fun immersive, luxury travel, swipe-up appeal, commercial quality, 8K detailed",
+    
+    "option_2_workshop_vertical": "Travel marketing Reels, 9:16 vertical, art workshop vertical composition, tourists learning with Leonardo, tall palazzo windows, educational tourism, aspirational cultural, TikTok optimized, commercial quality",
+    
+    "option_3_david_vertical": "Premium tourism Stories, 9:16 vertical, tourist POV filming David statue, Palazzo tower stretching skyward behind, iconic moment, guided tour, vertical golden Tuscan light, once-in-a-lifetime, Stories ad perfect"
+  },
+  
+  "usage_notes": {
+    "for_midjourney": "Use complete_prompt_string with --ar 9:16 --style raw --v 6 --q 2",
+    "stories_reels_tips": [
+      "Export at 1080x1920px minimum, 2160x3840px premium",
+      "Vertical format perfect for towering Renaissance architecture",
+      "Position key elements within safe zones for UI",
+      "Cultural immersion content performs well in Stories/Reels",
+      "Include swipe-up CTA space at bottom for booking"
+    ]
+  },
+  
+  "instagram_caption_suggestions": [
+    "POV: Your Renaissance adventure begins now 🎨🏛️ Swipe up to book!",
+    "This could be your next Stories post! 📱✨ #Florence1504",
+    "From cobblestones to cupola - your vertical journey awaits 🌅",
+    "Paint with Leonardo. Wear velvet. Live 1504. 🎨👑 Link in bio!",
+    "The ultimate cultural Stories 🏛️🎭 Tag someone who needs this!",
+    "Your Renaissance transformation starts here ✨ Swipe up!"
+  ],
+  
+  "hashtag_suggestions": [
+    "#Florence1504",
+    "#RenaissanceExperience",
+    "#InstagramStories",
+    "#Reels",
+    "#TikTokTravel",
+    "#CulturalTravel",
+    "#ArtHistory",
+    "#LuxuryTravel",
+    "#TimeTravelTourism",
+    "#LeonardoDaVinci",
+    "#MichelangeloDavid",
+    "#VerticalVideo",
+    "#TravelReels",
+    "#BucketList",
+    "#FlorenceItaly",
+    "#RenaissanceCostume",
+    "#BookNow"
+  ]
+}
+

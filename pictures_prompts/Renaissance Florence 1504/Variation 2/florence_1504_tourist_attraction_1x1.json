@@ -1,0 +1,121 @@
+{
+  "prompt_config": {
+    "aspect_ratio": "1:1",
+    "orientation": "square",
+    "format": "Instagram travel marketing optimized",
+    "style": "Travel agency attraction promotional imagery",
+    "theme": "Renaissance Florence 1504 - Ultimate Cultural Time Travel Experience",
+    "photography_style": "Aspirational travel advertising, cultural tourism marketing",
+    "quality": "8K ultra detailed, commercial campaign quality"
+  },
+  "main_prompt": "Eye-catching travel agency promotional image for Renaissance Florence 1504 cultural tour, 1:1 square Instagram format, luxury tourism campaign style, excited tourists in period-inspired Renaissance costumes with Duomo or David statue, hands-on art workshop experience with Leonardo da Vinci, Renaissance banquet scene, spectacular golden hour Tuscan lighting, magnificent polychrome marble Duomo centered, vibrant appealing Renaissance colors, sense of cultural wonder and accessible luxury, historically accurate but presented as exciting vacation, square composition perfect for Instagram with both Renaissance spectacle and comfortable tourist experience, aspirational cultural travel imagery, 8K detailed, makes viewers want to book immediately",
+  
+  "composition_notes": {
+    "instagram_optimization": "Square 1:1 cultural travel marketing for maximum Instagram feed impact, showing immersive Renaissance experience",
+    "framing_options": [
+      "Option 1: Tourist in Renaissance costume with magnificent Duomo in background, balanced square composition",
+      "Option 2: Art workshop scene with tourists learning from Renaissance master, interactive cultural experience",
+      "Option 3: Tourists photographing David statue at Palazzo Vecchio, iconic moment, Instagram-worthy",
+      "Option 4: Renaissance banquet table with tourists in period costume enjoying authentic feast"
+    ]
+  },
+  
+  "detailed_elements": {
+    "tourist_activities": {
+      "costume_experience": "Tourists in beautiful Renaissance velvet costumes, trying on period dress, feeling like nobility, fun photo opportunity",
+      "art_workshops": "Hands-on painting or sculpture experience with Renaissance techniques, educational and engaging",
+      "guided_tours": "Professional guides making Renaissance accessible, pointing out architectural marvels",
+      "cultural_immersion": "Authentic banquets, music, demonstrations, comfortable luxury experience"
+    },
+    
+    "attractions": {
+      "duomo": "Magnificent Brunelleschi dome with polychrome marble, ultimate Instagram backdrop",
+      "david_statue": "Michelangelo's David at Palazzo Vecchio 1504, iconic photo opportunity",
+      "workshops": "Leonardo's bottega, Renaissance art creation visible, inspiring",
+      "palazzos": "Beautiful interiors, authentic Renaissance luxury, stunning settings"
+    },
+    
+    "marketing_colors": {
+      "vibrant_tuscan": "Rich warm ochre yellows, crimsons, deep blues, emerald greens, gold accents, appealing Instagram-friendly palette",
+      "golden_hour": "Beautiful Tuscan golden light making everything photogenic and magical"
+    }
+  },
+  
+  "negative_prompt": "scary intimidating, stuffy boring, elitist inaccessible, modern mass tourism, tacky traps, incorrect period, baroque, medieval only, modern architecture, cars, anachronistic, dark gloomy, flat composition, low quality, cheesy fake, theme park, incorrect colors, horizontal composition, stretched",
+  
+  "style_keywords": [
+    "Travel agency promotional",
+    "Instagram marketing",
+    "Cultural tourism",
+    "Renaissance experience",
+    "Art workshop tours",
+    "Period costume",
+    "Square composition",
+    "Florence 1504",
+    "Interactive history",
+    "Educational vacation",
+    "Luxury cultural travel",
+    "Family adventure",
+    "Bucket-list",
+    "Golden hour Tuscan",
+    "Aspirational travel",
+    "8K commercial quality"
+  ],
+  
+  "technical_parameters": {
+    "recommended_settings": {
+      "aspect_ratio": "1:1",
+      "resolution": "4320x4320 (8K square)",
+      "instagram_specs": "Minimum 1080x1080px",
+      "quality": "maximum - commercial"
+    }
+  },
+  
+  "complete_prompt_string": "Eye-catching travel agency promotional image for premium Renaissance Florence 1504 cultural tour, 1:1 square Instagram format, luxury tourism campaign, excited tourists in beautiful period-inspired Renaissance velvet costumes (gowns, doublets) with magnificent Duomo and Brunelleschi's dome in red terracotta and polychrome marble (white green pink) background, OR tourists in Leonardo da Vinci's workshop watching master demonstrate painting techniques hands-on art experience, OR visitors photographing Michelangelo's David statue at Palazzo Vecchio 1504 unveiling, OR Renaissance banquet scene with authentic feast, professional guides in elegant Renaissance-inspired attire, spectacular golden hour Tuscan lighting warm amber glow, ochre-yellow buildings with grey pietra serena stone, vibrant appealing Renaissance colors rich crimsons deep blues emerald greens gold brocade, sense of cultural wonder excitement and artistic inspiration, luxury cultural tourism aesthetic, historically accurate but accessible exciting vacation destination, square composition showing both spectacular Renaissance art/architecture and comfortable quality tourist experience, welcoming inviting imagery, tourists actively engaged and amazed, aspirational lifestyle cultural travel, educational enrichment visible, family-friendly adventure, Instagram-perfect moments, 8K ultra detailed, commercial travel marketing quality making viewers immediately want to book Renaissance experience",
+  
+  "alternative_prompts": {
+    "option_1_costume_square": "Cultural tourism Instagram, 1:1 square, tourist in Renaissance costume with Duomo backdrop, golden hour, fun immersive experience, luxury travel, commercial quality, booking appeal, 8K detailed",
+    
+    "option_2_workshop_square": "Travel marketing, 1:1 square, art workshop with Leonardo, tourists learning painting, Renaissance Florence visible, educational tourism, aspirational cultural travel, Instagram optimized, commercial quality",
+    
+    "option_3_david_square": "Premium tourism, 1:1 square Instagram, tourists with David statue at Palazzo Vecchio, iconic photo moment, guided tour, golden Tuscan light, once-in-a-lifetime experience, cultural travel marketing"
+  },
+  
+  "usage_notes": {
+    "for_midjourney": "Use complete_prompt_string with --ar 1:1 --style raw --v 6 --q 2",
+    "instagram_tips": [
+      "Export at 1080x1080px minimum, 2160x2160px premium",
+      "Cultural experiences create high engagement",
+      "Interactive activities appeal to Instagram audience",
+      "Period costumes create shareable moments"
+    ]
+  },
+  
+  "instagram_caption_suggestions": [
+    "Step into 1504! 🎨✨ Renaissance experience of a lifetime #Florence1504",
+    "Your Renaissance adventure awaits 🏛️ Try on history, meet the masters! 👑",
+    "Paint like Leonardo, dress like Medici nobility 🎨👗 Book your tour!",
+    "Witness David's unveiling in person 🗿✨ #RenaissanceFlorence",
+    "More than a museum - LIVE the Renaissance! 🎭🎨 Link in bio",
+    "Cultural immersion at its finest 🏛️🍷 #Florence1504Experience"
+  ],
+  
+  "hashtag_suggestions": [
+    "#Florence1504",
+    "#RenaissanceExperience",
+    "#CulturalTravel",
+    "#ArtHistory",
+    "#LuxuryTravel",
+    "#TimeTravelTourism",
+    "#LeonardoDaVinci",
+    "#MichelangeloDavid",
+    "#FlorenceItaly",
+    "#BucketList",
+    "#EducationalTravel",
+    "#RenaissanceCostume",
+    "#ArtWorkshop",
+    "#CulturalImmersion",
+    "#TravelItaly"
+  ]
+}
+

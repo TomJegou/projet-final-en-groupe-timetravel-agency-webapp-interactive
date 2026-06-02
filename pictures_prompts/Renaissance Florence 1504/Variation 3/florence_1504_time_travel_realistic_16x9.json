@@ -1,0 +1,124 @@
+{
+  "prompt_config": {
+    "aspect_ratio": "16:9",
+    "orientation": "horizontal",
+    "style": "Ultra-realistic time travel photography documentation",
+    "theme": "Renaissance Florence 1504 - Authentic Time Travel Experience",
+    "photography_style": "Photorealistic documentation, actual time travel photography",
+    "quality": "8K photorealistic, as if truly captured in 1504"
+  },
+  "main_prompt": "Ultra-realistic photograph captured by time travelers actually visiting Renaissance Florence 1504, 16:9 format, absolutely photorealistic quality as if shot with modern camera transported to the past, authentic Renaissance Florence with genuine 1504 citizens in period-accurate clothing going about real daily life, Michelangelo's David freshly installed at Palazzo Vecchio entrance with real Renaissance crowd gathered, Leonardo da Vinci visible working in his actual bottega workshop with apprentices, authentic Duomo with Brunelleschi's dome exactly as it looked in 1504 with red terracotta tiles and polychrome marble, real ochre-yellow stucco buildings with pietra serena stone showing authentic weathering and age, genuine Renaissance citizens in accurate velvet gowns doublets and hose conducting real business and daily activities, natural golden hour Tuscan lighting with realistic atmospheric conditions, every detail historically accurate and photographically real - not staged or reconstructed, captured moment of actual 1504 life as time travel tourist observing authentic past, 8K ultra-detailed photorealistic documentation showing this is genuine time travel photography not reenactment, museum-quality historical accuracy brought to photographic life",
+  
+  "detailed_elements": {
+    "time_travel_photography_concept": {
+      "authentic_documentation": "Images are actual photographs taken by time travelers transported to real 1504 Florence, not recreations or historical reenactments, genuine documentary photography of the past",
+      "modern_camera_past_setting": "Shot with professional modern DSLR/mirrorless camera (Canon EOS R5, Nikon Z9 quality) but capturing authentic Renaissance Florence as it actually existed in 1504",
+      "observational_photography": "Time travelers documenting real historical moment as observers, capturing authentic daily life and genuine historical events like unbiased documentary photographers",
+      "no_staged_elements": "Nothing is staged, performed, or reconstructed - this is real 1504 Florence with actual Renaissance people living their authentic lives, photographers are invisible observers",
+      "historical_accuracy_absolute": "Every single detail is precisely accurate to 1504 - correct architecture state, accurate fashion, proper historical context, genuine period atmosphere, no anachronisms whatsoever"
+    },
+    
+    "authentic_1504_florence": {
+      "real_historical_moment": "Captured during actual year 1504 - Michelangelo has just completed and installed David statue, Leonardo da Vinci is in Florence working on Mona Lisa and Battle of Anghiari preparatory work, authentic historical timeline",
+      "genuine_citizens": "Real Renaissance Florentines going about authentic daily activities - merchants conducting actual business, artisans working in genuine bottegas, nobles in accurate period dress, clergy, scholars, apprentices, all engaged in real 1504 life not performing for camera",
+      "working_city": "Florence as functioning Renaissance city-state - real political activity at Palazzo Vecchio, genuine artistic production in workshops, authentic commerce in piazzas and streets, living breathing historically accurate urban environment",
+      "natural_behavior": "Everyone behaving completely naturally as they actually would in 1504, not posing or aware of camera, authentic candid documentary photography of real historical moment"
+    },
+    
+    "architecture_exactly_1504": {
+      "duomo_precise_state": "Santa Maria del Fiore exactly as it appeared in 1504 - Brunelleschi's dome completed (1436) showing 68 years of weathering, red terracotta tiles with authentic patina, polychrome marble facade (white Carrara, green Prato, pink Maremma) with period-accurate appearance, campanile with historical appearance, baptistery as it stood, no later additions",
+      "palazzo_vecchio_1504": "Palazzo Vecchio in its 1504 state - medieval fortress-palace in ochre-brown pietra forte stone with authentic weathering, crenellated walls, Torre d'Arnolfo at 94 meters, David statue JUST installed at main entrance (fresh placement 1504), historically accurate appearance with period details",
+      "ponte_vecchio_authentic": "Ponte Vecchio exactly as in 1504 - medieval stone bridge with wooden shop structures housing butchers and tanners (NOT jewelry shops which came later), authentic medieval/early Renaissance appearance, Arno river with historically accurate water conditions",
+      "typical_buildings_real": "Residential and commercial buildings in their actual 1504 state - ochre-yellow stucco with authentic aging and weathering, pietra serena grey sandstone architectural elements showing real use, terracotta tile roofs with period-accurate appearance, wooden shutters and doors with genuine wear, historically accurate street-level shops and workshops",
+      "streets_piazzas_accurate": "Cobblestone streets in authentic Renaissance condition - uneven stones with real wear, narrow medieval passages opening to Renaissance piazzas, Piazza della Signoria with period-accurate paving and layout, no modern elements whatsoever, pure 1504 urban landscape"
+    },
+    
+    "fashion_absolutely_accurate_1504": {
+      "women_exact_period": "Real Renaissance women in precise 1504 fashion - gowns with high or natural waistlines (not later periods), square necklines showing white linen chemise edge, detachable slashed sleeves (crevés) with chemise puffing through cuts, heavy velvet silk or brocade fabrics with visible weight and drape, rich period colors (crimson red, deep ultramarine blue, forest green, golden yellow) using natural dyes available in 1504, elaborate hairstyles with pearl nets (reticella) or light veils, realistic jewelry (gold chains, pearls), every detail historically documented and accurate",
+      "men_precise_fashion": "Real Renaissance men in exact 1504 dress - fitted doublet (pourpoint) properly tailored, hose (chausses) often bicolor or striped in period-accurate patterns, codpiece visible (standard for era), flat felt hats or velvet bonnets (berretta) in correct styles, slashed sleeves showing contrasting fabric, wealthy in velvet and brocade, merchants and artisans in appropriate class-specific clothing, all details matching historical records and period artwork",
+      "social_class_accuracy": "Correct clothing distinctions visible - nobility in expensive crimson and ultramarine with gold embroidery, wealthy merchants in rich but less ostentatious dress, artisans and workers in practical earth-toned clothing, clergy in appropriate religious garb, all socially accurate for 1504 Florence",
+      "authentic_wear_aging": "Clothing showing realistic wear appropriate to daily use - nobles' garments in good condition but not pristine, workers' clothes showing authentic work wear, everything looking genuinely used not costume-new, realistic fabric aging and patina"
+    },
+    
+    "real_historical_activities": {
+      "david_installation_authentic": "Genuine moment of David statue installation at Palazzo Vecchio 1504 - real crowd of Renaissance Florentines gathered to see recently unveiled masterpiece, authentic public reaction and discussion, historically accurate context of political symbolism, genuine historical event captured as it actually happened",
+      "leonardo_actual_workshop": "Real Leonardo da Vinci in his authentic Florence bottega - master artist actually working on paintings or preparatory drawings, genuine apprentices assisting with authentic Renaissance workshop practices, real painting materials and techniques visible (tempera, oil, gesso, pigments), actual artistic process of 1504 not reconstruction",
+      "authentic_commerce": "Real Renaissance economic activity - genuine merchants trading actual goods, artisans producing real products in authentic workshops (leather, textiles, metalwork, painting, sculpture), money changing, market activities, authentic urban economy visible",
+      "daily_life_genuine": "Real people living authentic 1504 daily life - citizens walking streets on actual errands, genuine social interactions, authentic religious observances, real political discussions, children playing period-appropriate games, everything naturally occurring not staged"
+    },
+    
+    "photorealistic_technical": {
+      "camera_quality": "Professional modern DSLR or mirrorless camera (Canon EOS R5, Nikon Z9, Sony A1 level) but capturing real historical scene, realistic camera characteristics",
+      "natural_lighting_only": "Only natural Renaissance lighting - golden hour Tuscan sunlight with authentic atmospheric conditions, no artificial lighting, real shadow physics, authentic Renaissance light quality before modern pollution, clear natural illumination",
+      "authentic_atmosphere": "Real Renaissance atmospheric conditions - dust from unpaved areas, smoke from cooking fires and workshops, authentic air quality, genuine environmental conditions of pre-industrial city, marble dust from sculpture workshops, period-accurate ambient atmosphere",
+      "photographic_realism": "Every element looks like actual photograph not painting or illustration - realistic textures on stone wood fabric skin, authentic material properties, real physics of light and shadow, genuine photographic capture not artistic rendering",
+      "8k_documentary_detail": "8K photorealistic detail showing every authentic element - fabric weave patterns, stone textures with real weathering, wood grain, skin pores, architectural details, all captured with documentary precision as genuine historical evidence"
+    },
+    
+    "color_palette_authentic_1504": {
+      "natural_renaissance_colors": "Colors exactly as they appeared in 1504 - ochre-yellow building stucco with authentic aging, terracotta tiles with period weathering, grey pietra serena stone showing real use, white Carrara marble with historical patina, natural fabric dyes creating period-accurate clothing colors",
+      "accurate_pigments": "Costume colors using only natural dyes available in 1504 - crimson from kermes or madder (expensive), ultramarine from lapis lazuli (very expensive, rare), greens from copper compounds, yellows from weld or saffron, earth tones from natural ochres, all colors authentic to period",
+      "realistic_weathering": "All surfaces showing authentic aging and weathering appropriate to 1504 - slightly aged building facades, weathered stone, naturally worn wood, realistically aged fabrics, nothing too pristine or too deteriorated, accurate historical patina",
+      "natural_color_grading": "Photography processed to show accurate historical colors - warm Tuscan sunlight, natural atmospheric perspective, authentic color temperature of Renaissance-era atmosphere, no modern oversaturation or digital manipulation, documentary color accuracy"
+    },
+    
+    "time_travel_observer_perspective": {
+      "documentary_distance": "Shot from perspective of time travel tourist observing from appropriate respectful distance, not intruding on Renaissance daily life, documentary photography ethics",
+      "candid_capture": "Subjects unaware of camera, behaving completely naturally, authentic candid photography capturing genuine historical moments as they actually occurred",
+      "historical_event_witnessing": "Photographer positioned as witness to real historical events - David unveiling, Renaissance daily life, authentic artistic creation, genuine political and social activities of 1504 Florence",
+      "tourist_documentation": "Images feel like travel photography taken by modern tourist visiting past, documenting amazing historical sights and genuine Renaissance life for documentation and memory, vacation photography quality but of authentic historical destination"
+    }
+  },
+  
+  "negative_prompt": "staged reenactment, historical reconstruction, theme park, costumed actors, theatrical performance, artificial sets, modern elements visible, anachronistic details, incorrect historical period, baroque architecture (too late), medieval only (need Renaissance), wrong fashion period, modern materials, plastic, contemporary items, fake artificial appearance, CGI rendered look, painting or illustration style, artistic interpretation not photography, modern lighting, artificial staging, posed subjects, aware of camera, incorrect Duomo state, wrong David location, modern Ponte Vecchio shops, any post-1504 additions, low quality, blurry, obviously fake, tourist attraction aesthetic, entertainment venue look",
+  
+  "style_keywords": [
+    "Ultra-realistic time travel photography",
+    "Authentic 1504 documentation",
+    "Photorealistic historical capture",
+    "Real Renaissance Florence",
+    "Genuine time travel images",
+    "Documentary photography",
+    "Historical accuracy absolute",
+    "Actual past photography",
+    "Modern camera historical subject",
+    "Candid Renaissance life",
+    "Leonardo da Vinci authentic",
+    "Michelangelo David 1504",
+    "Real Florentine citizens",
+    "Period-accurate everything",
+    "Natural Renaissance lighting",
+    "Authentic daily life",
+    "Historical moment capture",
+    "8K photorealistic detail",
+    "Time tourism documentation",
+    "Living history photography"
+  ],
+  
+  "technical_parameters": {
+    "recommended_settings": {
+      "aspect_ratio": "16:9",
+      "resolution": "7680x4320 (8K) for documentary detail",
+      "quality": "maximum - photorealistic priority",
+      "realism_level": "Absolute photorealism, indistinguishable from actual photograph"
+    }
+  },
+  
+  "complete_prompt_string": "Ultra-realistic photograph captured by time travelers actually visiting Renaissance Florence 1504, 16:9 format, absolutely photorealistic quality as if shot with professional modern DSLR camera (Canon EOS R5 quality) transported to authentic past, genuine Renaissance Florence with real 1504 citizens in period-accurate clothing conducting authentic daily life, Michelangelo's David statue freshly installed at Palazzo Vecchio entrance with real Renaissance crowd naturally gathered examining masterpiece, Leonardo da Vinci visible working in his actual bottega workshop with genuine apprentices using authentic painting techniques and materials, magnificent Duomo of Santa Maria del Fiore with Brunelleschi's dome exactly as it appeared in 1504 showing 68 years of authentic weathering, red terracotta tiles with period patina, polychrome marble facade (white Carrara green Prato pink Maremma) with historically accurate appearance, real ochre-yellow stucco buildings with pietra serena grey sandstone showing genuine Renaissance-era weathering and use, terracotta tile roofs with period-accurate aging, Ponte Vecchio with authentic butcher and tanner shops in wooden structures not modern jewelry, genuine Renaissance Florentines in precise 1504 fashion - women in velvet gowns with high waists square necklines slashed sleeves showing white chemise using period-accurate natural dyes (crimson ultramarine green gold), elaborate pearl nets in hair, men in fitted doublets over bicolor hose with flat felt hats or velvet bonnets all showing realistic wear from actual use, citizens conducting real Renaissance business - merchants trading, artisans working in authentic bottegas, nobles conversing, clergy scholars apprentices all behaving completely naturally unaware of camera engaged in genuine 1504 daily activities, natural golden hour Tuscan sunlight with authentic Renaissance atmospheric conditions - dust from unpaved areas marble dust from workshops smoke from fires, realistic pre-industrial air creating warm atmospheric glow, cobblestone streets with authentic uneven wear, Piazza della Signoria in period-accurate layout and paving, every single detail absolutely historically accurate to 1504 with no anachronisms, candid documentary photography capturing real historical moment as time travel tourist observing authentic past, 8K ultra-detailed photorealistic documentation showing genuine fabric weaves stone textures wood grain skin details architectural precision all captured with documentary accuracy, natural photographic realism not artistic rendering, this is actual time travel photography of real Renaissance Florence not reconstruction or reenactment, living breathing historically accurate 1504 captured as it truly existed",
+  
+  "alternative_prompts": {
+    "option_1_david_moment": "Time travel photography, 16:9, photorealistic, authentic 1504 Florence, real Renaissance crowd gathered around freshly installed David statue at Palazzo Vecchio, Michelangelo present, genuine period costumes, natural lighting, modern camera historical subject, 8K documentary detail, absolute historical accuracy",
+    
+    "option_2_leonardo_workshop": "Ultra-realistic time travel photo, 16:9, Leonardo da Vinci actually working in authentic Florence bottega 1504, real apprentices, genuine painting materials, period-accurate workshop, natural Renaissance light through windows, photorealistic documentation, modern DSLR quality, historically perfect",
+    
+    "option_3_daily_life": "Authentic time travel photograph, 16:9, real Renaissance Florence street scene 1504, genuine citizens in accurate period dress conducting actual daily business, Duomo visible background, ochre buildings with authentic weathering, natural Tuscan light, photorealistic candid capture, 8K detail, absolute historical accuracy"
+  },
+  
+  "usage_notes": {
+    "for_midjourney": "Use complete_prompt_string with --ar 16:9 --style raw --v 6 --q 2, heavily emphasize 'photorealistic' 'actual photograph' 'documentary'",
+    "for_stable_diffusion": "Use photorealistic models, emphasize documentary photography, historical accuracy, natural lighting only, no staged elements",
+    "for_dalle": "Complete_prompt_string with repeated emphasis on 'photograph' 'camera' 'photorealistic' 'authentic' 'documentary'",
+    "realism_emphasis": "Every element must look genuinely photographed not reconstructed, painted, or staged - this is real time travel documentation"
+  }
+}
+

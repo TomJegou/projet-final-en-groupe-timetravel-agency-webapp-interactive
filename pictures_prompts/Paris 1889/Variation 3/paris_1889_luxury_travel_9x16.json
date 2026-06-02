@@ -1,0 +1,214 @@
+{
+  "prompt_config": {
+    "aspect_ratio": "9:16",
+    "orientation": "vertical",
+    "format": "Instagram Stories/Reels, TikTok optimized",
+    "style": "Cinematic luxury travel photography",
+    "theme": "Paris 1889 - Exposition Universelle",
+    "photography_style": "National Geographic quality, luxury campaign",
+    "quality": "8K ultra detailed, medium format camera"
+  },
+  "main_prompt": "Cinematic travel photography of Paris 1889 during the Exposition Universelle, 9:16 vertical portrait format, luxury campaign style, golden hour lighting casting warm amber glow, the majestic newly inaugurated Eiffel Tower painted in Rouge Venise (dark reddish-brown) towering dramatically from bottom to top of vertical frame against soft pastel sky, elegant Belle Époque crowds in period-accurate fashion on cobblestone streets in foreground, Haussmannian architecture with cream limestone bathed in golden light flanking the sides, professional color grading with rich warm tones and elegant saturation, shot on medium format camera with beautiful vertical depth of field, foreground sharp with soft bokeh, National Geographic quality editorial photography, aspirational mood evoking timeless elegance and adventure, vibrant but sophisticated colors, atmospheric haze creating vertical depth layers, 8K ultra detailed, immersive vertical storytelling for Stories and Reels, luxury travel editorial aesthetic",
+  
+  "composition_notes": {
+    "stories_reels_optimization": "Vertical 9:16 format perfect for immersive mobile viewing, emphasizes towering height of Eiffel Tower, creates dramatic sense of scale and grandeur",
+    "vertical_storytelling": "Composition guides eye from foreground street level upward through golden-lit architecture to the majestic Tower piercing the sky",
+    "framing_options": [
+      "Option 1: Ground-level perspective looking up, Belle Époque figures in sharp foreground, Tower soaring above in golden light",
+      "Option 2: Mid-level view with layered depth - foreground crowd, mid-ground Haussmannian streets, background Tower catching sunset",
+      "Option 3: Symmetrical vertical composition with Tower centered, flanked by golden-lit buildings, crowd at bottom",
+      "Option 4: Intimate foreground portrait of Belle Époque travelers with Tower majestically rising in soft bokeh background"
+    ],
+    "mobile_viewing": "Optimized for full-screen vertical mobile experience, cinematic travel storytelling",
+    "safe_zones": "Important elements positioned to avoid Stories/Reels UI at top (~250px) and bottom (~310px)"
+  },
+  
+  "detailed_elements": {
+    "time_period_specifics": {
+      "year": "1889",
+      "event": "Exposition Universelle de Paris",
+      "eiffel_tower": "Newly inaugurated Eiffel Tower in original Rouge Venise paint (dark reddish-brown gradient from dark at summit to lighter at base), iron lattice structure dramatically lit by golden hour, emphasizing its revolutionary 300-meter height in vertical composition",
+      "galerie_des_machines": "Massive blue-grey steel and glass cathedral positioned in mid-ground of vertical frame",
+      "architecture_style": "Haussmannian Paris with cream limestone facades, grey-blue zinc mansard roofs, ornate wrought-iron balconies flanking the vertical composition",
+      "historical_context": "Belle Époque pinnacle, moment of industrial triumph and artistic elegance"
+    },
+    
+    "fashion_1889": {
+      "women": "Belle Époque elegance in sharp foreground focus, S-silhouette dresses with corseted waists catching golden light, long flowing skirts in luxurious jewel-tone fabrics, elaborate hats adorned with feathers and flowers, lace parasols, long gloves, positioned for mobile engagement and scale reference",
+      "men": "Distinguished gentlemen in impeccable three-piece suits and frock coats, top hats for bourgeoisie, bowler hats for middle class, handlebar mustaches and groomed beards, canes and pocket watches, epitome of 1889 masculine sophistication",
+      "styling": "Period-accurate 1889 fashion essential, rich textures and fabrics beautifully lit by golden hour, every detail visible in 8K quality"
+    },
+    
+    "golden_hour_lighting": {
+      "time_of_day": "Golden hour, approximately one hour before sunset",
+      "light_quality": "Warm soft directional light with amber, golden, peachy tones, long shadows creating vertical drama",
+      "sky": "Soft pastel sky with warm peachy-pink and lavender gradient, light clouds catching golden light in upper portion of vertical frame",
+      "atmospheric_haze": "Gentle atmospheric haze adding vertical depth layers, volumetric quality, romantic soft-focus distance",
+      "light_on_architecture": "Cream limestone glowing warm golden-beige, zinc roofs reflecting blue-grey with golden highlights, creating beautiful tonal contrast in vertical composition",
+      "light_on_people": "Foreground subjects beautifully backlit or side-lit with warm glow, fabric textures highlighted, faces naturally illuminated",
+      "reflections": "Cobblestones in foreground slightly damp, reflecting golden light like brushed gold",
+      "vertical_gradient": "Natural light gradient from rich warm tones at street level to softer pastel tones in sky, guiding eye upward"
+    },
+    
+    "color_palette": {
+      "dominant_colors": ["warm golden amber", "soft peachy sunset tones", "cream limestone beige", "Rouge Venise reddish-brown Tower", "grey-blue zinc", "jewel-tone fashion accents", "soft lavender sky", "warm shadows in sienna"],
+      "color_grading_style": "Professional luxury campaign color grading optimized for mobile viewing, warm inviting sophisticated, slightly lifted shadows with rich blacks, creamy highlights, enhanced warm tones without oversaturation",
+      "stories_appeal": "Colors that capture attention in fast-scrolling Stories and Reels while maintaining sophistication",
+      "vibrance": "Vibrant but elegant, rich saturation in key elements maintaining natural refinement",
+      "vertical_harmony": "Color palette unified by golden hour light flowing through vertical composition"
+    },
+    
+    "camera_technical": {
+      "camera_type": "Medium format camera aesthetic (Hasselblad/Phase One quality)",
+      "sensor_characteristics": "Large sensor look with beautiful color depth, smooth tonal transitions, rich dynamic range",
+      "lens_quality": "Premium cinema lens rendering, beautiful circular bokeh in vertical format",
+      "depth_of_field": "Vertical depth of field with foreground subjects tack sharp, mid-ground detailed, background with elegant soft bokeh, creating dimensional cinematic storytelling",
+      "focal_length_feel": "Medium focal length (50-85mm equivalent), natural perspective with slight compression enhancing Tower's dramatic height",
+      "sharpness": "8K ultra detailed where in focus - fabric weaves, stone textures, iron rivets, individual cobblestones all visible",
+      "image_quality": "Clean professional editorial quality with subtle organic film-like texture, perfect for mobile display"
+    },
+    
+    "composition": {
+      "layout": "Cinematic 9:16 vertical composition emphasizing height and grandeur, strong vertical leading lines",
+      "foreground": "Sharp detailed foreground with Belle Époque figures or architectural elements at street level, creating human interest and scale",
+      "midground": "Haussmannian boulevards, Exposition grounds with period crowds, architectural details",
+      "background": "Eiffel Tower towering dramatically, sky, soft bokeh creating atmospheric vertical depth",
+      "vertical_flow": "Composition guides viewer's eye upward from intimate foreground through elegant mid-ground to majestic Tower",
+      "visual_storytelling": "Immersive travel narrative capturing Belle Époque Paris at its golden moment, aspirational and emotionally compelling"
+    },
+    
+    "mood_atmosphere": {
+      "aspirational": "Luxury travel mood making viewer want to experience this historical moment, evoking wanderlust",
+      "elegant": "Sophisticated high-end aesthetic, fashion campaign meets National Geographic editorial",
+      "romantic": "Belle Époque romanticism, golden hour magic, timeless Parisian beauty",
+      "immersive": "Full-screen vertical format creates immersive travel experience for mobile viewers",
+      "adventurous": "Sense of discovery and exploration, excitement of 1889 Exposition Universelle",
+      "authentic": "Historically accurate while being visually stunning and emotionally engaging"
+    },
+    
+    "national_geographic_quality": {
+      "editorial_standards": "World-class photojournalism quality, technically perfect, emotionally compelling vertical storytelling",
+      "storytelling": "Complete narrative told through vertical composition, cultural moment beautifully captured",
+      "technical_excellence": "Perfect exposure, focus, color, composition optimized for mobile vertical viewing",
+      "cultural_authenticity": "Respectful accurate representation of 1889 period, fashion, architecture",
+      "visual_impact": "Immediately captivating vertical imagery worthy of prestigious travel editorial or luxury campaign"
+    }
+  },
+  
+  "negative_prompt": "modern elements, contemporary fashion, cars, automobiles, modern buildings, skyscrapers, plastic materials, neon signs, LED lights, smartphones, 21st century technology, bronze Eiffel Tower, incorrect historical period, Victorian England, anachronisms, harsh lighting, overcast grey sky, flat lighting, oversaturated colors, HDR look, amateur photography, low resolution, blurry, soft focus, poor composition, snapshot quality, Instagram filter, excessive grain or noise, lens distortion, wide angle distortion, cluttered composition, horizontal composition, landscape orientation",
+  
+  "style_keywords": [
+    "Cinematic travel photography",
+    "Luxury campaign style",
+    "Belle Époque Paris 1889",
+    "Golden hour lighting",
+    "Professional color grading",
+    "Medium format camera",
+    "Vertical depth of field",
+    "National Geographic quality",
+    "Editorial photography",
+    "Aspirational mood",
+    "Vertical composition",
+    "Portrait orientation",
+    "Stories aesthetic",
+    "Reels optimized",
+    "Immersive storytelling",
+    "Exposition Universelle 1889",
+    "Rouge Venise Eiffel Tower",
+    "Haussmannian architecture",
+    "Period-accurate fashion",
+    "Belle Époque elegance",
+    "Towering perspective",
+    "Vibrant but elegant",
+    "8K ultra detailed",
+    "Luxury travel editorial",
+    "High-end photography",
+    "Fashion campaign quality",
+    "Warm golden tones",
+    "Atmospheric vertical depth",
+    "Premium mobile content",
+    "Dramatic perspective"
+  ],
+  
+  "technical_parameters": {
+    "recommended_settings": {
+      "aspect_ratio": "9:16",
+      "resolution": "2160x3840 (4K vertical) or 4320x7680 (8K vertical)",
+      "quality": "maximum/ultra",
+      "detail_level": "8K ultra detailed, professional editorial quality",
+      "stories_reels_specs": "Minimum 1080x1920px, recommended 2160x3840px for premium quality",
+      "color_depth": "High bit depth for professional color grading",
+      "dynamic_range": "High dynamic range for golden hour highlights and shadows"
+    }
+  },
+  
+  "complete_prompt_string": "Cinematic luxury travel photography of Paris 1889 during the Exposition Universelle, 9:16 vertical portrait format for Instagram Stories and Reels, golden hour lighting casting warm amber glow, majestic newly inaugurated Eiffel Tower painted in Rouge Venise dark reddish-brown towering dramatically from bottom to top of vertical frame against soft pastel peachy-pink and lavender sky, elegant Belle Époque crowd in period-accurate 1889 fashion on cobblestone streets in sharp foreground focus, women in S-silhouette dresses with corseted waists and elaborate feathered hats carrying lace parasols, men in impeccable three-piece suits and top hats with handlebar mustaches, Haussmannian architecture with cream limestone facades glowing golden in sunset light flanking the vertical sides, grey-blue zinc mansard roofs with ornate wrought-iron balconies, cobblestones reflecting warm light, professional luxury campaign color grading with rich warm tones and elegant saturation optimized for mobile, shot on medium format camera with beautiful vertical depth of field, foreground subjects tack sharp with soft bokeh background creating atmospheric layers, gentle golden haze adding vertical depth, National Geographic quality editorial photography, aspirational mood evoking timeless elegance wanderlust and adventure, immersive vertical storytelling, vibrant but refined sophisticated colors, every architectural detail and fabric texture ultra sharp in focus areas, 8K ultra detailed, luxury travel editorial aesthetic for Stories and Reels, technically perfect vertical composition and exposure, culturally authentic historical accuracy, visually stunning emotionally compelling, dramatic sense of scale and height, premium mobile content",
+  
+  "alternative_prompts": {
+    "option_1_ground_level": "Luxury travel photography, 9:16 vertical, golden hour, ground-level perspective looking up at Rouge Venise Eiffel Tower dominating vertical frame, Belle Époque visitors in sharp foreground with period 1889 fashion, warm amber sunset lighting, Haussmannian buildings flanking, soft bokeh background, professional color grading, medium format quality, National Geographic editorial, aspirational mood, 8K detailed, Stories/Reels optimized",
+    
+    "option_2_layered_vertical": "Cinematic travel editorial, 9:16 vertical, golden hour Paris 1889, layered vertical composition, foreground: elegantly dressed Belle Époque crowd on cobblestones in sharp focus, mid-ground: golden-lit Haussmannian boulevards, background: Rouge Venise Eiffel Tower soaring majestically in soft bokeh catching sunset, warm amber lighting, luxury campaign grading, medium format aesthetic, immersive vertical storytelling, 8K ultra detailed, Reels format",
+    
+    "option_3_intimate_foreground": "High-end travel photography, 9:16 vertical, golden hour lighting, intimate portrait of Belle Époque travelers in sharp foreground, women in corseted dresses with parasols, men in top hats, Rouge Venise Eiffel Tower rising majestically in soft bokeh background, atmospheric golden haze, professional color grading vibrant elegant tones, medium format camera with cinematic vertical depth of field, National Geographic quality, aspirational luxury mood, 8K detailed, perfect vertical Stories composition"
+  },
+  
+  "usage_notes": {
+    "for_midjourney": "Use complete_prompt_string with --ar 9:16 --style raw --v 6 --q 2",
+    "for_stable_diffusion": "Use main_prompt + detailed_elements, include negative_prompt, use professional photography models optimized for vertical format",
+    "for_dalle": "Use complete_prompt_string, emphasize vertical portrait orientation and Stories/Reels optimization",
+    "stories_reels_tips": [
+      "Export at 1080x1920px minimum for Instagram/Facebook Stories and Reels",
+      "Consider 2160x3840px for TikTok and premium quality",
+      "Vertical format naturally emphasizes Tower's impressive height",
+      "Golden hour aesthetic creates strong emotional engagement",
+      "Luxury travel style stands out in Stories feeds",
+      "Position key elements within safe zones for UI compatibility",
+      "Test composition on mobile screen for optimal impact"
+    ]
+  },
+  
+  "animation_suggestions": {
+    "for_reels_tiktok": [
+      "Slow upward camera tilt from foreground crowd to Tower top (Ken Burns effect)",
+      "Subtle parallax effect with foreground Belle Époque figures and background Tower",
+      "Gentle zoom in maintaining golden hour atmosphere",
+      "Slow motion of parasols, fabric movement in golden light",
+      "Fade in from warm sepia tone to full golden hour color",
+      "Focus pull from foreground crowd to Tower in background",
+      "Time-lapse style showing golden hour light progression (staying in period)"
+    ]
+  },
+  
+  "instagram_caption_suggestions": [
+    "Paris, 1889 ✨ Golden hour at the birth of modern Paris",
+    "Traveling back to Belle Époque elegance 🗼 When the Eiffel Tower was Rouge Venise",
+    "La Belle Époque in golden light 🌅 Paris 1889",
+    "Time travel to the Exposition Universelle ✨ #Paris1889",
+    "Golden hour magic at the world's tallest structure 🗼 Paris, 1889",
+    "When Paris touched the sky 🌅 Rouge Venise Tower, 1889"
+  ],
+  
+  "hashtag_suggestions": [
+    "#Paris1889",
+    "#BelleÉpoque",
+    "#LuxuryTravel",
+    "#TravelPhotography",
+    "#GoldenHour",
+    "#TourEiffel",
+    "#EiffelTower",
+    "#InstagramStories",
+    "#Reels",
+    "#TravelReels",
+    "#ParisHistory",
+    "#VintageTravel",
+    "#ExpositionUniverselle",
+    "#TimelessElegance",
+    "#CinematicPhotography",
+    "#TravelInStyle",
+    "#HistoricalParis",
+    "#ParisJeTaime",
+    "#VerticalVideo",
+    "#TravelStorytelling"
+  ]
+}
+

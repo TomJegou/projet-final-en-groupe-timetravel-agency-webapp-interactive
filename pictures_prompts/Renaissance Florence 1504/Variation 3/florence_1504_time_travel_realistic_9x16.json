@@ -1,0 +1,131 @@
+{
+  "prompt_config": {
+    "aspect_ratio": "9:16",
+    "orientation": "vertical",
+    "format": "Instagram Stories/Reels time travel documentation",
+    "style": "Ultra-realistic time travel photography documentation",
+    "theme": "Renaissance Florence 1504 - Authentic Time Travel Experience",
+    "photography_style": "Photorealistic documentation, actual time travel photography",
+    "quality": "8K photorealistic, as if truly captured in 1504"
+  },
+  "main_prompt": "Ultra-realistic photograph captured by time travelers actually visiting Renaissance Florence 1504, 9:16 vertical portrait format, absolutely photorealistic quality as if shot with modern smartphone or camera in authentic past, genuine Renaissance Florence with real 1504 citizens in period-accurate clothing, Brunelleschi's dome towering vertically exactly as it appeared in 1504, authentic Renaissance people conducting real daily life naturally unaware of camera filling vertical frame from cobblestone street level upward through architecture to Tuscan sky, natural golden hour lighting, every detail historically accurate - not staged or reconstructed, candid documentary photography of actual 1504 captured by time travel tourist filming vertically for Stories, 8K photorealistic showing this is genuine time travel documentation, immersive vertical perspective as if viewer is actually present in Renaissance Florence",
+  
+  "composition_notes": {
+    "stories_documentation": "Vertical 9:16 format for time travel tourist Stories/Reels, documenting authentic Renaissance like modern vertical video from the past",
+    "vertical_authenticity": "Composition flows from street-level real Renaissance life upward through genuine architecture to sky, immersive first-person time travel perspective",
+    "authentic_moments_vertical": [
+      "Option 1: Ground-level Renaissance street with real citizens, Duomo towering above, natural behavior",
+      "Option 2: Looking up at David installation with authentic crowd, Palazzo tower vertical",
+      "Option 3: Inside Leonardo's workshop looking toward tall windows, genuine artistic process",
+      "Option 4: Narrow medieval street with real Florentines, architecture rising vertically"
+    ]
+  },
+  
+  "detailed_elements": {
+    "time_travel_vertical_documentation": {
+      "smartphone_aesthetic": "Shot as if with modern smartphone in vertical format but capturing real 1504 Florence, authentic time tourist POV",
+      "candid_vertical": "Real Renaissance people unaware, behaving naturally, captured in vertical frame showing full scene from ground to sky",
+      "immersive_presence": "Viewer feels actually present in 1504, first-person perspective as time traveler walking through authentic Renaissance Florence"
+    },
+    
+    "authentic_vertical_subjects": {
+      "towering_architecture": "Duomo dome and Palazzo tower perfect for vertical format, shown exactly as they appeared in 1504 with period-accurate weathering",
+      "street_life_foreground": "Real Renaissance citizens at street level in authentic 1504 fashion conducting genuine daily activities naturally",
+      "vertical_depth_real": "Authentic Renaissance urban environment creating vertical layers - cobblestones, citizens, buildings, monuments, sky - all genuine 1504"
+    },
+    
+    "photorealistic_vertical_capture": {
+      "modern_device_quality": "Professional smartphone or camera quality but capturing real historical subject, vertical documentary style",
+      "natural_vertical_lighting": "Golden hour Tuscan light flowing through vertical composition, authentic atmospheric conditions",
+      "8k_vertical_detail": "Ultra-sharp photorealistic detail throughout vertical frame showing every authentic Renaissance element"
+    },
+    
+    "vertical_historical_accuracy": {
+      "architecture_exact_1504": "All buildings shown in precise 1504 state with accurate weathering, no post-period additions visible",
+      "fashion_absolutely_accurate": "Every person in frame wearing exact 1504 fashion with proper materials colors and realistic wear",
+      "behavior_genuinely_natural": "All subjects behaving completely naturally as they actually would in 1504, no awareness of camera",
+      "atmosphere_authentically_renaissance": "Dust, smoke, marble dust, pre-industrial air quality, genuine Renaissance environmental conditions"
+    }
+  },
+  
+  "negative_prompt": "staged reenactment, reconstruction, theme park, costumed actors, theatrical, artificial sets, modern elements visible, anachronistic, wrong period, baroque, medieval only, incorrect fashion, modern materials, plastic, fake appearance, CGI rendered, painting style, artistic interpretation, modern lighting, artificial staging, posed subjects, aware of camera, incorrect historical details, post-1504 additions, low quality, blurry, fake, tourist attraction, entertainment venue, horizontal composition, landscape orientation",
+  
+  "style_keywords": [
+    "Ultra-realistic time travel",
+    "Vertical documentation",
+    "Stories format",
+    "Authentic 1504 photo",
+    "Photorealistic historical",
+    "Real Renaissance",
+    "Genuine time travel",
+    "Documentary photography",
+    "Vertical portrait",
+    "Smartphone aesthetic",
+    "Historical accuracy absolute",
+    "Candid Renaissance",
+    "Natural behavior",
+    "Immersive POV",
+    "8K photorealistic",
+    "Living history vertical",
+    "Actual past capture"
+  ],
+  
+  "technical_parameters": {
+    "recommended_settings": {
+      "aspect_ratio": "9:16",
+      "resolution": "2160x3840 (4K vertical) or 4320x7680 (8K)",
+      "stories_specs": "Minimum 1080x1920px",
+      "quality": "maximum - photorealistic"
+    }
+  },
+  
+  "complete_prompt_string": "Ultra-realistic photograph captured by time travelers actually visiting Renaissance Florence 1504, 9:16 vertical portrait format for Instagram Stories and Reels, absolutely photorealistic quality as if shot with modern smartphone or camera in vertical orientation in authentic past, genuine Renaissance Florence with real 1504 citizens in period-accurate clothing conducting authentic daily life naturally unaware of camera, magnificent Duomo of Santa Maria del Fiore with Brunelleschi's dome towering vertically in frame exactly as appeared in 1504 with 68 years authentic weathering red terracotta tiles polychrome marble (white green pink), OR Palazzo Vecchio's 94-meter Torre d'Arnolfo tower stretching skyward with David statue fresh installation at base authentic crowd naturally gathered, real ochre-yellow stucco buildings with grey pietra serena stone flanking narrow medieval streets showing period-accurate weathering, genuine Renaissance Florentines in precise 1504 fashion filling vertical frame - women in velvet gowns with high waists square necklines slashed sleeves showing white chemise pearl nets in elaborate hair, men in fitted doublets over bicolor hose with flat felt hats all showing realistic wear from actual use, citizens conducting real Renaissance business naturally - merchants artisans nobles clergy all behaving completely naturally engaged in genuine 1504 daily activities, natural golden hour Tuscan sunlight flowing through vertical composition with authentic Renaissance atmospheric conditions - dust from unpaved areas marble dust from sculpture workshops smoke from cooking fires, authentic pre-industrial air creating warm glow, cobblestone streets in foreground with realistic uneven wear, tall Renaissance architecture rising through mid-frame, beautiful peachy-pink Tuscan sky at top of vertical frame, every single detail absolutely historically accurate to 1504 with no anachronisms whatsoever, candid documentary photography capturing real historical moment as time travel tourist filming vertically, immersive first-person perspective making viewer feel actually present in Renaissance Florence, 8K ultra-detailed photorealistic documentation throughout vertical frame showing genuine fabric weaves stone textures architectural details all captured with documentary precision, natural photographic realism not artistic rendering or reconstruction, this is actual time travel photography of real Renaissance Florence as it truly existed captured vertically for modern Stories format, living breathing historically accurate 1504",
+  
+  "alternative_prompts": {
+    "option_1_vertical_street": "Time travel Stories, 9:16 vertical, photorealistic, authentic Renaissance Florence street 1504, real citizens in period dress, Duomo towering above, natural behavior, modern vertical capture historical subject, 8K documentary, absolute accuracy",
+    
+    "option_2_david_vertical": "Ultra-realistic time travel, 9:16 vertical, David statue installation genuine crowd 1504, Palazzo tower reaching skyward, candid capture, vertical smartphone aesthetic, photorealistic, historically perfect",
+    
+    "option_3_workshop_vertical": "Authentic time travel photo, 9:16 vertical Stories, Leonardo's workshop looking toward tall windows, real artistic process, genuine apprentices, natural light, photorealistic vertical candid, 8K detail, absolute historical accuracy"
+  },
+  
+  "usage_notes": {
+    "for_midjourney": "Use complete_prompt_string with --ar 9:16 --style raw --v 6 --q 2, heavily emphasize 'photorealistic' 'vertical smartphone' 'documentary'",
+    "stories_tips": [
+      "Export at 1080x1920px minimum, 2160x3840px premium",
+      "Vertical format perfect for immersive time travel POV",
+      "Document Renaissance like actually filming with phone in past",
+      "Position key elements within safe zones for UI",
+      "Candid natural moments create authentic feeling"
+    ]
+  },
+  
+  "instagram_caption_suggestions": [
+    "POV: You're actually walking through Florence in 1504 📱🏛️",
+    "Just filmed this in Renaissance Florence! 🎥 Real time travel",
+    "My vertical footage from 1504 ✨ This is what it really looked like",
+    "Time travel Stories: Documenting actual Renaissance life 📸",
+    "Captured this moment in real 1504 Florence 🏛️ #TimeTravel",
+    "What it's like to actually be there 🌅 Renaissance authenticity"
+  ],
+  
+  "hashtag_suggestions": [
+    "#TimeTravel",
+    "#Florence1504",
+    "#InstagramStories",
+    "#Reels",
+    "#RealHistory",
+    "#TimeTravelPhotography",
+    "#AuthenticPast",
+    "#Renaissance",
+    "#LeonardoDaVinci",
+    "#DocumentaryPhotography",
+    "#VerticalVideo",
+    "#LivingHistory",
+    "#HistoricalAccuracy",
+    "#ActualPast",
+    "#TimeTourist",
+    "#RenaissanceFlorence"
+  ]
+}
+

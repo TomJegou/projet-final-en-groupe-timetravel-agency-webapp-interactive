@@ -1,0 +1,256 @@
+{
+  "prompt_config": {
+    "aspect_ratio": "9:16",
+    "orientation": "vertical",
+    "format": "Instagram Stories/Reels, TikTok optimized",
+    "scene_type": "Vintage French poster design with night scene illustration",
+    "theme": "Paris 1889 - Exposition Universelle by Night",
+    "style": "Impressionist realism with autochrome photography texture",
+    "quality": "8K ultra-detailed, cinematic camera quality",
+    "text_overlay": "HÉRO as main poster title in Art Nouveau typography"
+  },
+  "main_prompt": "A stunning vintage French poster design in Belle Époque style, 9:16 vertical portrait format, 8K ultra-detailed quality, featuring 'HÉRO' as the large prominent title text in ornamental Art Nouveau typography at the top, main illustration showing a dramatic vertical night view of Paris 1889 during the Exposition Universelle, the majestic newly inaugurated Eiffel Tower painted in Rouge Venise (dark reddish-brown) dramatically illuminated by electric arc lights with cold blue-white glow towering from bottom to top of frame, Belle Époque crowd in period-accurate evening fashion on bustling cobblestone streets in foreground, Haussmannian buildings with cream limestone and grey-blue zinc roofs flanking the sides, volumetric lighting with warm gaslight contrasting cold electric arc lights, morning fog over the Seine, steam and coal smoke atmosphere, vertical poster composition in the style of Jules Chéret or Toulouse-Lautrec, decorative borders or flourishes, impressionist realism illustration, 8K ultra sharp detail, professional poster design optimized for Stories and Reels",
+  
+  "composition_notes": {
+    "stories_reels_optimization": "Vertical 9:16 format perfect for immersive storytelling, emphasizes height and verticality of Eiffel Tower, creates sense of awe and scale, poster title at top for Stories/Reels UI compatibility",
+    "poster_layout": "Title 'HÉRO' positioned prominently at top of vertical composition, main illustration flowing vertically below showing the towering Eiffel Tower and Paris night scene",
+    "framing_suggestions": [
+      "Option 1: Title 'HÉRO' at top, ground-level perspective looking up at the full Eiffel Tower in Rouge Venise, Belle Époque crowd in foreground, dramatic vertical emphasis",
+      "Option 2: Title 'HÉRO' at top, mid-level view showing layered depth - foreground crowd, mid-ground Galerie des Machines, background Eiffel Tower",
+      "Option 3: Title 'HÉRO' at top, atmospheric low-angle shot through steam and fog, Tower emerging majestically from mist, gaslight-lit cobblestone street in foreground",
+      "Option 4: Title 'HÉRO' centered in upper third, symmetrical vertical composition with Tower centered, flanked by buildings, crowd at bottom"
+    ],
+    "mobile_viewing": "Optimized for full-screen vertical mobile viewing, immersive poster experience, dramatic perspective",
+    "safe_zones": "Title 'HÉRO' positioned to avoid top UI elements (~250px safe zone), important crowd elements above bottom UI zone (~310px)"
+  },
+  
+  "detailed_elements": {
+    "architecture": {
+      "eiffel_tower_night": "Newly built Eiffel Tower painted in Rouge Venise (dark red-brown color), gradient paint from dark at top to lighter at base, dramatically illuminated by powerful electric arc lights creating stark blue-white beams cutting through the night, iron lattice structure casting intricate shadows, towering majestically in vertical composition, emphasizing its impressive 300-meter height, central focal point dominating the vertical frame, ultra-detailed metalwork visible in 8K quality",
+      "galerie_des_machines_night": "Massive industrial cathedral with blue-grey steel framework, enormous glass vault glowing from within with warm electric light, luminous architectural jewel in the night, positioned in mid-ground of vertical composition",
+      "haussmannian_buildings_night": "Cream-colored limestone buildings with grey-blue zinc mansard roofs flanking the vertical composition, windows warmly lit from within creating tapestry of golden rectangles, ornate wrought-iron balconies casting shadows, creating depth and framing the vertical format",
+      "street_furniture_night": "Wet cobblestones in foreground reflecting gaslight like liquid gold, green Morris columns illuminated with warm glow, newspaper kiosks with lanterns, ornate gas street lamps creating pools of warm yellow light with visible volumetric rays in fog"
+    },
+    
+    "fashion_1889": {
+      "women_night": "Ladies in Belle Époque S-silhouette dresses, tightly corseted waists, long flowing evening gowns in dark rich colors, elaborate hats adorned with feathers and flowers, some carrying small lanterns or illuminated parasols, silhouettes backlit by gaslight, ultra-detailed fabric textures and lace patterns, positioned in foreground for character and scale",
+      "men_night": "Gentlemen in dark three-piece suits and evening frock coats, obligatory hats (top hats for bourgeoisie catching light, bowler hats for workers), handlebar mustaches or full beards, some smoking pipes or cigars with visible smoke, carrying canes, ultra-detailed period clothing",
+      "crowd_night": "Mixed social classes enjoying the illuminated Exposition, well-dressed bourgeoisie, workers in evening attire, crowds creating depth and storytelling element, human scale contrast with monumental architecture, authentic 1889 fashion accuracy, 8K detailed faces and expressions"
+    },
+    
+    "night_lighting": {
+      "electric_lights": "Revolutionary electric arc lights with cold blue-white illumination on the Eiffel Tower and Exposition buildings, harsh modern technological lighting creating dramatic contrasts, visible light beams in fog, searchlights sweeping upward",
+      "gaslight": "Warm golden-yellow flickering gaslight illuminating foreground streets, soft romantic glow from street lamps in lower third of composition, creating intimate pools of warm light, visible flames through glass lamp covers, volumetric god rays in fog",
+      "interior_lights": "Warm candlelight and early electric bulbs glowing from windows in mid-ground, storefronts lit with gas lamps, café windows casting warm amber light onto cobblestones, Galerie des Machines glowing from within",
+      "reflections": "All lights reflecting on wet cobblestones in foreground creating mirror-like surfaces, puddles reflecting gaslight and electric glow, ultra-detailed light caustics and reflections",
+      "contrast": "Dramatic chiaroscuro between brightly lit areas and deep shadows, the revolutionary contrast between warm traditional gaslight in foreground and cold modern electric light on Tower above",
+      "atmospheric_effects": "Dense night fog with volumetric lighting, visible light beams cutting through steam and mist, coal smoke rising vertically through the frame, creating depth layers, moonlight subtly illuminating fog in upper portion",
+      "vertical_lighting": "Layered lighting from bottom (warm gaslight) through middle (mixed) to top (cool electric on Tower), creating dramatic vertical journey through the poster",
+      "stories_optimization": "Balanced exposure for mobile viewing in various lighting conditions, dramatic but visible on small screens"
+    },
+    
+    "color_palette_night": {
+      "dominant_colors": ["deep midnight blue", "warm golden gaslight yellow", "cold electric blue-white", "Rouge Venise (deep red-brown on Tower)", "shadows in prussian blue and violet", "warm amber window light", "zinc grey roofs", "bottle green Morris columns"],
+      "color_description": "Rich nocturnal palette dominated by the contrast between warm golden gaslight and cold blue-white electric illumination, deep shadows with subtle color variation, Rouge Venise Tower dramatically lit, Stories/Reels-friendly yet historically accurate",
+      "vertical_gradient": "Natural gradient from darker cobblestones at bottom through mid-tones to dramatic Tower at top, guiding the eye upward through the vertical poster",
+      "social_media_appeal": "Rich vintage poster tones that capture attention in fast-scrolling Stories and Reels feeds, nostalgic cinematic aesthetic with high contrast for mobile impact"
+    },
+    
+    "text_integration": {
+      "hero_text": "The word 'HÉRO' as the main poster title at top of vertical composition, designed like a vintage 1889 French theatrical or exhibition poster",
+      "poster_design": "Vertical Belle Époque poster composition with 'HÉRO' as the prominent title text at the top, following the style of Jules Chéret, Toulouse-Lautrec, or Exposition Universelle official posters adapted to 9:16 format",
+      "layout_style": "Classic French poster composition adapted to vertical Stories/Reels format with large ornamental title 'HÉRO' in Art Nouveau decorative typography at top, the Paris 1889 night scene serving as the poster's main illustration flowing vertically below",
+      "typography_style": "Bold Art Nouveau or Victorian decorative lettering for 'HÉRO', large and prominent as poster title, elegant serifs or ornamental flourishes, typical of 1889 French poster art, sized for mobile viewing",
+      "poster_elements": [
+        "Large title 'HÉRO' at top in ornamental typography (within safe zone)",
+        "Main illustration: Vertical Paris 1889 night scene with towering illuminated Eiffel Tower",
+        "Optional: Decorative borders, flourishes, or frame typical of Belle Époque posters adapted to vertical format",
+        "Optional: Subtle period-appropriate subtitle or text elements",
+        "Overall composition balanced as a vertical theatrical or exhibition poster for Stories/Reels"
+      ],
+      "color_hierarchy": "Title 'HÉRO' should be visually prominent through color contrast, possibly in warm golden tones, white, or red against the darker night scene background, ensuring visibility on mobile screens",
+      "poster_references": "Style of Jules Chéret theatrical posters, Toulouse-Lautrec Moulin Rouge posters, 1889 Exposition Universelle official posters, Art Nouveau decorative poster art"
+    },
+    
+    "visual_texture": {
+      "8k_detail": "Ultra-sharp 8K resolution with extreme detail in architecture, fashion, cobblestone texture, fabric weaves, iron lattice patterns, individual gas lamp flames, water droplet reflections",
+      "film_grain": "Subtle cinematic film grain appropriate for vintage poster aesthetic, maintaining 8K sharpness while adding organic texture",
+      "vignetting": "Subtle vignette effect on edges, slightly stronger at top and bottom for cinematic poster feel",
+      "finish": "Hyper-realistic 8K quality with impressionist realism artistic direction, autochrome photography aesthetic translated to poster design, professional vintage French poster look"
+    },
+    
+    "camera_specifications": {
+      "quality": "8K ultra-detailed, professional cinema camera quality",
+      "resolution": "2160x3840 pixels (4K vertical) or 4320x7680 pixels (8K vertical)",
+      "detail_level": "Hyper-realistic, extreme detail in every element, razor-sharp focus across the frame",
+      "depth_of_field": "Deep focus with everything in sharp detail from foreground to background, or subtle cinematic depth of field",
+      "lens_character": "Professional cinema lens quality, minimal distortion, high contrast, excellent sharpness",
+      "dynamic_range": "High dynamic range capturing detail in both deep shadows and bright electric lights"
+    }
+  },
+  
+  "negative_prompt": "modern clothing, contemporary fashion, cars, automobiles, modern buildings, skyscrapers, neon signs, plastic materials, oversaturated colors, bronze Eiffel Tower, wrong historical period, Victorian England fashion, anachronistic elements, modern digital typography, helvetica font, sans-serif modern fonts, minimalist modern design, photoshop overlay text, modern graphic design, daytime, bright sunlight, LED lights, fluorescent lights, modern street lights, smartphone screens, 21st century elements, low resolution, blurry, soft focus, poor quality, jpeg artifacts, modern photography, clean modern aesthetic, contemporary poster design, digital art style, 3D text effects, horizontal composition, wide panorama, landscape orientation",
+  
+  "style_keywords": [
+    "Vintage French poster",
+    "Belle Époque poster design",
+    "Jules Chéret poster style",
+    "Toulouse-Lautrec poster",
+    "Art Nouveau typography",
+    "1889 theatrical poster",
+    "Exposition Universelle poster",
+    "Decorative poster title",
+    "Ornamental lettering",
+    "French poster art",
+    "Vertical poster composition",
+    "1889 Paris night scene",
+    "Exposition Universelle by night",
+    "Belle Époque nocturne",
+    "Gaslight era night",
+    "Electric light revolution",
+    "Industrial Revolution night",
+    "Impressionist realism illustration",
+    "Gustave Caillebotte nocturne style",
+    "Jean Béraud night scene",
+    "Autochrome aesthetic",
+    "Victorian era France night",
+    "Historical accuracy",
+    "Period-correct fashion",
+    "Night cobblestone reflections",
+    "Volumetric fog lighting",
+    "Atmospheric night scene",
+    "Vintage poster colors",
+    "Portrait orientation",
+    "Stories aesthetic",
+    "Dramatic perspective",
+    "Low angle shot",
+    "Towering architecture",
+    "8K ultra-detailed",
+    "Professional poster design",
+    "Dramatic chiaroscuro",
+    "Gaslight vs electric light",
+    "Decorative borders",
+    "Art Nouveau flourishes",
+    "Wet cobblestones reflections",
+    "Night atmospheric effects",
+    "Ultra sharp detail",
+    "Vintage poster aesthetic",
+    "Immersive storytelling"
+  ],
+  
+  "technical_parameters": {
+    "recommended_settings": {
+      "aspect_ratio": "9:16",
+      "resolution": "2160x3840 (4K vertical) or 4320x7680 (8K vertical)",
+      "quality": "maximum/ultra",
+      "detail_level": "ultra-high, extreme detail, 8K sharpness",
+      "style_strength": "high for historical accuracy and cinematic quality",
+      "stories_reels_specs": "Minimum 1080x1920px, recommended 1080x1920px or 2160x3840px for 4K",
+      "rendering_time": "Allow extended rendering time for 8K quality and ultra detail"
+    }
+  },
+  
+  "complete_prompt_string": "Vintage French Belle Époque poster design, 9:16 vertical portrait format for Instagram Stories and Reels, 8K ultra-detailed quality, large prominent decorative title 'HÉRO' in bold ornamental Art Nouveau typography at top of composition, main illustration showing dramatic vertical night view of Paris 1889 during Exposition Universelle, majestic newly inaugurated Eiffel Tower painted in Rouge Venise red-brown dramatically illuminated by powerful electric arc lights with cold blue-white glow towering from bottom to top of frame, Belle Époque crowd in authentic 1889 evening fashion in foreground on cobblestones, women in S-silhouette evening gowns with corseted waists wearing elaborate feathered hats and carrying lace parasols, men in three-piece evening suits and frock coats wearing top hats and bowler hats with handlebar mustaches, Haussmannian limestone buildings with zinc roofs and wrought-iron balconies flanking the vertical sides, warm yellow gaslight in foreground contrasting with cold blue-white electric arc lights illuminating the Tower above, foggy night atmosphere with vertical steam plumes and coal smoke, mist rising, green Morris columns, wet cobblestones reflecting lights like liquid gold, vertical poster composition in style of Jules Chéret or Toulouse-Lautrec theatrical posters, decorative borders or Art Nouveau flourishes framing vertical format, impressionist realism illustration style, autochrome aesthetic, rich vintage poster colors with deep blacks and brilliant highlights, industrial revolution atmosphere, historically accurate 1889 fashion and architecture, 8K razor-sharp ultra detail, dramatic chiaroscuro lighting, professional vintage French poster design, immersive vertical storytelling, bustling Belle Époque Paris night scene as poster artwork, Stories and Reels optimized composition, dramatic sense of scale and height",
+  
+  "alternative_prompts": {
+    "option_1_ground_level": "Vintage French poster, 9:16 vertical, large ornamental title 'HÉRO' in Art Nouveau typography at top, ground-level perspective looking up at Eiffel Tower in Rouge Venise dominating the vertical frame, Belle Époque crowd in evening fashion in foreground, cobblestones, warm gaslight vs cold electric lights on Tower, dramatic vertical emphasis, foggy atmospheric Paris 1889 night, steam rising, Haussmannian buildings flanking, decorative borders, Jules Chéret poster style, 8K ultra-detailed, Stories format",
+    
+    "option_2_layered_depth": "Belle Époque poster, 9:16 vertical, decorative title 'HÉRO' at top in bold Art Nouveau lettering, layered vertical composition, foreground: Belle Époque elegantly dressed evening crowd on cobblestones, mid-ground: massive blue-grey Galerie des Machines glass vault glowing, background: Rouge Venise Eiffel Tower with electric arc lights piercing night, warm gaslight to cold electric transition, vertical steam plumes, Toulouse-Lautrec style poster, vintage colors, 8K quality, Reels optimized",
+    
+    "option_3_atmospheric_fog": "1889 French theatrical poster, 9:16 vertical, 'HÉRO' as prominent title in elaborate decorative typography at top, atmospheric low-angle shot through dense fog and steam, Eiffel Tower Rouge Venise emerging majestically from mist above, gaslight-lit cobblestone street in foreground with Belle Époque silhouettes, women with parasols backlit, men in top hats, warm yellow light pools, cold blue electric glow on Tower, volumetric lighting, mysterious romantic atmosphere, decorative frame border, vintage poster palette, 8K ultra-detailed, immersive vertical storytelling",
+    
+    "option_4_symmetrical_vertical": "Elegant Belle Époque poster, 9:16 vertical, large refined title 'HÉRO' in sophisticated Art Nouveau typography at top, symmetrical vertical composition with Rouge Venise Eiffel Tower centered and illuminated dramatically, Haussmannian buildings flanking both sides creating vertical depth, gaslit street with Belle Époque evening figures in foreground, balanced decorative Art Nouveau elements, impressionist style illustration, rich vintage poster palette with gold accents and midnight blues, 8K detail, professional French poster design 1889, Stories/Reels square format"
+  },
+  
+  "usage_notes": {
+    "for_midjourney": "Use complete_prompt_string with --ar 9:16 --style raw --v 6 --quality 2 (for maximum detail)",
+    "for_stable_diffusion": "Use main_prompt + detailed_elements, add negative_prompt, use SDXL or SD3 for best quality, set dimensions to 1080x1920 or 2160x3840, enable high-res fix, use DPM++ sampler, high steps (50-80) for ultra detail",
+    "for_dalle": "DALL-E 3 can handle the complete_prompt_string, request highest quality and specify 8K ultra-detailed requirement, request portrait orientation",
+    "for_leonardo": "Use main_prompt with style_keywords, set aspect ratio to 9:16, use Alchemy V2 or PhotoReal for best quality, resolution 1080x1920 or higher",
+    "stories_reels_tips": [
+      "Export at 1080x1920px minimum for Instagram/Facebook Stories and Reels",
+      "Consider 2160x3840px for TikTok and premium quality",
+      "Test different perspective options (ground level vs layered depth)",
+      "Vertical format emphasizes the Tower's impressive height naturally",
+      "Position title 'HÉRO' within top safe zone (~250px) for UI elements",
+      "Keep important crowd elements above bottom safe zone (~310px)",
+      "Use dramatic perspective for more engaging storytelling",
+      "Fog and steam effects work beautifully in vertical format, adding depth",
+      "Title should be large enough to read on mobile but not overpower illustration"
+    ],
+    "rendering_tips": [
+      "8K vertical rendering requires significant computing power",
+      "May need to render at 4K (2160x3840) and upscale to 8K",
+      "Test different title placement within safe zones",
+      "Ensure Tower doesn't get cropped at top of frame",
+      "Night scenes with vertical composition create dramatic impact",
+      "Volumetric fog effects add realism but increase rendering complexity"
+    ]
+  },
+  
+  "animation_suggestions": {
+    "for_reels_tiktok": [
+      "Slow upward camera tilt from cobblestones to Tower top with 'HÉRO' title static at top (Ken Burns effect)",
+      "Subtle parallax effect with foreground crowd and background Tower",
+      "Animated steam and fog drifting upward through vertical frame",
+      "Flickering gaslight effect in foreground creating vintage feel",
+      "Gentle film grain animation for authentic vintage poster aesthetic",
+      "Fade in from sepia to full color revealing the Rouge Venise Tower",
+      "Title 'HÉRO' appears with elegant animation (fade in or decorative reveal)",
+      "Slow zoom in on Tower details while crowd remains in foreground"
+    ]
+  },
+  
+  "text_design_guidance": {
+    "typography_references": "Art Nouveau period (emerging in 1889), Victorian decorative typography, French Belle Époque poster art (Toulouse-Lautrec style), Jules Chéret poster typography, ornamental letterforms",
+    "vertical_format_considerations": "Title 'HÉRO' positioned at top of vertical composition within Stories/Reels safe zone, scaled appropriately for mobile viewing, prominent but allowing vertical illustration to flow below",
+    "avoiding_modern_look": "Ensure text appears as vintage poster title, not modern digital overlay, should have period-appropriate decorative style consistent with 1889 French poster art",
+    "color_contrast": "Use strong color contrast for 'HÉRO' title to ensure visibility on Stories/Reels mobile screens (gold, white, or warm tones against dark night background)",
+    "safe_zone_placement": "Position title within top ~14% of frame to avoid Stories UI elements, ensure decorative elements don't extend into UI zones"
+  },
+  
+  "poster_design_direction": {
+    "mood": "Dramatic, awe-inspiring, romantic, immersive, showcasing the moment when Paris embraced electric light and modernity while retaining gaslit romance, sense of wonder and technological revolution, theatrical and elegant, Stories/Reels-optimized for mobile impact",
+    "composition": "Classic Belle Époque poster layout adapted to vertical 9:16 Stories/Reels format with large decorative title 'HÉRO' as focal point at top within safe zone, dramatic vertical night panorama of Paris 1889 flowing below as main illustration, Tower emphasizing height and grandeur, balanced poster composition with optional decorative borders or Art Nouveau flourishes framing the vertical format",
+    "title_treatment": "'HÉRO' should be the dominant text element at top, large and bold in ornamental Art Nouveau typography, using color contrast (gold, white, or warm tones) to stand out against the darker night scene background, sized for optimal mobile readability",
+    "color_palette": "Rich vintage poster colors: deep midnight blues, warm golden gaslights in foreground, cold electric blue-whites on Tower, Rouge Venise red-brown Tower, maintaining Belle Époque poster aesthetic with jewel tones and dramatic contrasts, Stories/Reels-friendly saturation",
+    "poster_style": "Authentic 1889 French poster art style following Jules Chéret's theatrical posters or early Toulouse-Lautrec work, with decorative typography, elegant vertical composition, and impressionist illustration technique adapted to mobile Stories/Reels format",
+    "atmosphere": "Dense, atmospheric, mysterious yet inviting, the magic of Paris by night in the Belle Époque, steam and fog creating depth layers vertically, overall feeling of a vintage theatrical or exhibition poster optimized for immersive mobile storytelling",
+    "vertical_storytelling": "Use vertical composition to guide viewer's eye from foreground cobblestones and crowd upward through atmospheric layers to the towering illuminated Eiffel Tower, creating journey through gaslight era Paris into electric modernity"
+  },
+  
+  "instagram_caption_suggestions": [
+    "HÉRO ✨ Paris 1889 - Quand la nuit s'illumine de modernité",
+    "Voyage nocturne vertical dans le Paris de 1889 🌙 #HÉRO",
+    "HÉRO : Entre gaslight et électricité, Paris touche le ciel 🗼⚡",
+    "La Belle Époque by night - HÉRO ✨ Paris 1889",
+    "HÉRO - La Tour Eiffel Rouge Venise illumine les nuits parisiennes 🎨",
+    "Paris 1889 : HÉRO de la modernité s'élève vers l'avenir 🌙⚡"
+  ],
+  
+  "hashtag_suggestions": [
+    "#HÉRO",
+    "#Paris1889",
+    "#BelleÉpoque",
+    "#VintagePoster",
+    "#ArtNouveau",
+    "#TourEiffel",
+    "#EiffelTower",
+    "#InstagramStories",
+    "#Reels",
+    "#VintageAesthetic",
+    "#HistoricalParis",
+    "#ParisHistory",
+    "#ExpositionUniverselle",
+    "#GaslightEra",
+    "#VictorianFrance",
+    "#FrenchPoster",
+    "#PosterArt",
+    "#NightPhotography",
+    "#ParisJeTaime",
+    "#RougeVenise",
+    "#BelleEpoqueStyle",
+    "#VerticalVideo"
+  ]
+}
+

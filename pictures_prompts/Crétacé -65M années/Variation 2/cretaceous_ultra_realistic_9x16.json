@@ -1,0 +1,179 @@
+{
+  "prompt_config": {
+    "aspect_ratio": "9:16",
+    "orientation": "vertical",
+    "format": "Instagram Stories/Reels, TikTok - ultra-realistic",
+    "style": "Ultra-realistic photography - time travel tourism documentation",
+    "theme": "Late Cretaceous Period - Hell Creek Formation (~66 million years ago)",
+    "photography_style": "Hyper-realistic travel photography, as if captured by time travelers",
+    "quality": "8K photorealistic, actual photograph quality"
+  },
+  "main_prompt": "Ultra-realistic photograph captured by time travelers visiting the Late Cretaceous Period, 9:16 vertical portrait format, absolutely photorealistic quality as if shot with professional modern camera, massive Tyrannosaurus Rex with incredibly detailed thick scaly skin texture towering dramatically in vertical frame, every scale wrinkle and skin fold visible in extreme detail, Triceratops herd and prehistoric vegetation creating vertical depth, ground covered entirely with realistic ferns, ancient towering conifers emphasizing vertical scale, humid subtropical atmosphere with realistic heat haze, natural lighting showing real-world physics, professional DSLR camera shot with perfect focus and natural vertical depth of field, scientifically accurate dinosaur anatomy with realistic skin, muscle movement visible under hide, 8K ultra-sharp photorealistic detail, immersive vertical time travel vacation photography, every element looks tangibly real and photographable, Stories and Reels optimized photorealism",
+  
+  "composition_notes": {
+    "stories_reels_optimization": "Vertical 9:16 ultra-realistic format for immersive mobile viewing, photorealistic dinosaur photography emphasizing towering height and scale",
+    "vertical_storytelling": "Composition flows from foreground ground-level detail upward through dinosaurs to sky, creating photorealistic journey through Cretaceous",
+    "framing_options": [
+      "Option 1: Ground-level looking up at towering T-Rex filling vertical frame with hyper-detailed skin texture, ferns in sharp foreground",
+      "Option 2: Vertical ecosystem slice showing layered realism - foreground Triceratops, mid-ground forest, background volcano",
+      "Option 3: Giant Quetzalcoatlus standing showing full vertical giraffe-height with realistic texture detail",
+      "Option 4: Tall ancient conifers reaching up vertical frame with realistic bark, Edmontosaurus herd at base for scale"
+    ],
+    "mobile_realism": "Optimized for full-screen vertical mobile, ultra-realistic immersive prehistoric experience, looks like actual video still from time travel tour",
+    "safe_zones": "Key dinosaur elements positioned avoiding Stories UI, maintaining photorealistic impact"
+  },
+  
+  "detailed_elements": {
+    "ultra_realism_approach": {
+      "photography_concept": "Vertical photograph from time travel vacation, shot on modern smartphone or DSLR in portrait mode, completely photorealistic",
+      "texture_detail": "Hyper-detailed textures throughout vertical frame - dinosaur skin with individual scales catching light, plants with realistic leaf detail, mud and rock with actual particulate texture",
+      "lighting_physics": "Real-world natural lighting following physics throughout vertical composition, realistic shadows cast correctly, atmospheric scattering accurate",
+      "life_authenticity": "Dinosaurs look genuinely alive with realistic breathing movement, moist realistic eyes reflecting environment, nostril moisture, natural poses",
+      "vertical_tangibility": "Everything from ground-level ferns to sky looks physically real and photographable, museum diorama brought to life in vertical format"
+    },
+    
+    "dinosaur_species_realistic": {
+      "tyrannosaurus_rex_vertical": "Hyper-realistic T-Rex towering in vertical frame emphasizing massive 12-13m height, every scale individually detailed catching light, realistic thick scaly skin texture like crocodile scaled up, lips covering teeth (modern accuracy), realistic eyes with cornea shine and pupil dilation visible, nostril moisture, realistic muscle definition under hide creating natural bulk, battle scars and healed wounds showing life history, powerful legs with realistic joint articulation and muscle tension, tiny arms with functional realistic claws, brown-grey-olive earth tone realistic coloration with possible subtle display colors on head, realistic weight and presence",
+      "triceratops_vertical": "Ultra-realistic Triceratops positioned in mid-ground for scale, hyper-detailed bone texture on massive frill showing weathering scratches and realistic growth patterns, three horns with realistic growth rings and wear from use, thick hide with realistic elephant-like texture and armored scale patches, realistic eyes with herbivore awareness, realistic beak showing worn keratin edge from constant feeding, tank-like body with realistic weight and muscle distribution, earth tone coloration with possible vibrant display colors on frill rendered realistically, realistic dirt and mud on lower body and feet from environment",
+      "quetzalcoatlus_vertical": "Photorealistic giant pterosaur perfect for vertical composition, standing showing full giraffe-like height or captured in flight showing massive wingspan, realistic leathery wing membrane with visible blood vessel detail and realistic skin texture, realistic pycnofibers (fur-like covering) on body, long toothless beak with realistic keratin sheath and wear, realistic avian-reptilian eye with cornea shine, realistic joint articulation in wings and legs showing actual biomechanics, grey-brown realistic coloration, 10-11m wingspan creating impressive vertical scale",
+      "edmontosaurus_vertical": "Ultra-realistic hadrosaur herd in foreground or mid-ground, detailed scaly skin texture on every individual, broad duck-like beak with realistic worn keratin, realistic eyes showing herd animal awareness and communication, 12-13m length with realistic bulk and weight, peaceful natural grazing behavior captured authentically, brown-beige realistic coloration with subtle realistic patterns and variations, realistic dirt on feet and lower legs, visible muscle movement as they feed and walk"
+    },
+    
+    "prehistoric_vegetation_realistic_vertical": {
+      "ground_cover_foreground": "NO GRASS scientifically accurate, ground completely covered with hyper-realistic ferns visible in sharp foreground detail, every frond rendered showing realistic leaf texture venation and natural variations, some ferns showing realistic damage from herbivory, realistic moss patches, realistic muddy areas with actual soil texture and moisture levels visible",
+      "vertical_trees": "Tall ancient Araucaria (monkey puzzle) conifers emphasizing vertical composition with incredibly detailed realistic bark texture showing age weathering and natural growth patterns from ground to canopy, realistic needle clusters, ancient pines with realistic rough bark texture and evidence of sap, realistic height creating towering vertical presence",
+      "cycads_magnolias": "Short Cycads at ground level with realistic palm-like appearance and scientifically accurate structure, thick realistic trunk texture showing growth rings, early flowering Magnolia trees with realistic bark realistic large waxy leaves and realistic white or pink flowers with visible realistic stamens and petal texture with natural translucency",
+      "forest_floor_detail": "Realistic forest floor in foreground with fallen logs showing realistic decay and fungal growth, realistic leaf litter with actual decomposition stages, realistic mud with visible texture and moisture content, realistic rocks with lichen growth and weathering, realistic water puddles with surface tension and reflections",
+      "vertical_depth": "Vegetation creating realistic vertical depth layers from ground ferns through understory to canopy, all rendered with photorealistic detail appropriate to distance, realistic atmospheric perspective affecting color and detail at height"
+    },
+    
+    "camera_technical_realistic_vertical": {
+      "camera_simulation": "Shot with professional DSLR or mirrorless in vertical orientation (Canon EOS R5, Nikon Z9, Sony A1) or high-end smartphone in portrait mode, realistic modern camera characteristics",
+      "lens_characteristics": "Natural vertical lens rendering with realistic depth of field f/2.8-f/5.6 appropriate for vertical composition, realistic bokeh with natural falloff creating depth, realistic sharpness throughout focus plane",
+      "focus_realistic_vertical": "Vertical autofocus with main subject (dinosaur or foreground element) tack sharp showing perfect modern lens resolution throughout vertical frame, realistic focus falloff creating natural depth separation in vertical space",
+      "exposure_natural": "Realistic exposure for vertical format showing natural dynamic range from ground to sky, realistic highlight rolloff in sky, realistic shadow detail in foreground, exposed like professional vertical wildlife photography",
+      "vertical_composition_quality": "8K photorealistic vertical resolution, every detail sharp where in focus as if actually photographed in portrait orientation, realistic micro-contrast and detail rendition optimized for vertical mobile viewing",
+      "motion_capture": "If dinosaurs moving, realistic motion rendering - perfectly frozen if fast shutter or slight realistic motion blur if capturing walking/movement, realistic muscle flex under skin during movement"
+    },
+    
+    "color_palette_realistic_vertical": {
+      "natural_vertical_coloration": "Realistic earth-tone palette flowing through vertical frame - forest greens at various heights, earthy browns in ground and bark, slate greys in dinosaur skin, realistic muddy siennas at ground level",
+      "dinosaur_colors_realistic": "Scientifically plausible realistic coloration - base earth tones (brown, grey, olive, tan) for camouflage and thermoregulation, vibrant but realistic accent colors (reds, oranges, blues) on display features rendered like modern reptiles and birds, realistic iridescence if present, no fantasy colors",
+      "vertical_gradient": "Realistic color and light gradient from darker earthy foreground through lit mid-ground to lighter sky at top, following natural atmospheric behavior",
+      "atmospheric_colors_vertical": "Realistic sky colors at top of vertical frame - realistic blue with correct atmospheric scattering or realistic golden hour colors (warm peachy pinks, soft lavenders) if dawn/dusk, realistic subtle volcanic ash tint creating realistic grey-blue distance",
+      "stories_realism": "Colors optimized for mobile Stories viewing while maintaining complete photorealistic accuracy, no artificial enhancement, pure natural authentic coloration"
+    },
+    
+    "time_travel_tourism_aesthetic_vertical": {
+      "vacation_photography_vertical": "Vertical image captured by time travel agency client on prehistoric safari using smartphone or camera in portrait mode, professional travel photography style optimized for Stories/Reels",
+      "authentic_vertical_moment": "Captured authentic moment in vertical format - dinosaurs doing natural behaviors, environment completely real, as if photographer was actually present filming vertically for social media",
+      "tour_documentation": "Looks like actual vertical video still or photo from time travel tour, scientifically accurate enough for agency educational materials, realistic enough to show potential clients what they would actually see and photograph",
+      "immersive_vertical_realism": "Vertical format creates immersive first-person perspective making viewer feel like they're actually standing there photographing real dinosaurs with their phone, aspirational documentary realism",
+      "safety_perspective": "Shot from realistic safe observation distance appropriate for dangerous megafauna, vertical framing showing respect for wildlife while capturing impressive scale"
+    }
+  },
+  
+  "negative_prompt": "CGI look, rendered appearance, video game graphics, obvious 3D render, fake plastic texture, artificial smoothness, cartoon style, illustrated look, painting appearance, drawn elements, fantasy colors, neon colors, unrealistic saturation, modern animals, humans visible, contemporary elements, anachronistic dinosaurs, Jurassic species (Stegosaurus, Brachiosaurus), teeth showing from closed mouth (outdated), excessive feathering, grass on ground, modern plants, buildings, vehicles, modern technology, low resolution, blurry low quality, poor textures, uncanny valley, artificial lighting, studio lighting, unrealistic shadows, lens flares, HDR artifacts, over-processed look, filters, digital painting, concept art style, toy-like appearance, smooth featureless skin, incorrect anatomy, mixed time periods, flat 2D appearance, lack of depth, artificial bokeh, fake depth of field, horizontal composition, landscape orientation",
+  
+  "style_keywords": [
+    "Ultra-realistic photography",
+    "Photorealistic",
+    "Time travel tourism",
+    "Actual photograph",
+    "Vertical composition",
+    "Late Cretaceous",
+    "DSLR quality",
+    "Portrait orientation",
+    "Stories aesthetic",
+    "Reels optimized",
+    "Wildlife photography realism",
+    "Hyper-detailed textures",
+    "Scientifically accurate",
+    "Tyrannosaurus Rex realistic",
+    "Vertical depth of field",
+    "Natural lighting",
+    "8K photorealistic",
+    "Real-world physics",
+    "Living breathing dinosaurs",
+    "Travel photography",
+    "Mobile optimized",
+    "Immersive vertical",
+    "Museum quality alive",
+    "Tangible reality"
+  ],
+  
+  "technical_parameters": {
+    "recommended_settings": {
+      "aspect_ratio": "9:16",
+      "resolution": "2160x3840 (4K vertical) or 4320x7680 (8K vertical)",
+      "stories_reels_specs": "Minimum 1080x1920px, recommended 2160x3840px",
+      "quality": "maximum/ultra - photorealistic priority",
+      "realism_level": "Hyper-realistic, indistinguishable from actual photograph"
+    }
+  },
+  
+  "complete_prompt_string": "Ultra-realistic photograph captured by time travelers visiting Late Cretaceous Period Hell Creek Formation 66 million years ago, 9:16 vertical portrait format for Instagram Stories and Reels, absolutely photorealistic quality as if shot with professional modern DSLR or smartphone camera in portrait mode, massive Tyrannosaurus Rex with incredibly detailed thick scaly skin texture every individual scale visible catching light differently towering dramatically in vertical frame from ground upward emphasizing 12-13 meter height, realistic lips covering teeth (modern scientific accuracy), realistic eyes with cornea shine moisture and pupil dilation, nostril moisture visible, realistic muscle definition under thick hide showing natural bulk and power, battle scars and healed wounds showing real life history, powerful legs with realistic joint articulation, brown-grey-olive earth tone realistic coloration with possible subtle head display colors, OR Triceratops with hyper-realistic bone texture on massive frill showing weathering scratches and realistic growth patterns, three horns with realistic growth rings and wear, thick hide with realistic elephant-like texture and scaled patches, realistic herbivore eyes, realistic worn beak, tank-like body with realistic weight, earth tones with possible vibrant frill display colors rendered like real bird features, realistic mud on lower body, OR giant Quetzalcoatlus pterosaur standing showing full giraffe-like height in vertical frame or flying with massive wingspan, realistic leathery wing membranes with blood vessels, realistic pycnofibers, realistic beak, OR Edmontosaurus herd with realistic scaly skin and duck-like beaks grazing naturally, ground completely covered with hyper-realistic ferns with every frond detailed showing realistic leaf texture venation and natural variations NO GRASS scientifically accurate visible in sharp foreground, tall ancient Araucaria conifer trees and pines emphasizing vertical composition with incredibly detailed realistic bark texture from ground to canopy, realistic needle clusters, short Cycads at ground level with realistic trunk texture, early Magnolia trees with realistic bark and realistic white/pink flowers with visible stamens, realistic forest floor with fallen logs showing decay, realistic leaf litter, realistic mud with actual texture and moisture, humid subtropical atmosphere with realistic heat haze rising showing atmospheric refraction creating vertical depth layers, realistic atmospheric perspective from ground to sky, natural sunlight with realistic color temperature and shadows following real physics throughout vertical frame, realistic dust particles visible in light shafts, realistic water droplets on leaves from humidity, professional wildlife photography vertical depth of field with foreground or main dinosaur subject tack sharp showing perfect modern lens resolution, realistic background softness creating natural depth in vertical space, 8K ultra-sharp photorealistic detail throughout vertical composition, museum diorama quality but fully alive and breathing, scientifically accurate Hell Creek ecosystem, authentic Late Cretaceous fauna behavior captured naturally like real wildlife safari filmed vertically, immersive vertical time travel vacation photography aesthetic optimized for Stories and Reels, every element looks tangibly real and photographable as if this vertical moment actually exists and was captured on real camera, no CGI or rendered appearance, pure photographic reality, vertical mobile-optimized photorealism, first-person perspective making viewer feel present",
+  
+  "alternative_prompts": {
+    "option_1_trex_vertical_towering": "Ultra-realistic photograph, 9:16 vertical, ground-level perspective looking up at massive T-Rex towering in frame, hyper-detailed scaly skin every scale visible, realistic eyes with moisture, lips covering teeth, muscle definition, brown-grey earth tones, ferns in sharp foreground, natural lighting, DSLR quality vertical DOF, 8K photorealistic, time travel safari vertical photo, Stories optimized, scientifically accurate, looks like actual photograph",
+    
+    "option_2_ecosystem_vertical_slice": "Photorealistic image, 9:16 vertical, prehistoric ecosystem layers shown vertically, foreground: Triceratops with realistic bone texture on frill in fern prairie, mid-ground: tall ancient Araucaria conifers with realistic bark, background: volcanic peaks with realistic atmospheric haze, natural lighting with realistic vertical gradient, DSLR camera quality, realistic vertical depth of field, Hell Creek accuracy, 8K ultra-realistic vertical composition, time tourism photography for Reels",
+    
+    "option_3_pterosaur_vertical_height": "Ultra-realistic photograph, 9:16 vertical, giant Quetzalcoatlus standing on ground showing full impressive giraffe-like height filling vertical frame, realistic leathery skin and wing membrane texture detail, long realistic beak, prehistoric landscape with realistic ferns and ancient forest, natural atmospheric perspective, professional camera quality, realistic vertical depth, 8K photorealistic, Stories format, authentic Cretaceous as if actually photographed vertically, immersive mobile experience"
+  },
+  
+  "usage_notes": {
+    "for_midjourney": "Use complete_prompt_string with --ar 9:16 --style raw --v 6 --q 2, heavily emphasize 'photorealistic' 'photograph' 'camera'",
+    "for_stable_diffusion": "Use photorealistic models optimized for vertical (SDXL Realism), negative prompt crucial, may need vertical-optimized settings",
+    "for_dalle": "Complete_prompt_string with repeated 'photograph' and 'vertical portrait' emphasis",
+    "stories_reels_tips": [
+      "Export at 1080x1920px minimum, 2160x3840px for premium",
+      "Ultra-realistic vertical dinosaurs create immersive Stories experience",
+      "Photorealistic quality makes content highly shareable and engaging",
+      "Looks like actual vertical video stills from time travel tour",
+      "Position key elements within safe zones for UI",
+      "Test on mobile screen for optimal vertical realism impact"
+    ]
+  },
+  
+  "animation_suggestions": {
+    "for_reels_tiktok": [
+      "Slow vertical tilt from foreground ferns up to towering T-Rex maintaining photorealistic quality",
+      "Subtle parallax with foreground dinosaur and background maintaining ultra-realistic depth",
+      "Slow zoom emphasizing photorealistic scale and texture detail",
+      "Realistic slow-motion of dinosaur movement with accurate physics",
+      "Focus pull from foreground to background maintaining photorealism throughout",
+      "Vertical pan showing ecosystem layers with consistent ultra-realistic rendering"
+    ]
+  },
+  
+  "instagram_caption_suggestions": [
+    "POV: You're actually there 66 million years ago 🦖📱 #TimeTravel",
+    "Just casually photographing a T-Rex on my phone 📸🦖",
+    "My vertical vacation photos from the Cretaceous 🌍 #Real",
+    "This is what you'll film on our time travel tour 🎥🦕",
+    "Actual footage from the Late Cretaceous 🦖✨ #NotCGI",
+    "Time travel agency: We promise real dinosaurs 📸🦖"
+  ],
+  
+  "hashtag_suggestions": [
+    "#TimeTravel",
+    "#Cretaceous",
+    "#Dinosaurs",
+    "#TRex",
+    "#RealDinosaurs",
+    "#PrehistoricSafari",
+    "#TimeTravelAgency",
+    "#InstagramStories",
+    "#Reels",
+    "#VerticalVideo",
+    "#Photorealistic",
+    "#UltraRealistic",
+    "#DinosaurPhotography",
+    "#TravelReels",
+    "#PrehistoricPlanet",
+    "#NotCGI",
+    "#ActualPhotograph"
+  ]
+}
+

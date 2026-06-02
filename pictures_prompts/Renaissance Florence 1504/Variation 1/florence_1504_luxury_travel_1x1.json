@@ -1,0 +1,126 @@
+{
+  "prompt_config": {
+    "aspect_ratio": "1:1",
+    "orientation": "square",
+    "format": "Instagram optimized",
+    "style": "Cinematic luxury travel photography",
+    "theme": "Renaissance Florence 1504 - Cradle of the Renaissance",
+    "photography_style": "National Geographic quality, historical documentary style",
+    "quality": "8K ultra detailed, medium format camera",
+    "artistic_influence": "Leonardo da Vinci sfumato, Botticelli elegance"
+  },
+  "main_prompt": "Cinematic travel photography of Renaissance Florence 1504, 1:1 square format for Instagram, luxury campaign style, golden hour Tuscan lighting, the magnificent Duomo with Brunelleschi's dome in red terracotta and polychrome marble centered majestically, or Palazzo Vecchio with David statue, elegant Renaissance citizens in 1504 fashion, women in velvet gowns with slashed sleeves, men in doublets and hose, ochre-yellow buildings with pietra serena stone, professional color grading with Tuscan palette, shot on medium format camera with beautiful depth of field, Leonardo sfumato atmospheric perspective, National Geographic quality, aspirational cultural mood, authentic historical accuracy, vibrant Renaissance colors, 8K ultra detailed, square composition perfect for Instagram, luxury cultural travel aesthetic",
+  
+  "composition_notes": {
+    "instagram_optimization": "Square 1:1 format for maximum Instagram impact, centered Renaissance architecture or portrait-style figures in period costume",
+    "framing_options": [
+      "Option 1: Duomo with Brunelleschi's dome centered vertically, Renaissance figures in foreground, architectural masterpiece",
+      "Option 2: Piazza della Signoria with Palazzo Vecchio and David statue, balanced square composition",
+      "Option 3: Close Renaissance portrait-style of elegant woman in 1504 velvet gown with Florence architecture behind",
+      "Option 4: Ponte Vecchio bridge symmetrically framed with Arno river and medieval shops"
+    ]
+  },
+  
+  "detailed_elements": {
+    "architecture_square": {
+      "duomo": "Magnificent dome in red terracotta tiles, polychrome marble facade (white, green, pink), perfect for centered square composition",
+      "palazzo_vecchio": "Crenellated ochre-brown fortress with tall tower, David statue at entrance, imposing presence",
+      "typical_buildings": "Ochre-yellow stucco buildings, pietra serena grey stone details, terracotta roofs, Renaissance proportions"
+    },
+    
+    "fashion_1504": {
+      "women": "Rich velvet gowns, high waist, square necklines, slashed sleeves with white chemise showing, elaborate embroidery, crimson red deep blue green golds, pearl nets in hair",
+      "men": "Fitted doublets, bicolor striped hose, flat felt hats, velvet bonnets, elegant Renaissance silhouette"
+    },
+    
+    "tuscan_colors": {
+      "palette": ["ochre yellow", "terra di Siena burnt", "crimson red", "olive green", "ultramarine blue", "terracotta", "grey pietra serena", "white marble", "golden light"],
+      "grading": "Renaissance oil painting aesthetic, warm golden tones, sophisticated earth palette"
+    },
+    
+    "golden_hour_square": {
+      "lighting": "Warm Tuscan golden hour, soft directional light, chiaroscuro contrast, atmospheric sfumato haze",
+      "atmosphere": "Dusty workshop air, marble dust, warm romantic glow, painterly quality"
+    }
+  },
+  
+  "negative_prompt": "modern elements, contemporary clothing, cars, modern buildings, anachronistic architecture, baroque, incorrect fashion, gothic only, harsh flash, flat lighting, oversaturated digital, wrong period, plastic, modern tourism, incorrect Duomo colors, modern Ponte Vecchio, grass in piazzas, modern lamps, power lines, graffiti, horizontal composition, stretched image",
+  
+  "style_keywords": [
+    "Cinematic travel photography",
+    "Luxury cultural travel",
+    "Renaissance Florence 1504",
+    "Square composition",
+    "Instagram aesthetic",
+    "Golden hour Tuscan",
+    "Leonardo sfumato",
+    "Botticelli style",
+    "Brunelleschi Dome",
+    "Palazzo Vecchio",
+    "David statue",
+    "Renaissance fashion",
+    "Velvet brocade",
+    "Tuscan palette",
+    "Pietra serena",
+    "Chiaroscuro",
+    "8K detailed",
+    "Cultural golden age"
+  ],
+  
+  "technical_parameters": {
+    "recommended_settings": {
+      "aspect_ratio": "1:1",
+      "resolution": "4320x4320 (8K square)",
+      "instagram_specs": "Minimum 1080x1080px",
+      "quality": "maximum/ultra"
+    }
+  },
+  
+  "complete_prompt_string": "Cinematic luxury travel photography of Renaissance Florence 1504, 1:1 square Instagram format, golden hour Tuscan lighting casting warm amber glow, magnificent Duomo of Santa Maria del Fiore with Brunelleschi's dome in red terracotta tiles and polychrome marble facade (white green pink) centered in composition, OR Palazzo Vecchio crenellated fortress with Michelangelo's David statue at entrance, elegant Renaissance citizens in authentic 1504 fashion, women in rich velvet gowns with high waists square necklines slashed sleeves showing white chemise, elaborate gold embroidery, crimson red deep blue forest green, pearl nets in elaborate hair, men in fitted doublets over bicolor striped hose with flat felt hats, ochre-yellow stucco buildings with pietra serena grey stone columns and arches, terracotta roofs, professional color grading with Tuscan Renaissance palette, ochre yellow terra di Siena crimson olive green ultramarine blue, shot on medium format camera with beautiful depth of field, Leonardo da Vinci sfumato soft atmospheric edges, chiaroscuro lighting, marble dust in air, warm golden painterly quality, National Geographic quality editorial, aspirational cultural mood, authentic historical accuracy, vibrant sophisticated Renaissance oil painting colors, 8K ultra detailed fabric textures and architectural details, square composition perfect for Instagram, luxury cultural travel aesthetic",
+  
+  "alternative_prompts": {
+    "option_1_duomo_square": "Luxury travel photography, 1:1 square, golden hour, Duomo with Brunelleschi's dome centered, red terracotta and marble, Renaissance figures in 1504 fashion foreground, Tuscan colors, medium format, sfumato style, National Geographic, 8K detailed, Instagram optimized",
+    
+    "option_2_david_square": "Cultural travel editorial, 1:1 square, Palazzo Vecchio with David statue, Renaissance crowd in velvet period costume, ochre architecture, golden light, Leonardo sfumato, Tuscan palette, aspirational mood, 8K ultra detailed, square Instagram format",
+    
+    "option_3_portrait_square": "High-end cultural photography, 1:1 square, Renaissance woman portrait in 1504 velvet gown with slashed sleeves, Florence architecture background, golden hour, chiaroscuro, Botticelli aesthetic, professional color grading, 8K detailed, Instagram perfect"
+  },
+  
+  "usage_notes": {
+    "for_midjourney": "Use complete_prompt_string with --ar 1:1 --style raw --v 6 --q 2",
+    "instagram_tips": [
+      "Export at 1080x1080px minimum, 2160x2160px for premium",
+      "Square format perfect for Renaissance architectural symmetry",
+      "Centered composition emphasizes Renaissance mathematical proportions",
+      "Cultural travel content highly shareable on Instagram"
+    ]
+  },
+  
+  "instagram_caption_suggestions": [
+    "Florence, 1504 ✨ When Renaissance art was being born #Florence #Renaissance",
+    "Golden hour in the cradle of the Renaissance 🎨 #Florence1504",
+    "Walking through a living masterpiece 🏛️ #TuscanGoldenHour",
+    "1504: Michelangelo's David just unveiled ✨ #RenaissanceFlorence",
+    "Time travel to the age of Leonardo and Michelangelo 🎨 #Florence",
+    "The Duomo at golden hour 🌅 Renaissance perfection"
+  ],
+  
+  "hashtag_suggestions": [
+    "#Florence1504",
+    "#Renaissance",
+    "#RenaissanceFlorence",
+    "#Firenze",
+    "#TravelItaly",
+    "#CulturalTravel",
+    "#HistoricalTravel",
+    "#LuxuryTravel",
+    "#Duomo",
+    "#BrunelleschiDome",
+    "#MichelangeloDavid",
+    "#LeonardoDaVinci",
+    "#TuscanLight",
+    "#ItalianRenaissance",
+    "#TimelessItaly"
+  ]
+}
+

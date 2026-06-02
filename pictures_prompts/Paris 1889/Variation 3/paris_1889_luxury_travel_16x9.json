@@ -1,0 +1,144 @@
+{
+  "prompt_config": {
+    "aspect_ratio": "16:9",
+    "orientation": "horizontal",
+    "style": "Cinematic luxury travel photography",
+    "theme": "Paris 1889 - Exposition Universelle",
+    "photography_style": "National Geographic quality, luxury campaign",
+    "quality": "8K ultra detailed, medium format camera"
+  },
+  "main_prompt": "Cinematic travel photography of Paris 1889 during the Exposition Universelle, 16:9 horizontal format, luxury campaign style, golden hour lighting casting warm amber glow across the scene, the newly inaugurated Eiffel Tower painted in Rouge Venise (dark reddish-brown) standing majestically against soft pastel sky, elegant Belle Époque crowds in period-accurate fashion strolling cobblestone streets, Haussmannian architecture with cream limestone facades bathed in golden light, the massive Galerie des Machines with blue-grey steel and glass catching sunset rays, professional color grading with rich warm tones and elegant saturation, shot on medium format camera with beautiful depth of field, foreground sharp with soft bokeh background, National Geographic quality editorial photography, aspirational mood evoking timeless elegance and adventure, vibrant but sophisticated colors, atmospheric haze creating depth, 8K ultra detailed, every architectural detail and fabric texture razor sharp, luxury travel editorial aesthetic",
+  
+  "detailed_elements": {
+    "time_period_specifics": {
+      "year": "1889",
+      "event": "Exposition Universelle de Paris",
+      "eiffel_tower": "Newly inaugurated Eiffel Tower in its original Rouge Venise paint (dark reddish-brown gradient), representing cutting-edge industrial achievement, iron lattice structure catching golden hour light with dramatic shadows and highlights",
+      "galerie_des_machines": "World's largest arched building, blue-grey steel and glass cathedral of industry, massive vault structure reflecting sunset, symbol of technological progress",
+      "architecture_style": "Haussmannian Paris at its peak, cream-colored limestone buildings with grey-blue zinc mansard roofs, ornate wrought-iron balconies, wide boulevards lined with trees",
+      "historical_context": "Peak of Belle Époque, industrial revolution meeting classical elegance, moment of optimism and modernity"
+    },
+    
+    "fashion_1889": {
+      "women": "Belle Époque elegance, S-silhouette dresses with corseted waists, long flowing skirts without large bustles, luxurious fabrics in jewel tones catching golden light, elaborate hats adorned with feathers and flowers, lace parasols, long gloves, sophisticated and refined",
+      "men": "Distinguished gentlemen in impeccable three-piece suits and frock coats, obligatory headwear (top hats for upper class, bowler hats for middle class), handlebar mustaches and well-groomed beards, canes and pocket watches, epitome of 1889 masculine elegance",
+      "children": "Period-appropriate children's fashion, girls in smaller versions of adult dresses, boys in sailor suits or short pants with jackets",
+      "social_classes": "Mix of well-dressed bourgeoisie and aristocracy visiting the Exposition, authentic 1889 fashion accuracy crucial for luxury editorial feel"
+    },
+    
+    "golden_hour_lighting": {
+      "time_of_day": "Golden hour, approximately one hour before sunset",
+      "light_quality": "Warm, soft, directional light with amber and golden tones, long shadows creating depth and drama",
+      "sky": "Soft pastel sky with warm peachy-pink and lavender tones, possibly light clouds catching golden light",
+      "atmospheric_haze": "Gentle atmospheric haze adding depth layers, slight volumetric quality to the light, romantic soft-focus distance",
+      "light_on_architecture": "Cream limestone buildings glowing warm golden-beige, zinc roofs reflecting soft blue-grey with golden highlights, iron structures creating dramatic shadow patterns",
+      "light_on_people": "Subjects beautifully backlit or side-lit with warm glow, fabric textures highlighted, faces naturally illuminated with soft shadows",
+      "reflections": "Cobblestones slightly damp reflecting golden light like brushed gold, Seine river in distance catching sunset shimmer"
+    },
+    
+    "color_palette": {
+      "dominant_colors": ["warm golden amber", "soft peachy sunset tones", "cream limestone beige", "Rouge Venise (reddish-brown Tower)", "grey-blue zinc", "jewel-tone fashion accents", "soft lavender sky", "warm shadows in sienna and umber"],
+      "color_grading_style": "Professional luxury campaign color grading, warm and inviting but sophisticated, slightly lifted shadows with rich blacks, creamy highlights, enhanced warm tones without oversaturation, elegant and timeless color palette",
+      "vibrance": "Vibrant but elegant colors, rich saturation in key elements (Tower, fashion, architecture) while maintaining natural sophistication, avoiding garish oversaturation",
+      "tonal_harmony": "Harmonious warm color palette unified by golden hour light, complementary cool accents in shadows and zinc roofs, professional color science"
+    },
+    
+    "camera_technical": {
+      "camera_type": "Medium format camera aesthetic (Hasselblad/Phase One quality)",
+      "sensor_characteristics": "Large sensor look with beautiful color depth, smooth tonal transitions, rich dynamic range",
+      "lens_quality": "Premium cinema lens rendering, edge-to-edge sharpness where in focus, beautiful circular bokeh",
+      "depth_of_field": "Carefully controlled shallow to medium depth of field, foreground subjects tack sharp, mid-ground detailed, background with elegant soft bokeh, creating dimensional cinematic look",
+      "focal_length_feel": "Medium focal length perspective (50-85mm equivalent), natural and flattering, slight compression adding cinematic quality",
+      "sharpness": "8K ultra detailed where in focus, every texture visible - fabric weaves, stone details, iron rivets, individual cobblestones",
+      "image_quality": "Clean, grain-free except for slight organic film-like texture at 100% zoom, professional editorial quality"
+    },
+    
+    "composition": {
+      "layout": "Cinematic 16:9 composition with strong visual hierarchy, rule of thirds, leading lines from architecture and streets",
+      "foreground": "Sharp detailed foreground with Belle Époque figures or architectural elements creating depth and human interest",
+      "midground": "Main subject matter - Eiffel Tower, Galerie des Machines, bustling Exposition grounds with period crowds",
+      "background": "Soft bokeh background with Haussmannian architecture, sky, creating atmospheric depth",
+      "depth_layers": "Multiple planes of focus creating cinematic three-dimensional feel, guiding viewer's eye through the scene",
+      "visual_storytelling": "Capturing the moment of Paris embracing modernity, sense of excitement and elegance, aspirational travel imagery"
+    },
+    
+    "mood_atmosphere": {
+      "aspirational": "Luxury travel editorial mood, making viewer want to experience this moment in history, evoking wanderlust",
+      "elegant": "Sophisticated and refined, high-end fashion campaign aesthetic meets National Geographic editorial",
+      "romantic": "Belle Époque romanticism, golden hour magic, timeless beauty of Paris",
+      "adventurous": "Sense of discovery and exploration, the excitement of the 1889 Exposition Universelle",
+      "nostalgic": "Beautifully capturing a lost era with modern photographic excellence",
+      "authentic": "Historically accurate while being visually stunning, respecting the period while creating aspirational imagery"
+    },
+    
+    "national_geographic_quality": {
+      "editorial_standards": "World-class photojournalism quality, technically perfect, emotionally compelling",
+      "storytelling": "Image tells a complete story about Paris 1889, cultural moment captured beautifully",
+      "technical_excellence": "Perfect exposure, focus, color, composition - print-ready quality for prestigious publication",
+      "cultural_authenticity": "Respectful and accurate representation of historical period, fashion, architecture",
+      "visual_impact": "Immediately captivating, worthy of magazine cover or luxury travel campaign"
+    }
+  },
+  
+  "negative_prompt": "modern elements, contemporary fashion, cars, automobiles, modern buildings, skyscrapers, plastic, neon signs, LED lights, smartphones, 21st century technology, bronze Eiffel Tower (should be Rouge Venise), incorrect historical period, Victorian England (this is France), anachronisms, harsh lighting, overcast grey sky, flat lighting, oversaturated colors, HDR look, amateur photography, low resolution, blurry, soft focus, poor composition, snapshot quality, digital filter look, Instagram filter, grain or noise (unless subtle film-like), lens distortion, wide angle distortion, cluttered composition, modern typography, contemporary advertising",
+  
+  "style_keywords": [
+    "Cinematic travel photography",
+    "Luxury campaign style",
+    "Belle Époque Paris 1889",
+    "Golden hour lighting",
+    "Professional color grading",
+    "Medium format camera aesthetic",
+    "Depth of field",
+    "Bokeh background",
+    "National Geographic quality",
+    "Editorial photography",
+    "Aspirational mood",
+    "Sophisticated elegance",
+    "Exposition Universelle 1889",
+    "Rouge Venise Eiffel Tower",
+    "Haussmannian architecture",
+    "Period-accurate fashion",
+    "Belle Époque elegance",
+    "Timeless beauty",
+    "Vibrant but elegant",
+    "8K ultra detailed",
+    "Luxury travel editorial",
+    "High-end photography",
+    "Professional photoshoot",
+    "Fashion campaign quality",
+    "Warm golden tones",
+    "Atmospheric depth",
+    "Cinematic composition",
+    "Premium image quality"
+  ],
+  
+  "technical_parameters": {
+    "recommended_settings": {
+      "aspect_ratio": "16:9",
+      "resolution": "7680x4320 (8K) or minimum 3840x2160 (4K)",
+      "quality": "maximum/ultra",
+      "detail_level": "8K ultra detailed, professional editorial quality",
+      "color_depth": "High bit depth for professional color grading",
+      "dynamic_range": "High dynamic range preserving highlight and shadow detail"
+    }
+  },
+  
+  "complete_prompt_string": "Cinematic luxury travel photography of Paris 1889 during the Exposition Universelle, 16:9 horizontal format, golden hour lighting casting warm amber glow across the scene, newly inaugurated Eiffel Tower painted in Rouge Venise dark reddish-brown standing majestically against soft pastel peachy-pink sky, elegant Belle Époque crowds in period-accurate 1889 fashion, women in S-silhouette dresses with corseted waists and elaborate feathered hats carrying lace parasols, men in impeccable three-piece suits and top hats with handlebar mustaches, strolling cobblestone streets bathed in golden light, Haussmannian architecture with cream limestone facades glowing warm in sunset, grey-blue zinc mansard roofs with ornate wrought-iron balconies, massive Galerie des Machines with blue-grey steel and glass vault catching golden rays, professional luxury campaign color grading with rich warm tones and elegant saturation, shot on medium format camera with beautiful shallow depth of field, foreground subjects tack sharp with soft bokeh background, atmospheric golden haze creating depth layers, National Geographic quality editorial photography, aspirational mood evoking timeless elegance and wanderlust, sophisticated composition with multiple planes of focus, vibrant but refined jewel-tone colors, every architectural detail and fabric texture ultra sharp in focus areas, 8K ultra detailed, luxury travel editorial aesthetic, technically perfect exposure and focus, culturally authentic historical accuracy, visually stunning and emotionally compelling",
+  
+  "alternative_prompts": {
+    "option_1_tower_focus": "Luxury travel photography, 16:9, golden hour, Rouge Venise Eiffel Tower as hero subject bathed in warm amber sunset light, elegant Belle Époque visitors in foreground sharp focus with period-accurate 1889 fashion, background soft bokeh, Haussmannian buildings glowing golden, professional color grading, medium format camera quality, National Geographic editorial, aspirational sophisticated mood, 8K ultra detailed, cinematic depth of field",
+    
+    "option_2_street_scene": "Cinematic travel editorial, 16:9, golden hour Paris 1889, Belle Époque elegantly dressed crowd on cobblestone boulevard in sharp focus, women in S-silhouette dresses with parasols, men in top hats and frock coats, Rouge Venise Eiffel Tower rising in soft bokeh background catching sunset glow, Haussmannian architecture flanking, luxury campaign color grading with warm golden tones, medium format aesthetic, aspirational mood, 8K detailed, National Geographic quality",
+    
+    "option_3_exposition_grounds": "High-end travel photography, 16:9, golden hour lighting, Exposition Universelle 1889 grounds with Galerie des Machines blue-grey steel and glass vault gleaming in sunset, Belle Époque crowd in period fashion exploring, Rouge Venise Eiffel Tower in background, atmospheric golden haze, professional color grading with vibrant elegant tones, shot on medium format camera with cinematic depth of field, National Geographic editorial quality, aspirational luxury mood, 8K ultra detailed, sophisticated composition"
+  },
+  
+  "usage_notes": {
+    "for_midjourney": "Use complete_prompt_string with --ar 16:9 --style raw --v 6 --q 2",
+    "for_stable_diffusion": "Use main_prompt + detailed_elements, include negative_prompt, use professional photography models, realistic rendering",
+    "for_dalle": "Use complete_prompt_string, emphasize photorealistic quality and historical accuracy",
+    "photography_references": "Study golden hour luxury travel campaigns from National Geographic, Condé Nast Traveler, high-end fashion campaigns shot on location, medium format photography aesthetics"
+  }
+}
+

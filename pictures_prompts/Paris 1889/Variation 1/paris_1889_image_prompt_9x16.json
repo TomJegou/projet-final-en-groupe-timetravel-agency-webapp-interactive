@@ -1,0 +1,169 @@
+{
+  "prompt_config": {
+    "aspect_ratio": "9:16",
+    "orientation": "vertical",
+    "format": "Instagram Stories/Reels, TikTok optimized",
+    "theme": "Paris 1889 - Exposition Universelle",
+    "style": "Impressionist realism with autochrome photography texture"
+  },
+  "main_prompt": "A stunning vertical composition of Paris 1889 during the Exposition Universelle, 9:16 portrait format, showcasing the majestic newly inaugurated Eiffel Tower painted in Rouge Venise (dark reddish-brown at summit with gradient) towering from bottom to top of frame, Belle Époque crowd in period-accurate fashion on bustling cobblestone streets in foreground, Haussmannian buildings with cream limestone and grey-blue zinc roofs flanking the sides, volumetric lighting with warm gaslight contrasting cold electric arc lights, morning fog over the Seine, steam and coal smoke atmosphere, impressionist realism style with photographic grain and slight vignetting, cinematic vertical storytelling composition",
+  
+  "composition_notes": {
+    "stories_reels_optimization": "Vertical 9:16 format perfect for immersive storytelling, emphasizes height and verticality of Eiffel Tower, creates sense of awe and scale",
+    "framing_suggestions": [
+      "Option 1: Ground-level perspective looking up at the full Eiffel Tower in Rouge Venise, Belle Époque crowd in foreground, dramatic vertical emphasis showing the tower's imposing height",
+      "Option 2: Mid-level view from a Haussmannian balcony looking down at the bustling street below with Tower rising majestically in the background",
+      "Option 3: Vertical slice of the Exposition grounds showing layered depth - foreground crowd, mid-ground Galerie des Machines, background Eiffel Tower",
+      "Option 4: Atmospheric low-angle shot through steam and fog, Tower emerging from mist, gaslight-lit cobblestone street in foreground"
+    ],
+    "mobile_viewing": "Optimized for full-screen vertical mobile viewing, immersive experience, dramatic perspective",
+    "safe_zones": "Keep important elements away from top and bottom edges where UI elements appear in Stories/Reels"
+  },
+  
+  "detailed_elements": {
+    "architecture": {
+      "eiffel_tower": "Newly built Eiffel Tower painted in Rouge Venise (dark red-brown color), gradient paint from dark at top to lighter at base, raw industrial modernity symbol, iron lattice structure clearly visible, towering majestically in vertical composition, emphasizing its impressive 300-meter height, central focal point dominating the frame",
+      "galerie_des_machines": "Massive industrial cathedral, blue-grey steel framework, enormous glass vault, largest arched building of the era, imposing architectural presence in mid-ground",
+      "haussmannian_buildings": "Cream-colored limestone buildings, grey-blue zinc mansard roofs, ornate wrought-iron balconies, classic Parisian architecture flanking the vertical composition, creating depth and framing",
+      "street_furniture": "Luisant cobblestones in foreground, green Morris columns with colorful posters, newspaper kiosks, gas street lamps casting warm glow, period-accurate urban details"
+    },
+    
+    "fashion_1889": {
+      "women": "Ladies in Belle Époque S-silhouette dresses, tightly corseted waists, long flowing skirts without large bustles, lace parasols catching light, elaborate hats adorned with feathers and flowers, long gloves, elegant posture, positioned in foreground for character and scale",
+      "men": "Gentlemen in dark three-piece suits and frock coats, obligatory hats (top hats for bourgeoisie, bowler hats or caps for workers), handlebar mustaches or full beards, formal Victorian gentleman style, canes and pocket watches",
+      "crowd": "Mixed social classes, well-dressed bourgeoisie visiting the Exposition, workers in rough vests and work blouses, authentic 1889 fashion accuracy, crowd creating depth and storytelling element, human scale contrast with monumental architecture"
+    },
+    
+    "color_palette": {
+      "dominant_colors": ["sepia tones", "zinc grey", "limestone beige", "brick red (Eiffel Tower)", "bottle green (urban furniture)", "warm gaslight yellow", "cold electric blue-white"],
+      "color_description": "Muted historical palette, sepia, grey zinc, stone beige, Rouge Venise brick red, bottle green, Stories/Reels-friendly yet historically accurate",
+      "vertical_gradient": "Natural gradient from darker cobblestones at bottom through mid-tones to lighter sky at top, guiding the eye upward",
+      "social_media_appeal": "Rich vintage tones that capture attention in fast-scrolling Stories and Reels feeds, nostalgic cinematic aesthetic"
+    },
+    
+    "visual_texture": {
+      "film_grain": "Light photographic grain simulating old film stock, more pronounced for Stories aesthetic",
+      "vignetting": "Subtle vignette effect on edges, slightly stronger at top and bottom for cinematic feel",
+      "finish": "Autochrome photography aesthetic with slightly grainy pastel tones, impressionist realism à la Gustave Caillebotte and Jean Béraud, enhanced for vertical mobile viewing"
+    },
+    
+    "lighting_atmosphere": {
+      "gaslight": "Warm yellow flickering gaslight illuminating foreground streets, soft golden glow creating intimacy, traditional lighting in lower third of composition",
+      "electric_light": "Cold blue-white electric arc lamps at the Exposition Universelle in mid-ground, harsh modern illumination on Tower, technological contrast",
+      "natural_light": "Foggy morning light, atmospheric haze, volumetric lighting through steam and coal smoke creating depth layers",
+      "atmospheric_effects": "Steam vapor rising vertically through the frame, coal smoke from trains and factories, mist over the Seine river in background, industrial revolution atmosphere with vertical smoke plumes",
+      "vertical_lighting": "Layered lighting from bottom (warm gaslight) through middle (mixed) to top (cool daylight), creating dramatic vertical journey",
+      "stories_optimization": "Balanced exposure for mobile viewing in various lighting conditions, dramatic but visible"
+    }
+  },
+  
+  "negative_prompt": "modern clothing, contemporary fashion, cars, automobiles, modern buildings, skyscrapers, neon signs, plastic materials, digital aesthetic, oversaturated colors, bronze Eiffel Tower, wrong historical period, Victorian England fashion, crinolines, large bustles, anachronistic elements, modern photography style, clean air, 21st century elements, horizontal composition, wide panorama, landscape orientation, smartphone in hands, selfie sticks, modern technology",
+  
+  "style_keywords": [
+    "1889 Paris",
+    "Exposition Universelle",
+    "Belle Époque",
+    "Industrial Revolution",
+    "Impressionist realism",
+    "Gustave Caillebotte style",
+    "Jean Béraud style",
+    "Autochrome photography",
+    "Gaslight era",
+    "Victorian era France",
+    "Historical accuracy",
+    "Period-correct fashion",
+    "Bustling cobblestone streets",
+    "Volumetric fog",
+    "Steam and smoke atmosphere",
+    "Sepia and zinc tones",
+    "Film grain texture",
+    "Vertical composition",
+    "Portrait orientation",
+    "Cinematic framing",
+    "Stories aesthetic",
+    "Dramatic perspective",
+    "Low angle shot",
+    "Towering architecture",
+    "Immersive storytelling"
+  ],
+  
+  "technical_parameters": {
+    "recommended_settings": {
+      "aspect_ratio": "9:16",
+      "quality": "high",
+      "style_strength": "medium-high for historical accuracy",
+      "detail_level": "high for architecture and fashion details",
+      "stories_reels_specs": "Minimum 1080x1920px, recommended 1080x1920px or 2160x3840px for 4K"
+    }
+  },
+  
+  "complete_prompt_string": "Dramatic vertical composition of Paris 1889 during Exposition Universelle, 9:16 portrait format, low-angle perspective showcasing the majestic newly inaugurated Eiffel Tower painted in Rouge Venise red-brown with gradient towering from bottom to top of frame, Belle Époque crowd in authentic 1889 fashion in foreground on cobblestones, women in S-silhouette dresses with corseted waists wearing elaborate feathered hats and carrying lace parasols, men in three-piece suits and frock coats wearing top hats and bowler hats with handlebar mustaches, Haussmannian limestone buildings with zinc roofs and wrought-iron balconies flanking the sides, warm yellow gaslight in foreground contrasting with cold blue-white electric arc lights illuminating the Tower, foggy morning atmosphere with vertical steam plumes and coal smoke, mist rising, green Morris columns, newspaper kiosks, sepia and zinc grey color palette with bottle green accents, impressionist realism style à la Gustave Caillebotte and Jean Béraud, autochrome photography texture with film grain and cinematic vignetting, industrial revolution atmosphere, historically accurate, immersive vertical storytelling, bustling Belle Époque Paris street scene, Stories and Reels optimized composition, dramatic sense of scale and height",
+  
+  "alternative_prompts": {
+    "option_1_ground_level": "9:16 vertical, ground-level perspective looking up at Eiffel Tower in Rouge Venise dominating the frame, Belle Époque crowd in period fashion in foreground, cobblestone street, warm gaslight vs cold electric lights on Tower, dramatic vertical emphasis, foggy atmospheric Paris 1889, steam rising, Haussmannian buildings flanking, impressionist realism, autochrome texture, cinematic storytelling",
+    
+    "option_2_balcony_view": "9:16 vertical, mid-level view from ornate Haussmannian balcony with wrought-iron railing in foreground, looking down at bustling Belle Époque street below, Eiffel Tower in Rouge Venise rising majestically in background, women with parasols and men in top hats, cobblestone reflections, gaslight glow, steam atmosphere, zinc roofs, sepia tones, impressionist realism, 1889 Paris, Stories format",
+    
+    "option_3_layered_depth": "9:16 vertical slice of Exposition grounds, layered composition, foreground: Belle Époque elegantly dressed crowd on cobblestones, mid-ground: massive blue-grey Galerie des Machines glass vault, background: Eiffel Tower Rouge Venise piercing fog, warm gaslight to cold electric light transition, steam plumes rising vertically, sepia palette, film grain, historically accurate 1889 Paris, immersive vertical storytelling",
+    
+    "option_4_atmospheric_fog": "9:16 vertical, atmospheric low-angle shot through dense fog and steam, Eiffel Tower Rouge Venise emerging majestically from mist, gaslight-lit cobblestone street in foreground with Belle Époque silhouettes, women with parasols backlit, men in top hats, warm yellow light pools, cold blue electric glow on Tower above, volumetric lighting, coal smoke, mysterious romantic atmosphere, 1889 Paris, impressionist realism, autochrome aesthetic, cinematic vertical composition"
+  },
+  
+  "usage_notes": {
+    "for_midjourney": "Use complete_prompt_string with --ar 9:16 --style raw --v 6",
+    "for_stable_diffusion": "Use main_prompt + detailed_elements sections, add negative_prompt, set dimensions to 768x1344 or 1080x1920",
+    "for_dalle": "Use complete_prompt_string or alternative_prompts options, DALL-E 3 handles complex descriptions well, request portrait orientation",
+    "for_leonardo": "Use main_prompt with style_keywords, set aspect ratio to 9:16, resolution 768x1344 or higher",
+    "stories_reels_tips": [
+      "Export at 1080x1920px minimum for Instagram/Facebook Stories and Reels",
+      "Consider 2160x3840px for TikTok and premium quality",
+      "Test different perspective options (ground level vs elevated view)",
+      "Vertical format emphasizes the Tower's impressive height naturally",
+      "Leave safe zones at top (~250px) and bottom (~310px) for UI elements",
+      "Use dramatic perspective for more engaging storytelling",
+      "Fog and steam effects work beautifully in vertical format, adding depth"
+    ]
+  },
+  
+  "animation_suggestions": {
+    "for_reels_tiktok": [
+      "Slow upward camera tilt from cobblestones to Tower top (Ken Burns effect)",
+      "Subtle parallax effect with foreground crowd and background Tower",
+      "Animated steam and fog drifting upward",
+      "Flickering gaslight effect in foreground",
+      "Gentle film grain animation for vintage feel",
+      "Fade in from sepia to full color (revealing the Rouge Venise Tower)",
+      "Slow zoom in on architectural details"
+    ]
+  },
+  
+  "instagram_caption_suggestions": [
+    "Paris, 1889 🗼 Quand la modernité touchait le ciel...",
+    "300 mètres de fer rouge vers le futur ⚡ #Paris1889 #BelleÉpoque",
+    "L'Exposition Universelle qui a changé Paris pour toujours ✨",
+    "Tour Eiffel Rouge Venise 🎨 Son premier visage, avant le bronze...",
+    "Entre vapeur et électricité : Paris bascule dans la modernité 🚂⚡",
+    "1889 : Le fer rencontre la pierre, le passé embrasse l'avenir 🏗️"
+  ],
+  
+  "hashtag_suggestions": [
+    "#Paris1889",
+    "#BelleÉpoque",
+    "#TourEiffel",
+    "#EiffelTower",
+    "#VintageAesthetic",
+    "#HistoricalParis",
+    "#ParisHistory",
+    "#ExpositionUniverselle",
+    "#GaslightEra",
+    "#VictorianFrance",
+    "#PeriodDrama",
+    "#HistoricalAccuracy",
+    "#1800s",
+    "#ParisJeTaime",
+    "#ArchitectureHistory",
+    "#IndustrialRevolution",
+    "#RougeVenise"
+  ]
+}
+

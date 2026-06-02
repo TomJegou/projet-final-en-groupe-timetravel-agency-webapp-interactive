@@ -1,0 +1,151 @@
+{
+  "prompt_config": {
+    "aspect_ratio": "1:1",
+    "orientation": "square",
+    "format": "Instagram optimized - ultra-realistic",
+    "style": "Ultra-realistic photography - time travel tourism documentation",
+    "theme": "Late Cretaceous Period - Hell Creek Formation (~66 million years ago)",
+    "photography_style": "Hyper-realistic travel photography, as if captured by time travelers",
+    "quality": "8K photorealistic, actual photograph quality"
+  },
+  "main_prompt": "Ultra-realistic photograph captured by time travelers visiting the Late Cretaceous Period, 1:1 square format for Instagram, absolutely photorealistic quality as if shot with professional modern camera, massive Tyrannosaurus Rex with incredibly detailed thick scaly skin texture centered in frame, every scale wrinkle and skin fold visible in extreme detail, OR Triceratops with hyper-realistic bone texture on frill and horns, ground covered entirely with realistic ferns, ancient trees with detailed bark texture, humid subtropical atmosphere with realistic heat haze, natural lighting showing real-world physics, professional DSLR camera shot with perfect focus and natural depth of field, scientifically accurate dinosaur anatomy with realistic skin, muscle movement visible under hide, 8K ultra-sharp photorealistic detail, time travel vacation photography aesthetic, square composition perfect for Instagram, every element looks tangibly real and photographable",
+  
+  "composition_notes": {
+    "instagram_optimization": "Square 1:1 ultra-realistic format for maximum Instagram impact, photorealistic dinosaur photography that looks like actual captured moment",
+    "framing_options": [
+      "Option 1: T-Rex portrait-style centered, hyper-detailed skin texture visible, realistic eyes with moisture, fern prairie background",
+      "Option 2: Triceratops head-on showing three horns and frill with realistic bone texture, facing camera dramatically",
+      "Option 3: Quetzalcoatlus standing showing full giraffe-like height with realistic leathery skin texture",
+      "Option 4: Edmontosaurus herd in fern prairie, realistic group behavior captured like wildlife photography"
+    ],
+    "realism_priority": "Every element must look like actual photograph, not CGI or render, thumb-stopping Instagram realism"
+  },
+  
+  "detailed_elements": {
+    "ultra_realism_approach": {
+      "photography_concept": "Looks like actual photograph from time travel vacation, professional DSLR quality, completely photorealistic",
+      "texture_detail": "Hyper-detailed textures - every dinosaur scale, skin pore, plant leaf vein, mud particle visible and realistic",
+      "lighting_physics": "Real-world natural lighting with accurate shadows, realistic skin subsurface scattering, true atmospheric effects",
+      "life_authenticity": "Dinosaurs look alive and breathing with realistic moist eyes, nostril moisture, subtle muscle movement",
+      "tangible_quality": "Everything looks like it could be touched and physically interacted with, museum quality brought to life"
+    },
+    
+    "dinosaur_species_realistic": {
+      "tyrannosaurus_rex": "Hyper-realistic T-Rex with every scale individually detailed, realistic thick scaly skin like modern crocodile scaled up, lips covering teeth (modern science), realistic eyes with cornea shine, nostril moisture, muscle definition under hide, battle scars, realistic brown-grey-olive coloration, 12-13m creating realistic massive presence",
+      "triceratops": "Ultra-realistic Triceratops with incredible bone texture detail on frill showing weathering and scratches, three horns with realistic growth rings, thick hide with realistic elephant-like and scaled texture mix, realistic eyes, realistic worn beak, tank-like realistic weight, earth tone coloration with possible vibrant display colors rendered realistically, realistic mud on body",
+      "quetzalcoatlus": "Photorealistic giant pterosaur with detailed leathery wing membrane showing blood vessels, realistic pycnofibers (fur-like), realistic keratin beak, giraffe-height on ground, realistic joint articulation, grey-brown realistic coloration",
+      "edmontosaurus": "Ultra-realistic hadrosaur with detailed scaly skin, realistic duck-like beak with worn keratin, realistic herd animal eyes, 12-13m with realistic bulk, natural grazing behavior, brown-beige realistic coloration with subtle patterns"
+    },
+    
+    "prehistoric_vegetation_realistic": {
+      "ground_cover": "NO GRASS - scientifically accurate, ground covered with hyper-realistic ferns every frond detailed showing realistic leaf texture, venation, natural damage, realistic moss, realistic mud texture",
+      "trees_ultra_detailed": "Ancient Araucaria with incredibly detailed realistic bark texture showing age and weathering, Cycads with realistic palm-like texture, Magnolia with realistic bark and realistic white/pink flowers with visible detailed stamens",
+      "environmental_details": "Realistic forest floor with fallen logs showing decay, realistic leaf litter, realistic mud with actual moisture, realistic rocks with lichen, realistic water puddles with surface tension"
+    },
+    
+    "camera_technical_realistic": {
+      "camera_simulation": "Professional DSLR or mirrorless (Canon EOS R5, Nikon Z9, Sony A1 quality), realistic camera characteristics",
+      "lens_characteristics": "Natural lens rendering with realistic depth of field f/2.8-f/5.6, realistic bokeh, natural sharpness",
+      "focus_realistic": "Main subject tack sharp with perfect modern lens resolution, realistic focus falloff creating natural depth for square composition",
+      "exposure_natural": "Realistic exposure with natural dynamic range, realistic highlight rolloff, realistic shadow detail, professional histogram",
+      "image_quality": "8K photorealistic resolution, clean modern sensor, minimal noise, natural photographic texture, looks like uncompressed RAW processed professionally"
+    },
+    
+    "color_palette_realistic": {
+      "natural_coloration": "Realistic earth tones - forest greens, earthy browns, slate greys, realistic muddy siennas",
+      "dinosaur_colors": "Scientifically plausible realistic colors - brown, grey, olive, tan base with vibrant but realistic accent colors on display features rendered like modern animals",
+      "instagram_appeal": "Colors pop in Instagram feeds while maintaining complete photorealistic accuracy and authenticity"
+    },
+    
+    "time_travel_tourism_aesthetic": {
+      "vacation_photography": "Captured by time travel agency client on prehistoric safari, professional travel photography style",
+      "authentic_moment": "Completely authentic unscripted moment, dinosaurs in natural behavior, looks like photographer was actually present",
+      "aspirational_realism": "Makes viewer believe they could visit and see this exact scene, looks like real destination photography"
+    }
+  },
+  
+  "negative_prompt": "CGI look, rendered appearance, video game graphics, 3D render, fake plastic texture, artificial smoothness, cartoon style, illustrated, painting, drawn, fantasy colors, neon colors, unrealistic saturation, modern animals, humans, contemporary elements, anachronistic dinosaurs, Jurassic species, teeth showing from closed mouth, excessive feathers, grass on ground, modern plants, buildings, vehicles, low resolution, blurry, poor textures, uncanny valley, artificial lighting, studio lighting, unrealistic shadows, lens flares, HDR artifacts, over-processed, filters, digital painting, concept art, toy-like, smooth featureless skin, incorrect anatomy, mixed time periods, flat 2D, lack of depth, artificial bokeh, horizontal composition, stretched image",
+  
+  "style_keywords": [
+    "Ultra-realistic photography",
+    "Photorealistic",
+    "Time travel tourism",
+    "Actual photograph",
+    "Late Cretaceous",
+    "DSLR quality",
+    "Wildlife photography realism",
+    "Hyper-detailed textures",
+    "Square composition",
+    "Instagram aesthetic",
+    "Scientifically accurate",
+    "Tyrannosaurus Rex realistic",
+    "Triceratops photorealistic",
+    "Realistic dinosaur skin",
+    "Natural depth of field",
+    "8K photorealistic",
+    "Real-world physics",
+    "Living breathing dinosaurs",
+    "Travel photography",
+    "Museum quality alive",
+    "Tangible reality"
+  ],
+  
+  "technical_parameters": {
+    "recommended_settings": {
+      "aspect_ratio": "1:1",
+      "resolution": "4320x4320 (8K square) for maximum detail",
+      "instagram_specs": "Minimum 1080x1080px",
+      "quality": "maximum/ultra - photorealistic priority",
+      "realism_level": "Hyper-realistic, indistinguishable from photograph"
+    }
+  },
+  
+  "complete_prompt_string": "Ultra-realistic photograph captured by time travelers visiting Late Cretaceous Period Hell Creek Formation, 1:1 square format for Instagram, absolutely photorealistic quality as if shot with professional DSLR camera (Canon EOS R5 quality), massive Tyrannosaurus Rex with incredibly detailed thick scaly skin texture every individual scale visible and catching light differently, realistic lips covering teeth (modern scientific accuracy), realistic eyes with cornea shine and moisture reflecting light, nostril moisture visible, realistic muscle definition under thick hide, battle scars showing real life history, brown-grey-olive earth tone realistic coloration creating authentic animal appearance, OR Triceratops with hyper-realistic bone texture on massive frill showing realistic weathering scratches and growth patterns, three horns with realistic growth rings and wear, thick hide with realistic elephant-like texture in areas and armored scales in others, realistic eyes showing herbivore awareness, realistic beak with worn keratin edge, tank-like body with realistic weight distribution, earth tones with possible vibrant display colors on frill rendered like real bird wattles, realistic dirt and mud on lower body, OR giant Quetzalcoatlus pterosaur standing showing giraffe-like height with realistic leathery wing membranes and detailed pycnofibers, ground completely covered with hyper-realistic ferns with every frond detailed showing realistic leaf texture venation and natural variations NO GRASS scientifically accurate, ancient Araucaria conifer trees with incredibly detailed realistic bark texture showing age and weathering, Cycads with realistic palm-like trunk texture, early Magnolia trees with realistic bark and realistic flowers, humid subtropical atmosphere with realistic heat haze showing atmospheric refraction, natural sunlight with realistic color temperature and shadows following real physics, realistic dust particles visible in light, professional wildlife photography depth of field with main subject tack sharp showing perfect modern lens resolution, realistic background softness creating natural depth in square composition, 8K ultra-sharp photorealistic detail, museum quality but fully alive and breathing, scientifically accurate Hell Creek fauna, authentic behavior captured naturally like real wildlife safari, time travel vacation photography aesthetic, square Instagram format, every element looks tangibly real and photographable as if actually exists, no CGI or rendered appearance, pure photographic reality, thumb-stopping Instagram realism",
+  
+  "alternative_prompts": {
+    "option_1_trex_portrait_square": "Ultra-realistic photograph, 1:1 square, T-Rex portrait centered with hyper-detailed scaly skin every scale visible, realistic moist eyes, lips covering teeth, muscle definition, brown-grey tones, fern background, natural sunlight, DSLR quality with realistic DOF, 8K photorealistic, time travel safari photo, Instagram format, looks like actual photograph",
+    
+    "option_2_triceratops_square": "Photorealistic image, 1:1 square Instagram, Triceratops head-on centered showing three horns and massive frill with realistic bone texture, realistic eye contact, ancient fern-covered environment, natural lighting, professional camera quality, realistic depth of field, Hell Creek accuracy, 8K ultra-realistic, time tourism photography",
+    
+    "option_3_pterosaur_square": "Ultra-realistic photograph, 1:1 square, giant Quetzalcoatlus standing on ground showing full giraffe height with realistic leathery skin and wing texture, prehistoric landscape with realistic ferns and ancient conifers, natural atmospheric haze, DSLR quality, realistic atmospheric perspective, 8K photorealistic, Instagram optimized, authentic Cretaceous as if actually photographed"
+  },
+  
+  "usage_notes": {
+    "for_midjourney": "Use complete_prompt_string with --ar 1:1 --style raw --v 6 --q 2, heavily emphasize 'photorealistic' and 'photograph'",
+    "for_stable_diffusion": "Use photorealistic models (SDXL Realism), negative prompt crucial for avoiding CGI look",
+    "for_dalle": "Complete_prompt_string with repeated 'photograph' and 'camera' emphasis",
+    "instagram_tips": [
+      "Export at minimum 1080x1080px, consider 2160x2160px",
+      "Ultra-realistic dinosaurs create strong engagement",
+      "Photorealistic quality makes content shareable and viral-worthy",
+      "Looks like actual time travel vacation photos"
+    ]
+  },
+  
+  "instagram_caption_suggestions": [
+    "Just got back from the Cretaceous! 📸🦖 #TimeTravel",
+    "66 million years ago: met the king in person 🦖✨",
+    "My vacation photos from the Late Cretaceous 🌍 #RealDinosaurs",
+    "Time travel agency delivered: actual T-Rex encounter 🦖",
+    "This is what you'll see on our Cretaceous tour 📸 #PrehistoricSafari",
+    "POV: You're on a time travel vacation to see real dinosaurs 🦕"
+  ],
+  
+  "hashtag_suggestions": [
+    "#TimeTravel",
+    "#Cretaceous",
+    "#Dinosaurs",
+    "#TRex",
+    "#RealDinosaurs",
+    "#PrehistoricSafari",
+    "#TimeTravelAgency",
+    "#DinosaurPhotography",
+    "#Photorealistic",
+    "#WildlifePhotography",
+    "#TravelPhotography",
+    "#VacationPhotos",
+    "#PrehistoricPlanet",
+    "#UltraRealistic"
+  ]
+}
+
