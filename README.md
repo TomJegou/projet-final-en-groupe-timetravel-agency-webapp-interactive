@@ -3,7 +3,7 @@
 > Webapp moderne et immersive mettant en scène l'agence **TimeTravel Agency** et ses 3 destinations historiques :
 > **Paris 1889**, **Crétacé (-65M années)** et **Renaissance Florence 1504**.
 
-**Auteur :** Tom JEGOU
+**Auteur :** Tom JEGOU - Tom SAILLARD - Kylian OGER - Louis ROUXELIN
 
 ---
 
